@@ -87,14 +87,14 @@ https://i.mjh.nz/nz/radio.or.6.m3u8
 #EXTINF:-1 tvg-id="radio.or.25" tvg-logo="https://i.mjh.nz/.images/radio.or.25.png" radio="true",George FM Manawatu
 https://i.mjh.nz/nz/radio.or.25.m3u8
 
-#EXTINF:-1 tvg-id="radio.ih.8668" tvg-logo="https://i.mjh.nz/.images/radio.ih.8668.png" radio="true",Gold
-https://i.mjh.nz/nz/radio.ih.8668
-
 #EXTINF:-1 tvg-id="radio.ih.8824" tvg-logo="https://i.mjh.nz/.images/radio.ih.8824.png" radio="true",Gold 105.4 Auckland
 https://i.mjh.nz/nz/radio.ih.8824
 
 #EXTINF:-1 tvg-id="radio.ih.8669" tvg-logo="https://i.mjh.nz/.images/radio.ih.8669.png" radio="true",Gold AM
 https://i.mjh.nz/nz/radio.ih.8669
+
+#EXTINF:-1 tvg-id="radio.ih.8668" tvg-logo="https://i.mjh.nz/.images/radio.ih.8668.png" radio="true",Gold FM
+https://i.mjh.nz/nz/radio.ih.8668
 
 #EXTINF:-1 tvg-id="radio.ih.7113" tvg-logo="https://i.mjh.nz/.images/radio.ih.7113.png" radio="true",Heads 106.4FM Mangawhai
 https://i.mjh.nz/nz/radio.ih.7113

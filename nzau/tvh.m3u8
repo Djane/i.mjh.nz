@@ -87,14 +87,14 @@ pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 
 #EXTINF:-1 tvg-id="radio.or.25" tvg-logo="https://i.mjh.nz/.images/radio.or.25.png" radio="true",George FM Manawatu
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.25.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.25 -f mpegts pipe:1
 
-#EXTINF:-1 tvg-id="radio.ih.8668" tvg-logo="https://i.mjh.nz/.images/radio.ih.8668.png" radio="true",Gold
-pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8668 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8668 -f mpegts pipe:1
-
 #EXTINF:-1 tvg-id="radio.ih.8824" tvg-logo="https://i.mjh.nz/.images/radio.ih.8824.png" radio="true",Gold 105.4 Auckland
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8824 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8824 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-id="radio.ih.8669" tvg-logo="https://i.mjh.nz/.images/radio.ih.8669.png" radio="true",Gold AM
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8669 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8669 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8668" tvg-logo="https://i.mjh.nz/.images/radio.ih.8668.png" radio="true",Gold FM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.8668 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8668 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-id="radio.ih.7113" tvg-logo="https://i.mjh.nz/.images/radio.ih.7113.png" radio="true",Heads 106.4FM Mangawhai
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7113 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7113 -f mpegts pipe:1

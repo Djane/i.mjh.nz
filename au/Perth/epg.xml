@@ -9202,12 +9202,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600464" start="20211031153000 +0000" stop="20211031160000 +0000">
-    <title>House Hunters</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600464" start="20211031160000 +0000" stop="20211031170300 +0000">
     <title>The Real Housewives of Orange County</title>
     <rating system="Freeview">
@@ -10705,13 +10699,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20211031151700 +0000" stop="20211031161100 +0000">
-    <title>Heartbeat</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600467" start="20211031161100 +0000" stop="20211031164200 +0000">
     <title>My Favorite Martian</title>
     <rating system="Freeview">
@@ -12077,13 +12064,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600468" start="20211031150000 +0000" stop="20211031170700 +0000">
-    <title>Halloween</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600468" start="20211031170700 +0000" stop="20211031181800 +0000">
     <title>Race Across the World</title>
     <subtitles type="teletext"/>
@@ -13373,14 +13353,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20211106063000 +0000" stop="20211106070000 +0000">
-    <title>Young Sheldon</title>
-    <subtitles type="teletext"/>
+    <title>LEGO Jurassic World: Double Trouble</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20211106063000 +0000" stop="20211106070000 +0000">
-    <title>LEGO Jurassic World: Double Trouble</title>
+    <title>Young Sheldon</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18086,13 +18066,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060563" start="20211031140100 +0000" stop="20211031162700 +0000">
-    <title>Justice League</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060563" start="20211031162700 +0000" stop="20211031170200 +0000">
     <title>Sound FX: Best of</title>
     <rating system="Freeview">
@@ -19159,12 +19132,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060565" start="20211031143000 +0000" stop="20211031171900 +0000">
-    <title>It</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060565" start="20211031153400 +0000" stop="20211031163200 +0000">
     <title>Kitchen Nightmares</title>
     <rating system="Freeview">
@@ -19210,12 +19177,6 @@
     </rating>
   </programme>
   <programme channel="tv.101305060565" start="20211031210100 +0000" stop="20211031220000 +0000">
-    <title>Ink Master</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060565" start="20211031210400 +0000" stop="20211031220000 +0000">
     <title>Ink Master</title>
     <rating system="Freeview">
       <value>M</value>
@@ -20456,13 +20417,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070681" start="20211031150100 +0000" stop="20211031160500 +0000">
-    <title>The Sunday Project</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406070681" start="20211031160500 +0000" stop="20211031163500 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
@@ -21645,12 +21599,6 @@
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070683" start="20211031153900 +0000" stop="20211031160700 +0000">
-    <title>Ridiculousness</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070683" start="20211031160700 +0000" stop="20211031163600 +0000">
@@ -24781,12 +24729,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070686" start="20211031153000 +0000" stop="20211031163000 +0000">
-    <title>Gifts by Holiday Fashion</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406070686" start="20211031163000 +0000" stop="20211031173000 +0000">
     <title>KitchenAid 15th Anniversary</title>
     <subtitles type="teletext"/>
@@ -25839,13 +25781,6 @@
     <title>SKINN by Dimitri James</title>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070687" start="20211031152800 +0000" stop="20211031162100 +0000">
-    <title>NCIS: Los Angeles</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070687" start="20211031162100 +0000" stop="20211031171800 +0000">
@@ -29020,12 +28955,6 @@
   </programme>
   <programme channel="tv.101406070688" start="20211107160000 +0000" stop="20211107163000 +0000">
     <title>Home Shopping</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070689" start="20211031155900 +0000" stop="20211031160000 +0000">
-    <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -34410,13 +34339,6 @@
     <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.3201026102E1" start="20211031155600 +0000" stop="20211031172700 +0000">
-    <title>Sherlock</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.3201026102E1" start="20211031172700 +0000" stop="20211031181300 +0000">
@@ -43149,12 +43071,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203200327" start="20211031141500 +0000" stop="20211031161000 +0000">
-    <title>Day of the Dead</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203200327" start="20211031161000 +0000" stop="20211031184000 +0000">
     <title>Good Manners</title>
     <rating system="Freeview">
@@ -43661,6 +43577,21 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211031173308 +0000" stop="20211031175935 +0000">
+    <title>Behind the Visor</title>
+    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
+    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211031175935 +0000" stop="20211031181924 +0000">
+    <title>Reel Rock S7E1</title>
+    <desc>Janja Garnbret has been dominating the climbing competition scene. Can she complete the perfect season?</desc>
+    <sub-title>The perfect season part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211031181924 +0000" stop="20211031184242 +0000">
+    <title>Reel Rock S7E2</title>
+    <desc>Janja Garnbret has been dominating the climbing competition scene. Can she complete the perfect season?</desc>
+    <sub-title>The perfect season part 2</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211031184242 +0000" stop="20211031190208 +0000">
     <title>Reel Rock S7E3</title>
     <desc>Mélissa Le Nevé attempts to overcome the burden of history to send one of climbing’s most revered routes.</desc>
@@ -43963,26 +43894,6 @@
     <title>The Red Bulletin Stories in Motion S2E4</title>
     <desc>B-Girl Sina explores her Moroccan and Austrian roots as she trains with some of the top breakers in the world.</desc>
     <sub-title>B-Girl Sina: a wonderful transformation</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101190007 +0000" stop="20211101191252 +0000">
-    <title>MX World S3E1</title>
-    <desc>Look back at the highlights of the 2020 season and hear from Tony Cairoli, Jeffrey Herlings and Jorge Prado.</desc>
-    <sub-title>Revisit the intense 2020 season</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101191252 +0000" stop="20211101192523 +0000">
-    <title>MX World S3E2</title>
-    <desc>Tony Cairoli is the most successful rider in the championship. Can he still compete at the top?</desc>
-    <sub-title>The view from the top</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101192523 +0000" stop="20211101193711 +0000">
-    <title>MX World S3E3</title>
-    <desc>Jeffrey Herlings is one of the greatest riders in the world, but injuries have robbed him of victories.</desc>
-    <sub-title>Making a comeback</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101193711 +0000" stop="20211101195211 +0000">
-    <title>MX World S3E4</title>
-    <desc>Keep up with Jorge Prado as he takes on the best MX riders in the world for his debut season in MXGP.</desc>
-    <sub-title>The rookie steps up</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
