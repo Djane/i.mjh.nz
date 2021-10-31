@@ -662,15 +662,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -14605,20 +14605,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20211106033000 +0000" stop="20211106040000 +0000">
-    <title>Young Sheldon</title>
-    <subtitles type="teletext"/>
+    <title>LEGO Jurassic World: Double Trouble</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20211106033000 +0000" stop="20211106040000 +0000">
-    <title>LEGO Jurassic World: Double Trouble</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300437" start="20211106040000 +0000" stop="20211106043000 +0000">
-    <title>LEGO Jurassic World: Double Trouble</title>
+    <title>Young Sheldon</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14626,6 +14620,12 @@
   <programme channel="tv.101204300437" start="20211106040000 +0000" stop="20211106043000 +0000">
     <title>Young Sheldon</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300437" start="20211106040000 +0000" stop="20211106043000 +0000">
+    <title>LEGO Jurassic World: Double Trouble</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -43695,46 +43695,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211031143208 +0000" stop="20211031145420 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E4</title>
-    <desc>Mani Lettenbichler and Paul Bolton get prepped to face the beast that is Red Bull Romaniacs.</desc>
-    <sub-title>Ripping it up in Romania</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211031145420 +0000" stop="20211031151753 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E5</title>
-    <desc>Mani and Paul are in the USA for Red Bull TKO, chatting with drivers, scouting trails and checking out trucks.</desc>
-    <sub-title>Tackling Red Bull TKO</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211031151753 +0000" stop="20211031165611 +0000">
-    <title>Mount St. Elias</title>
-    <desc>Three top mountaineers take on a 5,500m (18,000ft) ski descent down one of the steepest peaks in the world.</desc>
-    <sub-title>A ski descent of 'The Man Eater'</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211031165611 +0000" stop="20211031170530 +0000">
-    <title>Dual Focus S1E1</title>
-    <desc>Swedish freeskier Jesper Tjäder shares how skateboarding makes him a sharper, more agile ski competitor.</desc>
-    <sub-title>Jesper Tjäder</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211031170530 +0000" stop="20211031171339 +0000">
-    <title>Dual Focus S1E2</title>
-    <desc>Canadian snowboarder Sébastien Toutant shares his love of golf, and how it helps develop focus and precision.</desc>
-    <sub-title>Sébastien Toutant</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211031171339 +0000" stop="20211031171853 +0000">
-    <title>Dual Focus S1E3</title>
-    <desc>Norwegian snowboarder Marcus Kleveland shares how driving cars fast helps to sharpen his mind and manage risk.</desc>
-    <sub-title>Marcus Kleveland</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211031171853 +0000" stop="20211031172443 +0000">
-    <title>Dual Focus S1E4</title>
-    <desc>Freeskier Michelle Parker shares how she loves mountain biking around Lake Tahoe, USA, during the off-season.</desc>
-    <sub-title>Michelle Parker</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211031172443 +0000" stop="20211031173308 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
-    <sub-title>20 iconic moments</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211031173308 +0000" stop="20211031175935 +0000">
     <title>Behind the Visor</title>
     <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
@@ -43836,9 +43796,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211101005709 +0000" stop="20211101020812 +0000">
-    <title>Assembly Required S1E1</title>
-    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
-    <sub-title>Teyana Taylor</sub-title>
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211101020812 +0000" stop="20211101021921 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -44002,6 +43962,56 @@
     <title>Reel Rock S7E3</title>
     <desc>Mélissa Le Nevé attempts to overcome the burden of history to send one of climbing’s most revered routes.</desc>
     <sub-title>Action Directe</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101160231 +0000" stop="20211101162101 +0000">
+    <title>Reel Rock S7E4</title>
+    <desc>Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
+    <sub-title>Deep roots part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101162101 +0000" stop="20211101164015 +0000">
+    <title>Reel Rock S7E5</title>
+    <desc>Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
+    <sub-title>Deep roots part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101164015 +0000" stop="20211101170200 +0000">
+    <title>Reel Rock S7E6</title>
+    <desc>Follow as Swiss bouldering star Giuliano Cameroni explores the stunning boulders in his home region of Ticino.</desc>
+    <sub-title>Born among boulders</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101170200 +0000" stop="20211101172107 +0000">
+    <title>Reel Rock S7E7</title>
+    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
+    <sub-title>First ascent/last ascent part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101172107 +0000" stop="20211101174024 +0000">
+    <title>Reel Rock S7E8</title>
+    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
+    <sub-title>First ascent/last ascent part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101174024 +0000" stop="20211101180553 +0000">
+    <title>Reel Rock S7E9</title>
+    <desc>Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
+    <sub-title>Black ice part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101180553 +0000" stop="20211101182833 +0000">
+    <title>Reel Rock S7E10</title>
+    <desc>Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
+    <sub-title>Black ice part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101182833 +0000" stop="20211101183813 +0000">
+    <title>The Red Bulletin Stories in Motion S2E6</title>
+    <desc>Find out how Dario Costa defied all the odds to become one of the best aerobatic pilots in the world.</desc>
+    <sub-title>Dario Costa: Tunnel Vision</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101183813 +0000" stop="20211101184804 +0000">
+    <title>The Red Bulletin Stories in Motion S2E7</title>
+    <desc>Fabian 'GrabbZ' Lohmann reflects on his huge success coaching the G2 Esports League of Legends team.</desc>
+    <sub-title>GrabbZ: League of Lohmann</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101184804 +0000" stop="20211101190007 +0000">
+    <title>The Red Bulletin Stories in Motion S2E4</title>
+    <desc>B-Girl Sina explores her Moroccan and Austrian roots as she trains with some of the top breakers in the world.</desc>
+    <sub-title>B-Girl Sina: a wonderful transformation</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
