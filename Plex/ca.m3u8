@@ -150,7 +150,7 @@
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60253a7587db63002c663f5f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nashville_logo_dark.png",Nashville
 5e20b730f2f8d5003d739db7-60253a7587db63002c663f5f
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc6f3a62b6f7b002e77ffaa" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/news12ny_logo_dark.png",News 12 New York
-https://e8b8ddf2155a4a0e90aa8a11325f1f7d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_News12NewYork/playlist.m3u8?ads.wurl_channel=676&ads.wurl_name=News12NewYork&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=8EzRMQ3yZzmCEPUNxEsf&ads.plex_id=5fc6f3a62b6f7b002e77ffaa&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+5e20b730f2f8d5003d739db7-5fc6f3a62b6f7b002e77ffaa
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newsmax_logo_dark.png",Newsmax TV
 5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f8f2bda29a289d5ef1af37b9e8af7667.png",Newsy
