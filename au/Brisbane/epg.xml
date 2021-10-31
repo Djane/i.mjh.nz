@@ -650,15 +650,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -43643,6 +43643,16 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211031143208 +0000" stop="20211031145420 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E4</title>
+    <desc>Mani Lettenbichler and Paul Bolton get prepped to face the beast that is Red Bull Romaniacs.</desc>
+    <sub-title>Ripping it up in Romania</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211031145420 +0000" stop="20211031151753 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E5</title>
+    <desc>Mani and Paul are in the USA for Red Bull TKO, chatting with drivers, scouting trails and checking out trucks.</desc>
+    <sub-title>Tackling Red Bull TKO</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211031151753 +0000" stop="20211031165611 +0000">
     <title>Mount St. Elias</title>
     <desc>Three top mountaineers take on a 5,500m (18,000ft) ski descent down one of the steepest peaks in the world.</desc>
@@ -43774,9 +43784,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211101005709 +0000" stop="20211101020812 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211101020812 +0000" stop="20211101021921 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -43940,21 +43950,6 @@
     <title>Reel Rock S7E3</title>
     <desc>Mélissa Le Nevé attempts to overcome the burden of history to send one of climbing’s most revered routes.</desc>
     <sub-title>Action Directe</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101160231 +0000" stop="20211101162101 +0000">
-    <title>Reel Rock S7E4</title>
-    <desc>Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
-    <sub-title>Deep roots part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101162101 +0000" stop="20211101164015 +0000">
-    <title>Reel Rock S7E5</title>
-    <desc>Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
-    <sub-title>Deep roots part 2</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101164015 +0000" stop="20211101170200 +0000">
-    <title>Reel Rock S7E6</title>
-    <desc>Follow as Swiss bouldering star Giuliano Cameroni explores the stunning boulders in his home region of Ticino.</desc>
-    <sub-title>Born among boulders</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
