@@ -20731,15 +20731,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20211102040000 +0000" stop="20211102060000 +0000">
-    <title>Big Brother VIP</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305030535" start="20211102040000 +0000" stop="20211102042800 +0000">
+    <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20211102040000 +0000" stop="20211102042800 +0000">
-    <title>How I Met Your Mother</title>
+  <programme channel="tv.101305030535" start="20211102040000 +0000" stop="20211102060000 +0000">
+    <title>Big Brother VIP</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -43706,21 +43706,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211031173308 +0000" stop="20211031175935 +0000">
-    <title>Behind the Visor</title>
-    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
-    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211031175935 +0000" stop="20211031181924 +0000">
-    <title>Reel Rock S7E1</title>
-    <desc>Janja Garnbret has been dominating the climbing competition scene. Can she complete the perfect season?</desc>
-    <sub-title>The perfect season part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211031181924 +0000" stop="20211031184242 +0000">
-    <title>Reel Rock S7E2</title>
-    <desc>Janja Garnbret has been dominating the climbing competition scene. Can she complete the perfect season?</desc>
-    <sub-title>The perfect season part 2</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211031184242 +0000" stop="20211031190208 +0000">
     <title>Reel Rock S7E3</title>
     <desc>Mélissa Le Nevé attempts to overcome the burden of history to send one of climbing’s most revered routes.</desc>
@@ -44023,6 +44008,26 @@
     <title>The Red Bulletin Stories in Motion S2E4</title>
     <desc>B-Girl Sina explores her Moroccan and Austrian roots as she trains with some of the top breakers in the world.</desc>
     <sub-title>B-Girl Sina: a wonderful transformation</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101190007 +0000" stop="20211101191252 +0000">
+    <title>MX World S3E1</title>
+    <desc>Look back at the highlights of the 2020 season and hear from Tony Cairoli, Jeffrey Herlings and Jorge Prado.</desc>
+    <sub-title>Revisit the intense 2020 season</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101191252 +0000" stop="20211101192523 +0000">
+    <title>MX World S3E2</title>
+    <desc>Tony Cairoli is the most successful rider in the championship. Can he still compete at the top?</desc>
+    <sub-title>The view from the top</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101192523 +0000" stop="20211101193711 +0000">
+    <title>MX World S3E3</title>
+    <desc>Jeffrey Herlings is one of the greatest riders in the world, but injuries have robbed him of victories.</desc>
+    <sub-title>Making a comeback</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101193711 +0000" stop="20211101195211 +0000">
+    <title>MX World S3E4</title>
+    <desc>Keep up with Jorge Prado as he takes on the best MX riders in the world for his debut season in MXGP.</desc>
+    <sub-title>The rookie steps up</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

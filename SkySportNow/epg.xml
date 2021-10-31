@@ -2,1180 +2,6 @@
   <channel id="60">
     <display-name>sky-sport-1</display-name>
   </channel>
-  <programme channel="60" start="20211030110000 +0000" stop="20211030130000 +0000">
-    <title>All Blacks v Wales 2016 1st Test (G)</title>
-    <desc>SKY Sport takes you back to the 2016 Steinlager Series as the All Blacks take on Wales. Join us for replay coverage of the first test at Eden Park, Auckland.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211030130000 +0000" stop="20211030132000 +0000">
-    <title>Rugby: USA v All Blacks Mini Hls (G)</title>
-    <desc>Short highlights from the All Blacks game against the USA Eagles from Washington DC.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211030132000 +0000" stop="20211030154000 +0000">
-    <title>LIVE Rugby: SCO v TGA (G)</title>
-    <desc>LIVE international rugby as Tonga visit Murrayfield to take on Scotland.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211030154000 +0000" stop="20211030160000 +0000">
-    <title>Bunnings NPC Mini: BOP v WAI (G)</title>
-    <desc>Bunnings NPC 2021: Bay of Plenty host Waikato at Tauranga Domain.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211030160000 +0000" stop="20211030190000 +0000">
-    <title>LIVE Rugby: WAL v All Blacks (G)</title>
-    <desc>The All Blacks step onto European soil for the first time in 2021, taking on Wales LIVE from Cardiff.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211030190000 +0000" stop="20211030210500 +0000">
-    <title>LIVE: French Top 14: BOR v CLE (G)</title>
-    <desc>LIVE coverage of the French Top 14 season as Bordeaux Bègles host Clermont Auvergne at Stade Chaban-Delmas, Bordeaux</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211030210500 +0000" stop="20211030214000 +0000">
-    <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Rikki catches up with Black Ferns Olympic Gold Medallist Kelly Brazier as she reflects on her past, talks about her present and future.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="60" start="20211030214000 +0000" stop="20211030220000 +0000">
-    <title>Bunnings NPC Mini: SOU v NOR (G)</title>
-    <desc>Bunnings NPC 2021: Southland meet Northland at Rugby Park in Invercargill.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211030220000 +0000" stop="20211031000000 +0000">
-    <title>Rugby: WAL v All Blacks (G)</title>
-    <desc>Replay of the All Blacks clash with Wales in Cardiff.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211031000000 +0000" stop="20211031020000 +0000">
-    <title>LIVE: Bunnings NPC: OTA v WEL (G)</title>
-    <desc>Bunnings NPC 2021: Otago host Wellington from Forsyth Barr Stadium in Dunedin.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211031020000 +0000" stop="20211031023000 +0000">
-    <title>Bunnings NPC: MAN v HAW (G)</title>
-    <desc>Bunnings NPC 2021: Manawatu welcome Hawke's Bay to the CET Arena in Palmerston North.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211031023000 +0000" stop="20211031030000 +0000">
-    <title>Bunnings NPC: CAN v TAS Hls (G)</title>
-    <desc>Bunnings NPC 2021: Canterbury play Tasman at Orangetheory Stadium in Christchurch.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211031030000 +0000" stop="20211031033000 +0000">
-    <title>Rugby: Wales v All Blacks Hls (G)</title>
-    <desc>Highlights of the All Blacks visit to Cardiff to take on the Welsh.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211031033000 +0000" stop="20211031070000 +0000">
-    <title>ICC T20 WC: ENG v AUS (G)</title>
-    <desc>Replay coverage of the ICC T20 World Cup match between England and Australia at Dubai International Cricket Stadium, Dubai.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="60" start="20211031070000 +0000" stop="20211031073000 +0000">
-    <title>Rugby: Wales v All Blacks Hls (G)</title>
-    <desc>Highlights of the All Blacks visit to Cardiff to take on the Welsh.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211031073000 +0000" stop="20211031080000 +0000">
-    <title>Rugby Nation (G)</title>
-    <desc>Join your host Karl Te Nana for the best highlights from the weekend’s rugby.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211031080000 +0000" stop="20211031100000 +0000">
-    <title>Rugby: WAL v All Blacks (G)</title>
-    <desc>Replay of the All Blacks clash with Wales in Cardiff.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211031100000 +0000" stop="20211031110000 +0000">
-    <title>Bunnings NPC: SOU v NOR (G)</title>
-    <desc>Bunnings NPC 2021: Southland meet Northland at Rugby Park in Invercargill.</desc>
-    <category>Rugby</category>
-  </programme>
-  <channel id="61">
-    <display-name>sky-sport-2</display-name>
-  </channel>
-  <programme channel="61" start="20211030110000 +0000" stop="20211030120000 +0000">
-    <title>Erste Bank Open: Day 5 Hls (G)</title>
-    <desc>Highlights from Day 5 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211030120000 +0000" stop="20211030161500 +0000">
-    <title>LIVE: Erste Bank Open: Day 6 (G)</title>
-    <desc>LIVE – ATP 500: Erste Bank Open. Tune in for all the action from Day 6 as the world's top tennis players go head to head in Vienna, Austria.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211030161500 +0000" stop="20211030164500 +0000">
-    <title>Bunnings NPC: BOP v WAI (G)</title>
-    <desc>Bunnings NPC 2021: Bay of Plenty host Waikato at Tauranga Domain.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="61" start="20211030164500 +0000" stop="20211030171500 +0000">
-    <title>Bunnings NPC: MAN v HAW (G)</title>
-    <desc>Bunnings NPC 2021: Manawatu welcome Hawke's Bay to the CET Arena in Palmerston North.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="61" start="20211030171500 +0000" stop="20211030191500 +0000">
-    <title>Bunnings NPC: BOP v WAI (G)</title>
-    <desc>Bunnings NPC 2021: Bay of Plenty host Waikato at Tauranga Domain.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="61" start="20211030191500 +0000" stop="20211030210000 +0000">
-    <title>Gallagher Premiership: GLO v EXE (G)</title>
-    <desc>Replay coverage of the Gallagher Premiership season as Gloucester Rugby host Exeter Chiefs at Kingsholm Stadium, Gloucester.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="61" start="20211030210000 +0000" stop="20211031000000 +0000">
-    <title>WBBL: ST v MS (G)</title>
-    <desc>Replay coverage of the Women's Big Bash League match between the Sydney Thunder and Melbourne Stars at the University of Tasmania Stadium, Launceston.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="61" start="20211031000000 +0000" stop="20211031003000 +0000">
-    <title>Inside Sailing (G)</title>
-    <desc>Come sail with us starting from Switzerland at the 2021 Vanora ENGADINWIND, to Sardinia in Italy, then on to Newport before heading back to Europe for the legendary Nord Stream Race 2021.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="61" start="20211031003000 +0000" stop="20211031015500 +0000">
-    <title>Erste Bank Open: SF1 (G)</title>
-    <desc>Semi-Final 1 from Day 6 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211031015500 +0000" stop="20211031022000 +0000">
-    <title>Billie Jean King Cup: Preview Show (G)</title>
-    <desc>Preview Show of the Billie Jean King Cup 2021 (was Fed Cup) - the premier international team competition in women's tennis.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211031022000 +0000" stop="20211031055000 +0000">
-    <title>LIVE: WBBL: AS v MR (G)</title>
-    <desc>LIVE coverage of the Women's Big Bash League match between the Adelaide Strikers and Melbourne Renegades at Lilac Hill, Perth.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="61" start="20211031055000 +0000" stop="20211031092000 +0000">
-    <title>LIVE: WBBL: PS v AS (G)</title>
-    <desc>LIVE coverage of the Women's Big Bash League match between the Perth Scorchers and Sydney Sixers at Lilac Hill, Perth.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="61" start="20211031092000 +0000" stop="20211031095000 +0000">
-    <title>Billie Jean King Cup: Preview Show (G)</title>
-    <desc>Preview Show of the Billie Jean King Cup 2021 (was Fed Cup) - the premier international team competition in women's tennis.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211031095000 +0000" stop="20211031104500 +0000">
-    <title>Erste Bank Open: Day 6 Hls (G)</title>
-    <desc>Highlights from Day 6 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211031104500 +0000" stop="20211031110000 +0000">
-    <title>LIVE: Erste Bank Open: Doubles Final (G)</title>
-    <desc>LIVE – ATP 500: Erste Bank Open. Tune in for all the action of the Doubles Final from Day 7 as the world's top tennis players go head to head in Vienna, Austria.</desc>
-    <category>Tennis</category>
-  </programme>
-  <channel id="62">
-    <display-name>sky-sport-3</display-name>
-  </channel>
-  <programme channel="62" start="20211030110000 +0000" stop="20211030134500 +0000">
-    <title>LIVE: ICC T20 WC: RSA v SRI (G)</title>
-    <desc>LIVE coverage of the ICC T20 World Cup match between South Africa and Sri Lanka at Sharjah Cricket Stadium, Sharjah.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211030134500 +0000" stop="20211030180000 +0000">
-    <title>LIVE: ICC T20 WC: ENG v AUS (G)</title>
-    <desc>LIVE coverage of the ICC T20 World Cup match between England and Australia at Dubai International Cricket Stadium, Dubai.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211030180000 +0000" stop="20211030183000 +0000">
-    <title>ICC T20 WC: AFG v PAK Hls (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between Afghanistan and Pakistan at Dubai International Cricket Stadium, Dubai.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211030183000 +0000" stop="20211030190000 +0000">
-    <title>T20 World Cup Wrap (G)</title>
-    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211030190000 +0000" stop="20211030224000 +0000">
-    <title>ICC T20 WC: RSA v SRI (G)</title>
-    <desc>Replay coverage of the ICC T20 World Cup match between South Africa and Sri Lanka at Sharjah Cricket Stadium, Sharjah.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211030224000 +0000" stop="20211030231000 +0000">
-    <title>ICC T20 WC: ENG v AUS Hls (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between England and Australia at Dubai International Cricket Stadium, Dubai.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211030231000 +0000" stop="20211031024000 +0000">
-    <title>LIVE: WBBL: ST v HH (G)</title>
-    <desc>LIVE coverage of the Women's Big Bash League match between the Sydney Thunder and Hobart Hurricanes at the University of Tasmania Stadium, Launceston.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211031024000 +0000" stop="20211031061000 +0000">
-    <title>LIVE: WBBL: BH v MS (G)</title>
-    <desc>LIVE coverage of the Women's Big Bash League match between the Brisbane Heat and Melbourne Stars at the University of Tasmania Stadium, Launceston.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211031061000 +0000" stop="20211031064000 +0000">
-    <title>ICC T20 WC: RSA v SRI Hls (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between South Africa and Sri Lanka at Sharjah Cricket Stadium, Sharjah.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211031064000 +0000" stop="20211031071000 +0000">
-    <title>ICC T20 WC: ENG v AUS Hls (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between England and Australia at Dubai International Cricket Stadium, Dubai.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211031071000 +0000" stop="20211031080000 +0000">
-    <title>T20 World Cup Wrap (G)</title>
-    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211031080000 +0000" stop="20211031083000 +0000">
-    <title>ICC T20 WC: AFG v PAK Hls (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between Afghanistan and Pakistan at Dubai International Cricket Stadium, Dubai.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211031083000 +0000" stop="20211031090000 +0000">
-    <title>ICC T20 WC: RSA v SRI Hls (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between South Africa and Sri Lanka at Sharjah Cricket Stadium, Sharjah.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211031090000 +0000" stop="20211031093000 +0000">
-    <title>ICC T20 WC: ENG v AUS Hls (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between England and Australia at Dubai International Cricket Stadium, Dubai.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211031093000 +0000" stop="20211031110000 +0000">
-    <title>LIVE: ICC T20 WC: AFG v NAM (G)</title>
-    <desc>LIVE coverage of the ICC T20 World Cup match between Afghanistan and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
-    <category>Cricket</category>
-  </programme>
-  <channel id="63">
-    <display-name>sky-sport-4</display-name>
-  </channel>
-  <programme channel="63" start="20211030110000 +0000" stop="20211030120000 +0000">
-    <title>LIVE: WBBL: BH v HH (G)</title>
-    <desc>LIVE coverage of the Women's Big Bash League match between the Brisbane Heat and Hobart Hurricanes at the University of Tasmania Stadium, Launceston.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="63" start="20211030120000 +0000" stop="20211030130000 +0000">
-    <title>Mainfreight Rugby (G)</title>
-    <desc>Join us every week as we showcase the best of grassroots footy from the Heartland Championship.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="63" start="20211030130000 +0000" stop="20211030135500 +0000">
-    <title>NRL Classic: 1978 Grand Final (G)</title>
-    <desc>The 1978 Grand Final featured Manly and Cronulla. This game was exciting and a close run affair.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20211030135500 +0000" stop="20211030160500 +0000">
-    <title>LIVE: Gallagher Premiership: NOR v LEI (G)</title>
-    <desc>LIVE coverage of the Gallagher Premiership season as Northampton Saints host Leicester Tigers at Franklin's Gardens, Northampton.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="63" start="20211030160500 +0000" stop="20211030163000 +0000">
-    <title>Bunnings NPC Mini: BOP v WAI (G)</title>
-    <desc>Bunnings NPC 2021: Bay of Plenty host Waikato at Tauranga Domain.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="63" start="20211030163000 +0000" stop="20211030170000 +0000">
-    <title>Rugby: USA v All Blacks Hls (G)</title>
-    <desc>Highlights of the All Blacks clash with the USA from Washington DC.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="63" start="20211030170000 +0000" stop="20211030213000 +0000">
-    <title>LIVE: World Series of Darts Finals (G)</title>
-    <desc>LIVE: 2021 World Series of Darts Finals: All the big names are in Amsterdam, second round action gets underway in the Netherlands.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="63" start="20211030213000 +0000" stop="20211030233000 +0000">
-    <title>Best Of NRL 2021 (G)</title>
-    <desc>Tune in as we look back at some of the best games from the 2021 NRL season.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="63" start="20211030233000 +0000" stop="20211031010000 +0000">
-    <title>National Women's Competition (G)</title>
-    <desc>Join Sky Sport for Replay coverage of the 2021 NZRL National Women's Competition. Catch the action as the Canterbury Women take on the Wellington Orcas Women from Nga Puna Wai, Christchurch.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20211031010000 +0000" stop="20211031030000 +0000">
-    <title>LIVE: NZRL Men's National Competition (G)</title>
-    <desc>Join Sky Sport for LIVE coverage of the 2021 NZRL National Competition. Catch the action as the Otago Whalers take on the Wellington Orcas from Nga Puna Wai, Christchurch. Kick-Off 2pm.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20211031030000 +0000" stop="20211031070000 +0000">
-    <title>World Series of Darts Finals: Day 2 (G)</title>
-    <desc>2021 World Series of Darts Finals: All the big names are in Amsterdam, second round action gets underway in the Netherlands.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="63" start="20211031070000 +0000" stop="20211031080000 +0000">
-    <title>NRL Classic: 1982 Grand Final (G)</title>
-    <desc>In a rematch of their 20-0 defeat just two weeks prior in the semi-finals, the Parramatta Eels faced the Manly Warringah Sea Eagles in the1982 Grand Final.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20211031080000 +0000" stop="20211031090000 +0000">
-    <title>Mainfreight Rugby (G)</title>
-    <desc>Join us every week as we showcase the best of grassroots footy from the Heartland Championship.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="63" start="20211031090000 +0000" stop="20211031093000 +0000">
-    <title>2016 Jillaroos v Kiwi Ferns Hls (G)</title>
-    <desc>We bring you highlights of this Women's International from 2016 as Australia's Jillaroos hosted New Zealand's Kiwi Ferns at Hunter Stadium in Newcastle, NSW.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20211031093000 +0000" stop="20211031110000 +0000">
-    <title>NRL Classic: 2001: Storm v Warriors (G)</title>
-    <desc>Here is another thriller from the 2001 NRL Premiership as the Warriors travelled to Colonial Stadium to take on the Melbourne Storm with finals footy aspirations.</desc>
-    <category>League</category>
-  </programme>
-  <channel id="83">
-    <display-name>sky-sport-5</display-name>
-  </channel>
-  <programme channel="83" start="20211030110000 +0000" stop="20211030110500 +0000">
-    <title>Supercars: Top Ten Shootout R20 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Top Ten Shootout Race 20, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030110500 +0000" stop="20211030123500 +0000">
-    <title>Supercars: Race 20 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 20, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030123500 +0000" stop="20211030130000 +0000">
-    <title>Supercars: NSW SuperSports R1 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, NSW SuperSports Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030130000 +0000" stop="20211030132500 +0000">
-    <title>Supercars: Sports Sedans Qual (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Sports Sedans Qualifying, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030132500 +0000" stop="20211030135000 +0000">
-    <title>Supercars: Superutes Qual (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Qualifying, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030135000 +0000" stop="20211030141500 +0000">
-    <title>Supercars: TGRA 86 Qual (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, TGRA 86 Qualifying, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030141500 +0000" stop="20211030144000 +0000">
-    <title>Supercars: NSW SuperSports R2 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, NSW SuperSports Race 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030144000 +0000" stop="20211030150500 +0000">
-    <title>Supercars: Sports Sedans R1 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Sports Sedans Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030150500 +0000" stop="20211030153000 +0000">
-    <title>Supercars: Superutes R1 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030153000 +0000" stop="20211030160000 +0000">
-    <title>Supercars: TGRA 86 R1 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030160000 +0000" stop="20211030163000 +0000">
-    <title>FIA ERC: Rally Hungary All Access (G)</title>
-    <desc>All Access gives you a indepth and behind the scenes look at all the action from Rally Hungary.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030163000 +0000" stop="20211030173000 +0000">
-    <title>FIA ERC: Rally Hungary Hls (G)</title>
-    <desc>Highlights from the FIA European Rally Championship, Rally Hungary.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030173000 +0000" stop="20211030180000 +0000">
-    <title>FIA Pure Motorsport (G)</title>
-    <desc>FIA Pure Motorsport brings you an in-depth look into the FIAs most unique championships.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030180000 +0000" stop="20211030183000 +0000">
-    <title>Supercars: NSW SuperSports R1 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, NSW SuperSports Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030183000 +0000" stop="20211030185500 +0000">
-    <title>Supercars: NSW SuperSports R2 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, NSW SuperSports Race 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030185500 +0000" stop="20211030192000 +0000">
-    <title>Supercars: Sports Sedans R1 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Sports Sedans Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030192000 +0000" stop="20211030194500 +0000">
-    <title>Supercars: Superutes R1 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030194500 +0000" stop="20211030201000 +0000">
-    <title>Supercars: TGRA 86 R1 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030201000 +0000" stop="20211030203000 +0000">
-    <title>Supercars: Qual Race 20 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Qualifying Race 20, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030203000 +0000" stop="20211030211500 +0000">
-    <title>Supercars: Top Ten Shootout R20 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Top Ten Shootout Race 20, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030211500 +0000" stop="20211030224500 +0000">
-    <title>Supercars: Race 20 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 20, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030224500 +0000" stop="20211030231000 +0000">
-    <title>LIVE Supercars: Sports Seadans R2 (G)</title>
-    <desc>LIVE Coverage of the Supercars Championship, Bunnings Trade Sydney SuperNight, Sports Sedans Race 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030231000 +0000" stop="20211030235000 +0000">
-    <title>LIVE Supercars: Qual R21 (G)</title>
-    <desc>LIVE Coverage of  the Supercars Championship, Bunnings Trade Sydney SuperNight, Qualifying Race 21, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211030235000 +0000" stop="20211031001500 +0000">
-    <title>LIVE Supercars: Qual R22 (G)</title>
-    <desc>LIVE Coverage of the Supercars Championship, Bunnings Trade Sydney SuperNight, Qualifying Race 22, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031001500 +0000" stop="20211031003500 +0000">
-    <title>LIVE Supercars: Superute R2 (G)</title>
-    <desc>LIVE Coverage of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Race 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031003500 +0000" stop="20211031013000 +0000">
-    <title>LIVE Supercars: TGRA 86 R2 (G)</title>
-    <desc>LIVE Coverage of the Supercars Championship, Bunnings Trade Sydney SuperNight, TGRA 86 Race 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031013000 +0000" stop="20211031025500 +0000">
-    <title>LIVE Supercars: Race 21 (G)</title>
-    <desc>LIVE Coverage of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 21, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031025500 +0000" stop="20211031031500 +0000">
-    <title>LIVE Supercars: NSW Supersports R3 (G)</title>
-    <desc>LIVE Coverage of the Supercars Championship, Bunnings Trade Sydney SuperNight, NSW SuperSports Race 3, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031031500 +0000" stop="20211031034500 +0000">
-    <title>LIVE Supercars: Sports Sedans R3 (G)</title>
-    <desc>LIVE Coverage of the Supercars Championship, Bunnings Trade Sydney SuperNight, Sports Sedans Race 3, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031034500 +0000" stop="20211031041500 +0000">
-    <title>LIVE Supercars: Superutes R3 (G)</title>
-    <desc>LIVE Coverage of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Race 3, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031041500 +0000" stop="20211031045000 +0000">
-    <title>LIVE Supercars: TGRA 86 R3 (G)</title>
-    <desc>LIVE Coverage of the Supercars Championship, Bunnings Trade Sydney SuperNight, TGRA 86 Race 3, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031045000 +0000" stop="20211031063000 +0000">
-    <title>LIVE Supercars: Race 22 (G)</title>
-    <desc>LIVE Coverage of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 22, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031063000 +0000" stop="20211031073000 +0000">
-    <title>LIVE Supercars Trackside (G)</title>
-    <desc>LIVE Supercars Trackside, reviewing all the action from the Bunnings Trade Sydney SuperNight.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031073000 +0000" stop="20211031075000 +0000">
-    <title>Supercars: Qual R21 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Qualifying Race 21, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031075000 +0000" stop="20211031092000 +0000">
-    <title>Supercars: Race 21 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 21, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031092000 +0000" stop="20211031094000 +0000">
-    <title>Supercars: Qual R22 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Qualifying Race 22, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211031094000 +0000" stop="20211031110000 +0000">
-    <title>Supercars: Race 22 (G)</title>
-    <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 22, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <channel id="84">
-    <display-name>sky-sport-6</display-name>
-  </channel>
-  <programme channel="84" start="20211030110000 +0000" stop="20211030113000 +0000">
-    <title>Golf Central (G)</title>
-    <desc>Tune into Golf Central for in depth analysis, news, updates and highlights from everything happening in the world of golf.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211030113000 +0000" stop="20211030123000 +0000">
-    <title>PGA European Sunshine Tour Hls (G)</title>
-    <desc>Gauteng Championship is part of the Sunshine Tour a Men's Professional Golf Tour based in South Africa. Highlights of the event held at Ebotse Links, Benoni, South Africa.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211030123000 +0000" stop="20211030133000 +0000">
-    <title>PGA European Sunshine Tour Hls (G)</title>
-    <desc>Serengeti Pro-Am Invitational is part of the Sunshine Tour a Men's Professional Golf Tour based in South Africa. Highlights of the event held at Serengeti Estates, Ekurhuleni, South Africa.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211030133000 +0000" stop="20211030153000 +0000">
-    <title>PGA Tour: Round 2 (G)</title>
-    <desc>PGA Tour. Round 2 of Bermuda Championship played at Port Royal Golf Course in Southampton Parish, Bermuda.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211030153000 +0000" stop="20211030160000 +0000">
-    <title>Golf Central (G)</title>
-    <desc>Tune into Golf Central for in depth analysis, news, updates and highlights from everything happening in the world of golf.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211030160000 +0000" stop="20211030163000 +0000">
-    <title>European Challenge Tour Hls (G)</title>
-    <desc>European Tour Highlights: Challenge Tour. Tune in for highlights of the Open de Portugal at Royal Óbidos and Swiss Challenge.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211030163000 +0000" stop="20211030170000 +0000">
-    <title>PGA Tour: Round 2 Hls (G)</title>
-    <desc>Highlights PGA Tour. Round 2 of Bermuda Championship played at Port Royal Golf Course in Southampton Parish, Bermuda.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211030170000 +0000" stop="20211030201000 +0000">
-    <title>LIVE: PGA Tour (G)</title>
-    <desc>LIVE: PGA Tour. Round 3 of Bermuda Championship played at Port Royal Golf Course in Southampton Parish, Bermuda.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211030201000 +0000" stop="20211030210500 +0000">
-    <title>Champions Tour Event Hls (G)</title>
-    <desc>Event Highlights: PGA Champions Tour. Tune in for all the action from the Dominion Energy Charity Classic played at Country Club of Virginia.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211030210500 +0000" stop="20211030220000 +0000">
-    <title>2021 Legends Tour: Event Hls (G)</title>
-    <desc>Legends Tour Event Highlights. Riegler &amp; Partner Legends held at Golfclub Murhof, Frohnleiten, Austria.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211030220000 +0000" stop="20211030230000 +0000">
-    <title>PGA European Sunshine Tour Hls (G)</title>
-    <desc>Limpopo Championship is part of the Sunshine Tour a Men's Professional Golf Tour based in South Africa. Highlights of the event held at Euphoria Golf Estate &amp; Hydro, Modimolle, South Africa.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211030230000 +0000" stop="20211031000000 +0000">
-    <title>PGA European Sunshine Tour Hls (G)</title>
-    <desc>Bain's Whiskey Cape Town Open is part of the Sunshine Tour a Men's Professional Golf Tour based in South Africa. Highlights of the event held at Royal Cape Golf Club, Cape Town, South Africa.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031000000 +0000" stop="20211031020000 +0000">
-    <title>PGA Tour: Round 3 (G)</title>
-    <desc>PGA Tour. Round 3 of Bermuda Championship played at Port Royal Golf Course in Southampton Parish, Bermuda.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031020000 +0000" stop="20211031023000 +0000">
-    <title>Golf Central (G)</title>
-    <desc>Tune into Golf Central for in depth analysis, news, updates and highlights from everything happening in the world of golf.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031023000 +0000" stop="20211031033000 +0000">
-    <title>2021 Legends Tour: Event Hls (G)</title>
-    <desc>Legends Tour Event Highlights. Riegler &amp; Partner Legends held at Golfclub Murhof, Frohnleiten, Austria.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031033000 +0000" stop="20211031040000 +0000">
-    <title>PGA Tour: Round 3 Hls (G)</title>
-    <desc>Highlights PGA Tour. Round 3 of Bermuda Championship played at Port Royal Golf Course in Southampton Parish, Bermuda.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031040000 +0000" stop="20211031043000 +0000">
-    <title>European Challenge Tour Hls (G)</title>
-    <desc>European Tour Highlights: Challenge Tour. Tune in for highlights of the Hainan Open and Foshan Open.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031043000 +0000" stop="20211031053000 +0000">
-    <title>PGA European Sunshine Tour Hls (G)</title>
-    <desc>Limpopo Championship is part of the Sunshine Tour a Men's Professional Golf Tour based in South Africa. Highlights of the event held at Euphoria Golf Estate &amp; Hydro, Modimolle, South Africa.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031053000 +0000" stop="20211031063000 +0000">
-    <title>PGA European Sunshine Tour Hls (G)</title>
-    <desc>Bain's Whiskey Cape Town Open is part of the Sunshine Tour a Men's Professional Golf Tour based in South Africa. Highlights of the event held at Royal Cape Golf Club, Cape Town, South Africa.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031063000 +0000" stop="20211031070000 +0000">
-    <title>Golf Central (G)</title>
-    <desc>Tune into Golf Central for in depth analysis, news, updates and highlights from everything happening in the world of golf.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031070000 +0000" stop="20211031073000 +0000">
-    <title>PGA Tour: The CUT (G)</title>
-    <desc>Watch 'The CUT' every week for the latest tournament information, player features and tips from PGA Tour players themselves.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031073000 +0000" stop="20211031093000 +0000">
-    <title>PGA Tour: Round 3 (G)</title>
-    <desc>PGA Tour. Round 3 of Bermuda Championship played at Port Royal Golf Course in Southampton Parish, Bermuda.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031093000 +0000" stop="20211031100000 +0000">
-    <title>Golf Central (G)</title>
-    <desc>Tune into Golf Central for in depth analysis, news, updates and highlights from everything happening in the world of golf.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031100000 +0000" stop="20211031103000 +0000">
-    <title>European Tour Event Hls (G)</title>
-    <desc>Event Highlights European Tour: Mallorca Golf Open held at Golf Santa Ponsa, Spain.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="84" start="20211031103000 +0000" stop="20211031110000 +0000">
-    <title>PGA Tour: Round 3 Hls (G)</title>
-    <desc>Highlights PGA Tour. Round 3 of Bermuda Championship played at Port Royal Golf Course in Southampton Parish, Bermuda.</desc>
-    <category>Golf</category>
-  </programme>
-  <channel id="85">
-    <display-name>sky-sport-7</display-name>
-  </channel>
-  <programme channel="85" start="20211030110000 +0000" stop="20211030112500 +0000">
-    <title>Ligue 1 Mini (G)</title>
-    <desc>PSG v Lille. The league leaders take on the reigning champions as Paris Saint-Germain and Lille kick off the weekends Ligue 1 action.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030112500 +0000" stop="20211030132500 +0000">
-    <title>LIVE: EFL (G)</title>
-    <desc>Fulham v West Brom. Extensive coverage of the EFL Championship as some of the biggest teams in English football battle it out for a place in the EPL.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030132500 +0000" stop="20211030135500 +0000">
-    <title>Great Goals (G)</title>
-    <desc>201-250. From solo sensations to incredible team efforts, delicate chips to 40 yard screamers, Great Goals serves up a feast of the finest strikes in football history.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030135500 +0000" stop="20211030155500 +0000">
-    <title>LIVE: EFL (G)</title>
-    <desc>Stoke v Cardiff. Extensive coverage of the EFL Championship as some of the biggest teams in English football battle it out for a place in the EPL.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030155500 +0000" stop="20211030180000 +0000">
-    <title>LIVE: Serie A (G)</title>
-    <desc>Verona v Juventus. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030180000 +0000" stop="20211030182500 +0000">
-    <title>Football's Greatest (G)</title>
-    <desc>Cristiano Ronaldo. The biggest names in world football, both past and present, are profiled to show what makes the the greatest</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030182500 +0000" stop="20211030185500 +0000">
-    <title>Football's Greatest Clubs (G)</title>
-    <desc>Barcelona 90s/00s/10s. A look at the success achieved by Barcelona in recent years, featuring interviews with Xavi, Dani Alves, Gerard Pique and Johan Cruyff.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030185500 +0000" stop="20211030205500 +0000">
-    <title>LIVE: EFL (G)</title>
-    <desc>Reading v Bournemouth. Extensive coverage of the EFL Championship as some of the biggest teams in English football battle it out for a place in the EPL.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030205500 +0000" stop="20211030210500 +0000">
-    <title>Great Goals (G)</title>
-    <desc>From solo sensations to incredible team efforts, delicate chips to 40 yard screamers, Great Goals serves up a feast of the finest strikes in football history.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030210500 +0000" stop="20211030213500 +0000">
-    <title>Football's Greatest (G)</title>
-    <desc>Luis Figo. The biggest names in world football, both past and present, are profiled to show what makes the the greatest</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030213500 +0000" stop="20211030232000 +0000">
-    <title>LaLiga (G)</title>
-    <desc>Elche v Real Madrid. Extensive coverage from every round of the Spanish LaLiga, Spains top division of football with the Worlds biggest teams.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030232000 +0000" stop="20211030233500 +0000">
-    <title>Great Goals (G)</title>
-    <desc>From solo sensations to incredible team efforts, delicate chips to 40 yard screamers, Great Goals serves up a feast of the finest strikes in football history.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211030233500 +0000" stop="20211031013500 +0000">
-    <title>LIVE: MLS (G)</title>
-    <desc>DC Utd v Columbus. Catch all the action from the 26th season of Major League Soccer, the top division of football in the United States and Canada.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031013500 +0000" stop="20211031020500 +0000">
-    <title>Football's Greatest (G)</title>
-    <desc>Clarence Seedorf. The biggest names in world football, both past and present, are profiled to show what makes the the greatest</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031020500 +0000" stop="20211031035000 +0000">
-    <title>LaLiga (G)</title>
-    <desc>Barcelona v Alaves. Extensive coverage from every round of the Spanish LaLiga, Spains top division of football with the Worlds biggest teams.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031035000 +0000" stop="20211031042000 +0000">
-    <title>Football's Greatest (G)</title>
-    <desc>Cristiano Ronaldo. The biggest names in world football, both past and present, are profiled to show what makes the the greatest</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031042000 +0000" stop="20211031060000 +0000">
-    <title>Serie A (G)</title>
-    <desc>Verona v Juventus. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031060000 +0000" stop="20211031063000 +0000">
-    <title>Ligue 1 Mini (G)</title>
-    <desc>Lyon v Lens. Watch every round of Ligue 1, Frances top division of football. Lille are the defending champions</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031063000 +0000" stop="20211031070000 +0000">
-    <title>Ligue 1 Mini (G)</title>
-    <desc>PSG v Lille. The league leaders take on the reigning champions as Paris Saint-Germain and Lille kick off the weekends Ligue 1 action.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031070000 +0000" stop="20211031073000 +0000">
-    <title>EFL Mini (G)</title>
-    <desc>QPR v Nottm Forest. QPR play host to Nottingham Forest, looking to bounce back from the disappointment of losing in the EFL Cup fourth round in controversial circumstances.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031073000 +0000" stop="20211031080000 +0000">
-    <title>EFL Mini (G)</title>
-    <desc>Fulham v West Brom. Enjoy extensive coverage of the EFL Championship as some of the biggest teams in English football battle it out for a place in the EPL.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031080000 +0000" stop="20211031083000 +0000">
-    <title>LaLiga Mini (G)</title>
-    <desc>Elche v Real Madrid. Exclusive coverage from the Spanish LaLiga, Spains top division of football, with the worlds biggest teams and best players.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031083000 +0000" stop="20211031090000 +0000">
-    <title>LaLiga Mini (G)</title>
-    <desc>Barcelona v Alaves. Exclusive coverage from the Spanish LaLiga, Spains top division of football, with the worlds biggest teams and best players.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031090000 +0000" stop="20211031105000 +0000">
-    <title>Serie A (G)</title>
-    <desc>Verona v Juventus. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031105000 +0000" stop="20211031110000 +0000">
-    <title>Great Goals (G)</title>
-    <desc>From solo sensations to incredible team efforts, delicate chips to 40 yard screamers, Great Goals serves up a feast of the finest strikes in football history.</desc>
-    <category>Soccer</category>
-  </programme>
-  <channel id="86">
-    <display-name>sky-sport-8</display-name>
-  </channel>
-  <programme channel="86" start="20211030110000 +0000" stop="20211030125500 +0000">
-    <title>French Top 14: RAC v MON (G)</title>
-    <desc>Replay coverage of the French Top 14 season as Racing 92 host Montpellier at Paris La Défense Arena, Nanterre.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="86" start="20211030125500 +0000" stop="20211030150000 +0000">
-    <title>LIVE: French Top 14: CAS v BRI (G)</title>
-    <desc>LIVE coverage of the French Top 14 season as Castres host Brive at Stade Pierre-Fabre, Castres.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="86" start="20211030150000 +0000" stop="20211030170000 +0000">
-    <title>LIVE: French Top 14: MON v LYO (G)</title>
-    <desc>LIVE coverage of the French Top 14 season as Montpellier host Lyon at GGL Stadium, Montpellier.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="86" start="20211030170000 +0000" stop="20211030200000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211030200000 +0000" stop="20211030214500 +0000">
-    <title>LIVE: ISU Grand Prix (G)</title>
-    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Pairs freeskating  takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211030214500 +0000" stop="20211030234000 +0000">
-    <title>LIVE: ISU Grand Prix (G)</title>
-    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Men's freeskating  takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211030234000 +0000" stop="20211031003000 +0000">
-    <title>LIVE: ISU Grand Prix (G)</title>
-    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Men's and Pairs Victory Ceremony  takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211031003000 +0000" stop="20211031023000 +0000">
-    <title>LIVE: ISU Grand Prix (G)</title>
-    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Ice Dance  takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211031023000 +0000" stop="20211031042500 +0000">
-    <title>LIVE: ISU Grand Prix (G)</title>
-    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Freeskate  takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211031042500 +0000" stop="20211031045500 +0000">
-    <title>LIVE: ISU Grand Prix (G)</title>
-    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Women and Pairs Victory Ceremony  takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211031045500 +0000" stop="20211031060500 +0000">
-    <title>ISU Grand Prix (G)</title>
-    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Pairs Short Program  takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211031060500 +0000" stop="20211031074000 +0000">
-    <title>ISU Grand Prix (G)</title>
-    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Men's Short Program  takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211031074000 +0000" stop="20211031075500 +0000">
-    <title>ISU Grand Prix (G)</title>
-    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Opening Ceremony  takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211031075500 +0000" stop="20211031091500 +0000">
-    <title>ISU Grand Prix (G)</title>
-    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Rhythm Dance  takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211031091500 +0000" stop="20211031105000 +0000">
-    <title>ISU Grand Prix (G)</title>
-    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Women's Short Program  takes place.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="86" start="20211031105000 +0000" stop="20211031110000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
-    <category>Sports</category>
-  </programme>
-  <channel id="87">
-    <display-name>sky-sport-9</display-name>
-  </channel>
-  <programme channel="87" start="20211030110000 +0000" stop="20211030150000 +0000">
-    <title>LIVE: St. Petersburg Open: D6 (G)</title>
-    <desc>LIVE – ATP 250: St. Petersburg Open. Tune in for all the action from Day 6 as the world's top tennis players go head to head in St. Petersburg, Russia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="87" start="20211030150000 +0000" stop="20211030170000 +0000">
-    <title>LIVE: FINA Swimming World Cup (G)</title>
-    <desc>Sky Sport is proud to bring you the final leg of the FINA Swimming World Cup 2021 from Kazan, Russia. Join us for LIVE coverage of Day 3.</desc>
-    <category>Athletics</category>
-  </programme>
-  <programme channel="87" start="20211030170000 +0000" stop="20211030190000 +0000">
-    <title>NZRL Men's National Competition (G)</title>
-    <desc>Join Sky Sport for Replay coverage of the 2021 NZRL Men's National Competition. Catch the action as the Canterbury Bulls take on the Upper Central Stallions from Nga Puna Wai, Christchurch.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="87" start="20211030190000 +0000" stop="20211030233000 +0000">
-    <title>British Fast5 All-Stars Replay (G)</title>
-    <desc>British Fast5 All-Stars Championship Replay</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="87" start="20211030233000 +0000" stop="20211031003000 +0000">
-    <title>PFL Final Hls (M)</title>
-    <desc>Six World Title Fights with Six Million Dollars on the Line. Kayla Harrison and Taylor Guardado headline the PFL World Championship Main Card plus Olympic Gold Medallist boxer Claressa Shields returns to the SmartCage against Abigail Montes.</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="87" start="20211031003000 +0000" stop="20211031023000 +0000">
-    <title>FINA Swimming World Cup (G)</title>
-    <desc>Sky Sport is proud to bring you the final leg of the FINA Swimming World Cup 2021 from Kazan, Russia. Join us for replay coverage of Day 3.</desc>
-    <category>Athletics</category>
-  </programme>
-  <programme channel="87" start="20211031023000 +0000" stop="20211031040000 +0000">
-    <title>Erste Bank Open: SF1 (G)</title>
-    <desc>Semi-Final 1 from Day 6 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="87" start="20211031040000 +0000" stop="20211031053000 +0000">
-    <title>Erste Bank Open: SF2 (G)</title>
-    <desc>Semi-Final 2 from Day 6 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="87" start="20211031053000 +0000" stop="20211031070000 +0000">
-    <title>St. Petersburg Open: SF1 (G)</title>
-    <desc>Semi-Final 1 from Day 6 of the ATP 250: St. Petersburg Open. Tune in as the world's top tennis players go head to head in St. Petersburg, Russia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="87" start="20211031070000 +0000" stop="20211031083000 +0000">
-    <title>St. Petersburg Open: SF2 (G)</title>
-    <desc>Semi-Final 2 from Day 6 of the ATP 250: St. Petersburg Open. Tune in as the world's top tennis players go head to head in St. Petersburg, Russia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="87" start="20211031083000 +0000" stop="20211031090000 +0000">
-    <title>Billie Jean King Cup: Preview Show (G)</title>
-    <desc>Preview Show of the Billie Jean King Cup 2021 (was Fed Cup) - the premier international team competition in women's tennis.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="87" start="20211031090000 +0000" stop="20211031110000 +0000">
-    <title>PFL Final (M)</title>
-    <desc>Six World Title Fights with Six Million Dollars on the Line. Kayla Harrison and Taylor Guardado headline the PFL World Championship Main Card plus Olympic Gold Medallist boxer Claressa Shields returns to the SmartCage against Abigail Montes.</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <channel id="88">
-    <display-name>sky-sport-news</display-name>
-  </channel>
-  <programme channel="88" start="20211030110000 +0000" stop="20211030113000 +0000">
-    <title>UFC 267 Weigh-In (M)</title>
-    <desc>Join us for the ceremonial weigh-ins leading up to the big event. UFC 267, LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="88" start="20211030113000 +0000" stop="20211030120000 +0000">
-    <title>Rugby: USA v All Blacks Hls (G)</title>
-    <desc>Highlights of the All Blacks clash with the USA from Washington DC.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="88" start="20211030120000 +0000" stop="20211030170000 +0000">
-    <title>LIVE: British Fast5 All-Stars (G)</title>
-    <desc>LIVE: British Fast5 All-Stars Championship at Copper Box Arena, London</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20211030170000 +0000" stop="20211030173000 +0000">
-    <title>UFC Fight Week 267 (M)</title>
-    <desc>The ultimate build-up show for UFC 267 Blachowicz v Texeira. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="88" start="20211030173000 +0000" stop="20211030180000 +0000">
-    <title>Playmakers: UFC 267 Preview (M)</title>
-    <desc>Ravinder Hunia catches up with UFC star Dan Hooker and his wrestling coach, Frank Hickman, ahead of his UFC267 bout against Islam Makhachev. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20211030180000 +0000" stop="20211030200000 +0000">
-    <title>Boxing: Crawford v Brook (M)</title>
-    <desc>Replay coverage of the WBO Welterweight championship fight between unbeaten champion Terence Crawford (36-0) and "Special K" Kell Brook (39-2) from the MGM Grand in Las Vegas.</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="88" start="20211030200000 +0000" stop="20211030220000 +0000">
-    <title>Boxing: Plant v Truax (M)</title>
-    <desc>Replay coverage of the IBF Super Middleweight title bout between champion Caleb Plant (20-0) and Caleb Truax (31-2) from the Shrine Exposition centre in Los Angles.</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="88" start="20211030220000 +0000" stop="20211030230000 +0000">
-    <title>LIVE: Fox Sports News (G)</title>
-    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20211030230000 +0000" stop="20211031000000 +0000">
-    <title>British Fast5 All-Stars Championship Hls (G)</title>
-    <desc>British Fast5 All-Stars Championship Highlights</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20211031000000 +0000" stop="20211031020000 +0000">
-    <title>Rugby: SCO v TGA (G)</title>
-    <desc>Replay of international rugby as Tonga visit Murrayfield to take on Scotland.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="88" start="20211031020000 +0000" stop="20211031050000 +0000">
-    <title>LIVE: James v Butaev (M)</title>
-    <desc>WBA Welterweight Champion Jamal “Shango” James (27, 1) will defend his title against unbeaten contender Radzhab Butaev (13, 0) in a 12-round duel that headlines a night of action.</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="88" start="20211031050000 +0000" stop="20211031060000 +0000">
-    <title>LIVE: Fox Sports News (G)</title>
-    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20211031060000 +0000" stop="20211031070000 +0000">
-    <title>Erste Bank Open: Day 6 Hls (G)</title>
-    <desc>Highlights from Day 6 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="88" start="20211031070000 +0000" stop="20211031073000 +0000">
-    <title>Rugby: SCO v TGA Hls (G)</title>
-    <desc>Highlights as Scotland take on Tonga from BT Murrayfield Stadium in Edinburgh.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="88" start="20211031073000 +0000" stop="20211031103000 +0000">
-    <title>James v Butaev (M)</title>
-    <desc>WBA Welterweight Champion Jamal “Shango” James (27, 1) will defend his title against unbeaten contender Radzhab Butaev (13, 0) in a 12-round duel that headlines a night of action.</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="88" start="20211031103000 +0000" stop="20211031110000 +0000">
-    <title>St. Petersburg Open: SF1 (G)</title>
-    <desc>Semi-Final 1 from Day 6 of the ATP 250: St. Petersburg Open. Tune in as the world's top tennis players go head to head in St. Petersburg, Russia.</desc>
-    <category>Tennis</category>
-  </programme>
-  <channel id="81">
-    <display-name>espn</display-name>
-  </channel>
-  <programme channel="81" start="20211030110000 +0000" stop="20211030130000 +0000">
-    <title>NBA (G)</title>
-    <desc>Nuggets v Mavericks: In a Euro showdown, the Luka Don?i? led Mavericks take on the reigning MVP, Nicola Joki? and the Denver Nuggets.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20211030130000 +0000" stop="20211030133000 +0000">
-    <title>NBA Mini (G)</title>
-    <desc>Heat v Hornets: Miles Bridges has erupted onto the scene for the Hornets. Their latest challenge are the Miami Heat NBA Minis are shortened versions of the full game.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20211030133000 +0000" stop="20211030140000 +0000">
-    <title>NBA Mini (G)</title>
-    <desc>Nuggets v Mavericks: In a Euro showdown, the Luka Don?i? led Mavericks take on the reigning MVP, Nicola Joki? and the Denver Nuggets NBA Minis are shortened versions of the full game.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20211030140000 +0000" stop="20211030143000 +0000">
-    <title>UFC Live (M)</title>
-    <desc>Blachowicz v Teixeira: UFC Live presents fans with exclusive takes on the biggest news, stars, and stories tailored to each and every UFC Fight Nights and UFC PPV throughout the UFC season.</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="81" start="20211030143000 +0000" stop="20211030180500 +0000">
-    <title>Live: UFC 267 (M)</title>
-    <desc>Blachowicz v Teixeira (Prelims).</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="81" start="20211030180500 +0000" stop="20211030183000 +0000">
-    <title>In Depth With (G)</title>
-    <desc>Best of GB: Host Graham Bensinger and the In Depth crew look back at the best moments from the show.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="81" start="20211030183000 +0000" stop="20211030193000 +0000">
-    <title>SEC Storied (G)</title>
-    <desc>Herschel Walker: Herschel Walker is considered one of the SEC?s and college football?s greatest players ever.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="81" start="20211030193000 +0000" stop="20211030230000 +0000">
-    <title>Live: College Football (G)</title>
-    <desc>Oklahoma v Texas Tech: Texas Tech will need to dig deep as they head to Oklahoma to go against #4 undefeated Sooners.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20211030230000 +0000" stop="20211030233000 +0000">
-    <title>MLB Ultimate Lineup (G)</title>
-    <desc>The Most Memorable Bloopers We Ever Saw: There's no exact science for a classic baseball blooper.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20211030233000 +0000" stop="20211031000000 +0000">
-    <title>MLB Epic Moments (G)</title>
-    <desc>A Panda Strikes (2012 WS, Game 1): The story of Game 1 of the 2012 World Series was supposed to be Justin Verlander, the dominating starting pitcher, but the third baseman for the Giants had a diff...</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20211031000000 +0000" stop="20211031030000 +0000">
-    <title>Live: MLB World Series (G)</title>
-    <desc>Braves v Astros Game 4.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20211031030000 +0000" stop="20211031050000 +0000">
-    <title>Live: College Football (G)</title>
-    <desc>Utah v UCLA: UCLA lost a nail biter against #10 Oregon last week but look to rebound against Utah who are also coming off a tough loss.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20211031050000 +0000" stop="20211031060000 +0000">
-    <title>Live: SportsCenter (G)</title>
-    <desc>ESPN's flagship program provides TV's most thorough presentation of sports news, highlights and analysis.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="81" start="20211031060000 +0000" stop="20211031090000 +0000">
-    <title>MLB World Series (G)</title>
-    <desc>Braves v Astros Game 4.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20211031090000 +0000" stop="20211031110000 +0000">
-    <title>NHL (G)</title>
-    <desc>Canucks v Oilers: The Oilers have had a strong start to the season, looking poised to continue this form as they head to Vancouver to take on the Canucks.</desc>
-    <category>US Sports</category>
-  </programme>
-  <channel id="82">
-    <display-name>espn2</display-name>
-  </channel>
-  <programme channel="82" start="20211030110000 +0000" stop="20211030130000 +0000">
-    <title>MLB World Series (G)</title>
-    <desc>Braves v Astros Game 3: The Astros levelled the series in Game 2, behind an impressive 2nd inning. The series heads to Atlanta for a crucial Game 3.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211030130000 +0000" stop="20211030160000 +0000">
-    <title>Live: College GameDay (G)</title>
-    <desc>Host Rece Davis and analysts Lee Corso, Kirk Herbstreit, Desmond Howard, David Pollack and company cover all the angles in college gridiron with previews, exclusive interviews, analysis &amp; discussion</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211030160000 +0000" stop="20211030190500 +0000">
-    <title>Live: College Football (G)</title>
-    <desc>Wisconsin v Iowa: #9 Iowa suffered their first loss of the season the last time they played and now face Wisconsin who are sailing on a 3 game win streak.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211030190500 +0000" stop="20211030190800 +0000">
-    <title>Programme information unavailable</title>
-    <desc>Programme information unavailable</desc>
-    <category>sport</category>
-  </programme>
-  <programme channel="82" start="20211030190800 +0000" stop="20211030193000 +0000">
-    <title>Live: College Football (G)</title>
-    <desc>Wisconsin v Iowa: #9 Iowa suffered their first loss of the season the last time they played and now face Wisconsin who are sailing on a 3 game win streak.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211030193000 +0000" stop="20211030230000 +0000">
-    <title>Live: College Football (G)</title>
-    <desc>Clemson v Florida State: Clemson have had the worst start to a season in recent memory but head into their match up against Florida State as the heavy favourite.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211030230000 +0000" stop="20211031020000 +0000">
-    <title>Live: College Football (G)</title>
-    <desc>Auburn v Ole Miss: Boasting one of the most potent offences in the competition, #10 Ole Miss will be throwing everything they have at #18 Auburn.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211031020000 +0000" stop="20211031043000 +0000">
-    <title>Live: NHL (G)</title>
-    <desc>Canucks v Oilers: The Oilers have had a strong start to the season, looking poised to continue this form as they head to Vancouver to take on the Canucks.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211031043000 +0000" stop="20211031050000 +0000">
-    <title>NFL Films (G)</title>
-    <desc>NFL Films showcases behind the scenes access to NFL players and coaches of the current season. Each program follows a different theme taking the fan deeper into the NFL realm.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211031050000 +0000" stop="20211031053000 +0000">
-    <title>NBA Action (G)</title>
-    <desc>NBA Action delivers highlights and news from around the league, including a recap of the past week's on-court action and statistics.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211031053000 +0000" stop="20211031073000 +0000">
-    <title>College Football (G)</title>
-    <desc>Baylor v Texas: In what is being considered as an even match up, the Texas Longhorns look to correct a 2 game skid against the #16 Baylor Bears.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211031073000 +0000" stop="20211031093000 +0000">
-    <title>UFC 267 (M)</title>
-    <desc>Blachowicz v Teixeira (Prelims).</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="82" start="20211031093000 +0000" stop="20211031100000 +0000">
-    <title>ESPN FC (G)</title>
-    <desc>Featuring panelists from around the football world debating the games hottest talking points.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="82" start="20211031100000 +0000" stop="20211031110000 +0000">
-    <title>College Football (G)</title>
-    <desc>Auburn v Ole Miss: After winning their first 5 games, Penn State has dropped their last 2 and now face the competitions best offence when they take on Ohio State.</desc>
-    <category>US Sports</category>
-  </programme>
-  <channel id="93">
-    <display-name>sky-sport-popup-1</display-name>
-  </channel>
-  <programme channel="93" start="20211030110000 +0000" stop="20211030143500 +0000">
-    <title>LIVE FIA WEC: 6 Hours of Bahrain (G)</title>
-    <desc>LIVE Coverage of the FIA World Endurnace Championship, 6 Hours of Bahrain, from Bahrain International Circuit, Sakhir, Bahrain.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="93" start="20211030144000 +0000" stop="20211030163500 +0000">
-    <title>Coming Up: Football (G)</title>
-    <desc>Coming Up: LIVE coverage of Dutch football.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="93" start="20211030163500 +0000" stop="20211030185000 +0000">
-    <title>LIVE: Heracles vs Ajax (G)</title>
-    <desc>LIVE football coverage of the Dutch Eredivisie season as Heracles host league leaders Ajax at the Erve Asito in Almelo, Netherlands.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="93" start="20211030185000 +0000" stop="20211031110000 +0000">
-    <title>Coming Up: Cricket (G)</title>
-    <desc>Coming Up: LIVE coverage of the Marsh One Day Cup match between Queensland and Tasmania.</desc>
-    <category>Sports</category>
-  </programme>
-  <channel id="60">
-    <display-name>sky-sport-1</display-name>
-  </channel>
   <programme channel="60" start="20211031110000 +0000" stop="20211031120000 +0000">
     <title>Bunnings NPC: SOU v NOR (G)</title>
     <desc>Bunnings NPC 2021: Southland meet Northland at Rugby Park in Invercargill.</desc>
@@ -1196,12 +22,12 @@
     <desc>Short highlights of the All Blacks clash with Wales in Cardiff.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="60" start="20211031141000 +0000" stop="20211031163000 +0000">
+  <programme channel="60" start="20211031141000 +0000" stop="20211031163500 +0000">
     <title>LIVE Rugby: ENG V Black Ferns (G)</title>
     <desc>LIVE coverage of the Black Ferns opening tour match as they face the English Red Roses in Exeter.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="60" start="20211031163000 +0000" stop="20211031170000 +0000">
+  <programme channel="60" start="20211031163500 +0000" stop="20211031170000 +0000">
     <title>All Access: Black Ferns (G)</title>
     <desc>Episode 1 of 3: As the Black Ferns prepare for their 100th test match, against England on Monday, Sky Sport gets an inside look at the team culture, the relentless training sessions and the characters that make this team so elite.</desc>
     <category>Rugby</category>
@@ -1279,17 +105,22 @@
   <channel id="61">
     <display-name>sky-sport-2</display-name>
   </channel>
-  <programme channel="61" start="20211031110000 +0000" stop="20211031130000 +0000">
+  <programme channel="61" start="20211031110000 +0000" stop="20211031123000 +0000">
     <title>LIVE: Erste Bank Open: Doubles Final (G)</title>
     <desc>LIVE – ATP 500: Erste Bank Open. Tune in for all the action of the Doubles Final from Day 7 as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211031130000 +0000" stop="20211031150000 +0000">
+  <programme channel="61" start="20211031123000 +0000" stop="20211031130000 +0000">
+    <title>Rugby: Wales v All Blacks Hls (G)</title>
+    <desc>Highlights of the All Blacks visit to Cardiff to take on the Welsh.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="61" start="20211031130000 +0000" stop="20211031151500 +0000">
     <title>LIVE: Erste Bank Open: Singles Final (G)</title>
     <desc>LIVE – ATP 500: Erste Bank Open. Tune in for all the action of the Singles Final from Day 7 as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211031150000 +0000" stop="20211031170000 +0000">
+  <programme channel="61" start="20211031151500 +0000" stop="20211031170000 +0000">
     <title>French Top 14: PAR v LYO (G)</title>
     <desc>Replay coverage of the French Top 14 as Paris host Lyon at Stade Jean-Bouin, Paris.</desc>
     <category>Rugby</category>
@@ -1342,14 +173,19 @@
   <channel id="62">
     <display-name>sky-sport-3</display-name>
   </channel>
-  <programme channel="62" start="20211031110000 +0000" stop="20211031134500 +0000">
+  <programme channel="62" start="20211031110000 +0000" stop="20211031133500 +0000">
     <title>LIVE: ICC T20 WC: AFG v NAM (G)</title>
     <desc>LIVE coverage of the ICC T20 World Cup match between Afghanistan and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211031134500 +0000" stop="20211031180000 +0000">
+  <programme channel="62" start="20211031133500 +0000" stop="20211031173000 +0000">
     <title>LIVE: ICC T20 WC: IND v NZ (G)</title>
     <desc>LIVE coverage of the ICC T20 World Cup match between India and New Zealand at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211031173000 +0000" stop="20211031180000 +0000">
+    <title>ICC T20 WC: AFG v PAK Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between Afghanistan and Pakistan at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211031180000 +0000" stop="20211031183000 +0000">
@@ -1460,12 +296,12 @@
     <desc>Here is another thriller from the 2001 NRL Premiership as the Warriors travelled to Colonial Stadium to take on the Melbourne Storm with finals footy aspirations.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211031112000 +0000" stop="20211031114500 +0000">
+  <programme channel="63" start="20211031112000 +0000" stop="20211031114000 +0000">
     <title>NRL Premiership: PEN v WST Mini Hls (G)</title>
     <desc>Mini Highlights of Round 24 of the 2021 NRL Premiership as the Penrith Panthers take on the Wests Tigers from Moreton Daily Stadium, Redcliffe.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211031114500 +0000" stop="20211031160000 +0000">
+  <programme channel="63" start="20211031114000 +0000" stop="20211031160000 +0000">
     <title>LIVE: World Series of Darts Finals: Qfs (G)</title>
     <desc>LIVE: 2021 World Series of Darts Finals: Join in on the fun as the Quarter finalists compete in Amsterdam, Netherlands.</desc>
     <category>Sports</category>
@@ -1477,7 +313,7 @@
   </programme>
   <programme channel="63" start="20211031173000 +0000" stop="20211031180000 +0000">
     <title>All Access: Black Ferns (G)</title>
-    <desc>As the Black Ferns prepare for their 100th test match, against England on Monday, Sky Sport gets an inside look at the team culture, the relentless training sessions and the characters that make this team so elite.</desc>
+    <desc>Episode 1 of 3: As the Black Ferns prepare for their 100th test match, against England on Monday, Sky Sport gets an inside look at the team culture, the relentless training sessions and the characters that make this team so elite.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="63" start="20211031180000 +0000" stop="20211031220000 +0000">
@@ -1676,12 +512,12 @@
     <desc>Highlights PGA Tour. Round 3 of Bermuda Championship played at Port Royal Golf Course in Southampton Parish, Bermuda.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211031150000 +0000" stop="20211031180000 +0000">
+  <programme channel="84" start="20211031150000 +0000" stop="20211031181000 +0000">
     <title>LIVE: PGA Tour (G)</title>
     <desc>LIVE: PGA Tour. Round 4 of Bermuda Championship played at Port Royal Golf Course in Southampton Parish, Bermuda.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211031180000 +0000" stop="20211031190000 +0000">
+  <programme channel="84" start="20211031181000 +0000" stop="20211031190000 +0000">
     <title>Network Special: The John Shippen (G)</title>
     <desc>Network Special: John Shippen, Jr., who was the first American-born golf professional and also the country’s first Black golf professional. Shippen was bestowed PGA of America membership posthumously in 2009.</desc>
     <category>Golf</category>
@@ -1784,12 +620,12 @@
     <desc>From solo sensations to incredible team efforts, delicate chips to 40 yard screamers, Great Goals serves up a feast of the finest strikes in football history.</desc>
     <category>Soccer</category>
   </programme>
-  <programme channel="85" start="20211031112000 +0000" stop="20211031132500 +0000">
+  <programme channel="85" start="20211031112000 +0000" stop="20211031133000 +0000">
     <title>LIVE: Serie A (G)</title>
     <desc>Inter v Udinese. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
     <category>Soccer</category>
   </programme>
-  <programme channel="85" start="20211031132500 +0000" stop="20211031135500 +0000">
+  <programme channel="85" start="20211031133000 +0000" stop="20211031135500 +0000">
     <title>Ligue 1 Mini (G)</title>
     <desc>PSG v Lille. The league leaders take on the reigning champions as Paris Saint-Germain and Lille kick off the weekends Ligue 1 action.</desc>
     <category>Soccer</category>
@@ -1814,19 +650,14 @@
     <desc>Atletico v Real Betis. The LaLiga TV panel of experts look forward to the upcoming live matches.</desc>
     <category>Soccer</category>
   </programme>
-  <programme channel="85" start="20211031151000 +0000" stop="20211031170500 +0000">
+  <programme channel="85" start="20211031151000 +0000" stop="20211031171000 +0000">
     <title>LIVE: LaLiga (G)</title>
     <desc>Atletico v Real Betis. Extensive coverage from every round of the Spanish LaLiga, Spains top division of football with the Worlds biggest teams.</desc>
     <category>Soccer</category>
   </programme>
-  <programme channel="85" start="20211031170500 +0000" stop="20211031185500 +0000">
+  <programme channel="85" start="20211031171000 +0000" stop="20211031190500 +0000">
     <title>LIVE: Serie A (G)</title>
     <desc>Salernitana v Napoli. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="85" start="20211031185500 +0000" stop="20211031190500 +0000">
-    <title>Great Goals (G)</title>
-    <desc>From solo sensations to incredible team efforts, delicate chips to 40 yard screamers, Great Goals serves up a feast of the finest strikes in football history.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20211031190500 +0000" stop="20211031193500 +0000">
@@ -1851,7 +682,7 @@
   </programme>
   <programme channel="85" start="20211031223500 +0000" stop="20211031230500 +0000">
     <title>EFL Mini (G)</title>
-    <desc>QPR v Nottm Forest. Enjoy extensive coverage of the EFL Championship as some of the biggest teams in English football battle it out for a place in the EPL.</desc>
+    <desc>QPR v Nottm Forest. QPR play host to Nottingham Forest, looking to bounce back from the disappointment of losing in the EFL Cup fourth round in controversial circumstances.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20211031230500 +0000" stop="20211031233500 +0000">
@@ -2048,20 +879,10 @@
     <desc>Semi-Final 2 from Day 6 of the ATP 250: St. Petersburg Open. Tune in as the world's top tennis players go head to head in St. Petersburg, Russia.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="88" start="20211031133000 +0000" stop="20211031153000 +0000">
+  <programme channel="88" start="20211031133000 +0000" stop="20211031163000 +0000">
     <title>LIVE: St. Petersburg Open: Final (G)</title>
     <desc>LIVE – ATP 250: St. Petersburg Open. Tune in for all the action of the Final as the world's top tennis players go head to head in St. Petersburg, Russia.</desc>
     <category>Tennis</category>
-  </programme>
-  <programme channel="88" start="20211031153000 +0000" stop="20211031160000 +0000">
-    <title>WBBL: ST v MS Hls (G)</title>
-    <desc>Highlights of the Women's Big Bash League match between the Sydney Thunder and Melbourne Stars at the University of Tasmania Stadium, Launceston.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="88" start="20211031160000 +0000" stop="20211031163000 +0000">
-    <title>WBBL: BH v HH Hls (G)</title>
-    <desc>Highlights of the Women's Big Bash League match between the Brisbane Heat and Hobart Hurricanes at the University of Tasmania Stadium, Launceston.</desc>
-    <category>Cricket</category>
   </programme>
   <programme channel="88" start="20211031163000 +0000" stop="20211031170000 +0000">
     <title>Bunnings NPC: SOU v NOR Hls (G)</title>
@@ -3045,7 +1866,7 @@
   </programme>
   <programme channel="85" start="20211101112500 +0000" stop="20211101131000 +0000">
     <title>Ligue 1 (G)</title>
-    <desc>PSG v Lille. Watch every round of Ligue 1, Frances top division of football</desc>
+    <desc>PSG v Lille. The league leaders take on the reigning champions as Paris Saint-Germain and Lille kick off the weekends Ligue 1 action.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20211101131000 +0000" stop="20211101145500 +0000">
@@ -8231,5 +7052,1014 @@
     <title>LIVE FIA WEC: 8 Hours of Bahrain (G)</title>
     <desc>LIVE Coverage of the FIA World Endurnace Championship, 8 Hours of Bahrain, from Bahrain International Circuit, Sakhir, Bahrain.</desc>
     <category>Motorsport</category>
+  </programme>
+  <channel id="60">
+    <display-name>sky-sport-1</display-name>
+  </channel>
+  <programme channel="60" start="20211106110000 +0000" stop="20211106120000 +0000">
+    <title>Bunnings NPC: TAS v WEL (G)</title>
+    <desc>Bunnings NPC 2021: Tasman butt heads with Wellington at Landsdowne Park in Blenheim.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211106120000 +0000" stop="20211106123000 +0000">
+    <title>Bunnings NPC: CAN v BOP Hls (G)</title>
+    <desc>Bunnings NPC 2021: Canterbury host Bay of Plenty at Orangetheory Stadium in Christchurch.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211106123000 +0000" stop="20211106125000 +0000">
+    <title>Bunnings NPC Mini: BAY v NOR (G)</title>
+    <desc>Bunnings NPC 2021: Hawke's Bay host Northland from McLean Park in Napier.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211106125000 +0000" stop="20211106153000 +0000">
+    <title>LIVE Rugby: ITA v All Blacks (G)</title>
+    <desc>LIVE from Rome, the All Blacks face off against Italy.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211106153000 +0000" stop="20211106163000 +0000">
+    <title>Mainfreight Rugby (G)</title>
+    <desc>Join us every week as we showcase the best of grassroots footy from the Heartland Championship.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211106163000 +0000" stop="20211106170000 +0000">
+    <title>French Top 14 Highlights Show (G)</title>
+    <desc>Catch up on all the highlights every week from the latest round of the French Top 14.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211106170000 +0000" stop="20211106172000 +0000">
+    <title>Bunnings NPC Mini: TAS v WEL (G)</title>
+    <desc>Bunnings NPC 2021: Tasman butt heads with Wellington at Landsdowne Park in Blenheim.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211106172000 +0000" stop="20211106193000 +0000">
+    <title>LIVE Rugby: WAL v RSA (G)</title>
+    <desc>LIVE coverage of the world champion Springboks taking on the Welsh in Cardiff.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211106193000 +0000" stop="20211106195000 +0000">
+    <title>Bunnings NPC Mini: WAI v OTA (G)</title>
+    <desc>Bunnings NPC 2021: Waikato face Otago at FMG Stadium Waikato in Hamilton.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211106195000 +0000" stop="20211106220000 +0000">
+    <title>LIVE Rugby: FRA v ARG</title>
+    <desc>LIVE coverage of France hosting the Argentine Pumas from Stade De France in Paris.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211106220000 +0000" stop="20211106230000 +0000">
+    <title>Mainfreight Rugby (G)</title>
+    <desc>Join us every week as we showcase the best of grassroots footy from the Heartland Championship.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211106230000 +0000" stop="20211107010000 +0000">
+    <title>Rugby: ITA v All Blacks (G)</title>
+    <desc>Replay of the All Blacks clash against Italy in Rome.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211107010000 +0000" stop="20211107030000 +0000">
+    <title>LIVE: Bunnings NPC: TAR v SOU (G)</title>
+    <desc>Bunnings NPC 2021: Taranaki go eye to eye with Southland at the TET Stadium in Inglewood.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211107030000 +0000" stop="20211107050000 +0000">
+    <title>Rugby: FRA v ARG</title>
+    <desc>Replay of France hosting the Argentine Pumas from Stade De France in Paris.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211107050000 +0000" stop="20211107053000 +0000">
+    <title>Rugby: ENG v TGA Hls</title>
+    <desc>Highlights of England playing host to Tonga from Twickenham.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211107053000 +0000" stop="20211107073000 +0000">
+    <title>Rugby: ITA v All Blacks (G)</title>
+    <desc>Replay of the All Blacks clash against Italy in Rome.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211107073000 +0000" stop="20211107080000 +0000">
+    <title>Rugby Nation (G)</title>
+    <desc>Join your host Karl Te Nana for the best highlights from the weekend’s rugby.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211107080000 +0000" stop="20211107083000 +0000">
+    <title>Bunnings NPC: TAR v SOU Hls (G)</title>
+    <desc>Bunnings NPC 2021: Taranaki go eye to eye with Southland at the TET Stadium in Inglewood.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211107083000 +0000" stop="20211107090000 +0000">
+    <title>Bunnings NPC: BAY v NOR Hls (G)</title>
+    <desc>Bunnings NPC 2021: Hawke's Bay host Northland from McLean Park in Napier.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211107090000 +0000" stop="20211107110000 +0000">
+    <title>Rugby: Ireland V Japan Replay (G)</title>
+    <desc>Replay coverage as Ireland face Japan from Aviva Stadium in Dublin.</desc>
+    <category>Rugby</category>
+  </programme>
+  <channel id="61">
+    <display-name>sky-sport-2</display-name>
+  </channel>
+  <programme channel="61" start="20211106110000 +0000" stop="20211106113000 +0000">
+    <title>Rolex Paris Masters: Day 5 MOTD (G)</title>
+    <desc>Match of the day from Day 5 of the ATP 1000: Rolex Paris Masters. Tune in as the world's top tennis players go head to head in Paris, France.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="61" start="20211106113000 +0000" stop="20211106120000 +0000">
+    <title>Asia-Pacific Amateur Champs: Round 2 Hls (G)</title>
+    <desc>Highlights Asia Pacific Amateur Championships. Round 2 held at Dubai Creek Golf &amp; Yacht Club in Dubai, United Arab Emirates. Created in 2009, the AAC was established to further develop amateur golf in the Asia-Pacific region.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="61" start="20211106120000 +0000" stop="20211106123000 +0000">
+    <title>ICC T20 WC: NZ v NAM (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between New Zealand and Namibia at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="61" start="20211106123000 +0000" stop="20211106125000 +0000">
+    <title>Bunnings NPC Mini: TAS v WEL (G)</title>
+    <desc>Bunnings NPC 2021: Tasman butt heads with Wellington at Landsdowne Park in Blenheim.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="61" start="20211106125000 +0000" stop="20211106150000 +0000">
+    <title>LIVE Rugby: IRE v JPN (G)</title>
+    <desc>LIVE coverage as Ireland face Japan from Aviva Stadium in Dublin.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="61" start="20211106150000 +0000" stop="20211106153000 +0000">
+    <title>ATP Uncovered (G)</title>
+    <desc>Unrivalled behind-the-scenes access to the most exciting tennis players and tournaments on earth. Delivering personality-driven player profiles, in-depth tournament features, off-court stories, tactical analysis, and much more.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="61" start="20211106153000 +0000" stop="20211106173000 +0000">
+    <title>LIVE: Rolex Paris Masters: SF2 (G)</title>
+    <desc>LIVE - ATP 1000: Rolex Paris Masters. Tune in for all the action of the Semi-Final 2 from Day 6 as the world's top tennis players go head to head in Paris, France.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="61" start="20211106173000 +0000" stop="20211106180000 +0000">
+    <title>Bunnings NPC: CAN v BOP Hls (G)</title>
+    <desc>Bunnings NPC 2021: Canterbury host Bay of Plenty at Orangetheory Stadium in Christchurch.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="61" start="20211106180000 +0000" stop="20211106183000 +0000">
+    <title>Italy v All Blacks Replay (G)</title>
+    <desc>Italy v All Blacks Replay</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="61" start="20211106183000 +0000" stop="20211106223000 +0000">
+    <title>LIVE: Boxxer SLW Tournament (M)</title>
+    <desc>Join us for all the action from the 2021 Boxxer Super Lightweight Tournament in Liverpool.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="61" start="20211106223000 +0000" stop="20211107003000 +0000">
+    <title>Bunnings NPC: BAY v NOR (G)</title>
+    <desc>Bunnings NPC 2021: Hawke's Bay host Northland from McLean Park in Napier.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="61" start="20211107003000 +0000" stop="20211107010000 +0000">
+    <title>Asia-Pacific Amateur Champs: Round 3 Hls (G)</title>
+    <desc>Highlights Asia Pacific Amateur Championships. Round 3 held at Dubai Creek Golf &amp; Yacht Club in Dubai, United Arab Emirates. Created in 2009, the AAC was established to further develop amateur golf in the Asia-Pacific region.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="61" start="20211107010000 +0000" stop="20211107050000 +0000">
+    <title>LIVE: Alvarez v Plant (M)</title>
+    <desc>WBA (Super), WBC, WBO and The Ring champion Canelo Alvarez (56,1, 2) faces IBF champion Caleb Plant (21,0) with the winner set to become the first undisputed super middleweight champion in boxing history.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="61" start="20211107050000 +0000" stop="20211107053000 +0000">
+    <title>Asia-Pacific Amateur Champs: Round 3 Hls (G)</title>
+    <desc>Highlights Asia Pacific Amateur Championships. Round 3 held at Dubai Creek Golf &amp; Yacht Club in Dubai, United Arab Emirates. Created in 2009, the AAC was established to further develop amateur golf in the Asia-Pacific region.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="61" start="20211107053000 +0000" stop="20211107060000 +0000">
+    <title>ICC T20 WC: AUS v WI Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between Australia and the West Indies at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="61" start="20211107060000 +0000" stop="20211107094500 +0000">
+    <title>ICC T20 WC: ENG v RSA (G)</title>
+    <desc>Replay coverage of the ICC T20 World Cup match between England and South Africa at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="61" start="20211107094500 +0000" stop="20211107110000 +0000">
+    <title>Rolex Paris Masters: SF2 (G)</title>
+    <desc>Semi-Final 2 from Day 6 of the ATP 1000: Rolex Paris Masters. Tune in as the world's top tennis players go head to head in Paris, France.</desc>
+    <category>Tennis</category>
+  </programme>
+  <channel id="62">
+    <display-name>sky-sport-3</display-name>
+  </channel>
+  <programme channel="62" start="20211106110000 +0000" stop="20211106134500 +0000">
+    <title>LIVE: ICC T20 WC: AUS v WI (G)</title>
+    <desc>LIVE coverage of the ICC T20 World Cup match between Australia and the West Indies at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211106134500 +0000" stop="20211106180000 +0000">
+    <title>LIVE: ICC T20 WC: ENG v RSA (G)</title>
+    <desc>LIVE coverage of the ICC T20 World Cup match between England and South Africa at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211106180000 +0000" stop="20211106183000 +0000">
+    <title>ICC T20 WC: IND v B1 Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between India and B1 at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211106183000 +0000" stop="20211106190000 +0000">
+    <title>T20 World Cup Wrap (G)</title>
+    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211106190000 +0000" stop="20211106223000 +0000">
+    <title>ICC T20 WC: AUS v WI (G)</title>
+    <desc>Replay coverage of the ICC T20 World Cup match between Australia and the West Indies at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211106223000 +0000" stop="20211106231000 +0000">
+    <title>WBBL: PS v HH Hls (G)</title>
+    <desc>Highlights of the Women's Big Bash League match between the Perth Scorchers and Hobart Hurricanes at the WACA, Perth.</desc>
+    <category>sport</category>
+  </programme>
+  <programme channel="62" start="20211106231000 +0000" stop="20211107024000 +0000">
+    <title>LIVE: WBBL: ST v BH (G)</title>
+    <desc>LIVE coverage of the Women's Big Bash League match between the Sydney Thunder and Brisbane Heat at the Adelaide Oval, Adelaide.</desc>
+    <category>sport</category>
+  </programme>
+  <programme channel="62" start="20211107024000 +0000" stop="20211107055000 +0000">
+    <title>LIVE: WBBL: MS v MR (G)</title>
+    <desc>LIVE coverage of the Women's Big Bash League match between the Melbourne Stars and Melbourne Renegades at the Adelaide Oval, Adelaide.</desc>
+    <category>sport</category>
+  </programme>
+  <programme channel="62" start="20211107055000 +0000" stop="20211107093000 +0000">
+    <title>LIVE: WBBL: HH v PS (G)</title>
+    <desc>LIVE coverage of the Women's Big Bash League match between the Hobart Hurricanes and Perth Scorchers at the WACA, Perth.</desc>
+    <category>sport</category>
+  </programme>
+  <programme channel="62" start="20211107093000 +0000" stop="20211107110000 +0000">
+    <title>LIVE: ICC T20 WC: NZ v AFG (G)</title>
+    <desc>LIVE coverage of the ICC T20 World Cup match between New Zealand and Afghanistan at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <category>Cricket</category>
+  </programme>
+  <channel id="63">
+    <display-name>sky-sport-4</display-name>
+  </channel>
+  <programme channel="63" start="20211106110000 +0000" stop="20211106124000 +0000">
+    <title>NZRL Men's National Competition (G)</title>
+    <desc>Join Sky Sport for Replay coverage of the 2021 NZRL Men's National Competition. Catch the action as the Canterbury Bulls take on the Upper Central Stallions from Nga Puna Wai, Christchurch.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20211106124000 +0000" stop="20211106134000 +0000">
+    <title>Billie Jean King Cup: SF1 Hls (G)</title>
+    <desc>Highlights from the Billie Jean King Cup by BNP Paribas Finals 2021 - the premier international team competition in women's tennis. Tune in for the Semi-Final 1 from the O2 Arena, Prague, Czech Republic.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="63" start="20211106134000 +0000" stop="20211106144000 +0000">
+    <title>Billie Jean King Cup: SF2 Hls (G)</title>
+    <desc>Highlights from the Billie Jean King Cup by BNP Paribas Finals 2021 - the premier international team competition in women's tennis. Tune in for the Semi-Final 2 from the O2 Arena, Prague, Czech Republic.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="63" start="20211106144000 +0000" stop="20211106210000 +0000">
+    <title>LIVE: Billie Jean King Cup: Final (G)</title>
+    <desc>LIVE: Billie Jean King Cup by BNP Paribas Finals 2021 (was Fed Cup) - the premier international team competition in women's tennis. Tune in for all the action of the Final from the O2 Arena, Prague, Czech Republic.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="63" start="20211106210000 +0000" stop="20211106220000 +0000">
+    <title>Rugby League: Top 100 (G)</title>
+    <desc>To make the top 100 in anything you have to be the best, in Rugby League our top 100 tries of all time are nothing short of this. Relive the excitement and hype from some of the games bigtime finishers.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20211106220000 +0000" stop="20211106230000 +0000">
+    <title>NRL Classic: 1978 Grand Final (G)</title>
+    <desc>The 1978 Grand Final featured Manly and Cronulla. This game was exciting and a close run affair.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20211106230000 +0000" stop="20211107010000 +0000">
+    <title>Delayed: French Top 14: TLS v PER (G)</title>
+    <desc>Delayed coverage of the French Top 14 season as Toulouse host Perpignan at Stade Ernest-Wallon, Toulouse.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="63" start="20211107010000 +0000" stop="20211107030000 +0000">
+    <title>NZRL Men's National Competition (G)</title>
+    <desc>Join Sky Sport for Replay coverage of the 2021 NZRL Men's National Competition. Catch the action as the Canterbury Bulls take on the Upper Central Stallions from Nga Puna Wai, Christchurch.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20211107030000 +0000" stop="20211107050000 +0000">
+    <title>National Women's Competition (G)</title>
+    <desc>Join Sky Sport for Replay coverage of the 2021 NZRL National Women's Competition. Catch the action as the Canterbury Women take on the Wellington Orcas Women from Nga Puna Wai, Christchurch.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20211107050000 +0000" stop="20211107053000 +0000">
+    <title>NRL: WAR v CRO Hls (G)</title>
+    <desc>Join Sky Sport for Highlight action of Round 21 of the 2021 NRL Premiership as the New Zealand Warriors take on the Cronulla Sharks from Cbus Super Stadium, Gold Coast.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20211107053000 +0000" stop="20211107060000 +0000">
+    <title>2016 Jillaroos v Kiwi Ferns Hls (G)</title>
+    <desc>We bring you highlights of this Women's International from 2016 as Australia's Jillaroos hosted New Zealand's Kiwi Ferns at Hunter Stadium in Newcastle, NSW.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20211107060000 +0000" stop="20211107110000 +0000">
+    <title>Boxxer: Super Lightweight Tournament (M)</title>
+    <desc>Join us for all the action from the 2021 Boxxer Super Lightweight Tournament in Liverpool.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <channel id="83">
+    <display-name>sky-sport-5</display-name>
+  </channel>
+  <programme channel="83" start="20211106110000 +0000" stop="20211106150500 +0000">
+    <title>Supercars: Day 1 (G)</title>
+    <desc>Replay of the Supercars Championship, Round 9, Day 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="83" start="20211106150500 +0000" stop="20211106173000 +0000">
+    <title>LIVE Rugby: ENG v TGA (G)</title>
+    <desc>LIVE action from Twickenham as England host Tonga.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="83" start="20211106173000 +0000" stop="20211106180500 +0000">
+    <title>Sky Speed (G)</title>
+    <desc>Latest news and talk surrounding motorsport locally and internationally.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="83" start="20211106180500 +0000" stop="20211106213000 +0000">
+    <title>LIVE: UCI Track Champions League (G)</title>
+    <desc>LIVE: UCI Track Champions League. The UCI Track Champions League features four of the fastest, most exciting race disciplines: Sprint, Keirin, Elimination and Scratch.  Tune in for Round 1 from The Velodrom Illes Balears, Mallorca, Spain.</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="83" start="20211106213000 +0000" stop="20211106223000 +0000">
+    <title>FIA WTCR: Qualifying (G)</title>
+    <desc>Delayed coverage of the FIA World Touring Car Cup, Round 7, Race Of Italy, Qualifying, from Adria International Raceway, Adria, Italy.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106223000 +0000" stop="20211107020000 +0000">
+    <title>Supercars: Day 1 (G)</title>
+    <desc>Replay of the Supercars Championship, Round 9, Day 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="83" start="20211107020000 +0000" stop="20211107100000 +0000">
+    <title>LIVE Supercars: Day 2 (G)</title>
+    <desc>LIVE coverage of the Supercars Championship, Round 9, Day 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="83" start="20211107100000 +0000" stop="20211107110000 +0000">
+    <title>Supercars: Day 2 (G)</title>
+    <desc>Replay of the Supercars Championship, Round 9, Day 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Sports</category>
+  </programme>
+  <channel id="84">
+    <display-name>sky-sport-6</display-name>
+  </channel>
+  <programme channel="84" start="20211106110000 +0000" stop="20211106120000 +0000">
+    <title>LIVE: Asia-Pacific Amateur : Round 3 (G)</title>
+    <desc>LIVE Asia Pacific Amateur Championships. Round 3 held at Dubai Creek Golf &amp; Yacht Club in Dubai, United Arab Emirates. Created in 2009, the AAC was established to further develop amateur golf in the Asia-Pacific region.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211106120000 +0000" stop="20211106123000 +0000">
+    <title>European Tour: Round 2 Hls (G)</title>
+    <desc>Highlights European Tour. Portugal Masters Round 2 held at Dom Pedro Victoria Golf Course, Vilamoura Portugal.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211106123000 +0000" stop="20211106170000 +0000">
+    <title>LIVE: European Tour: Round 3 (G)</title>
+    <desc>LIVE European Tour. Portugal Masters Round 3 held at Dom Pedro Victoria Golf Course, Vilamoura Portugal.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211106170000 +0000" stop="20211106173000 +0000">
+    <title>PGA Tour: The CUT (G)</title>
+    <desc>Watch 'The CUT' every week for the latest tournament information, player features and tips from PGA Tour players themselves.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211106173000 +0000" stop="20211106180000 +0000">
+    <title>PGA Tour: Round 2 Hls (G)</title>
+    <desc>Highlights PGA Tour. World Wide Technology Championship Round 2 held at El Camaleon Gold Club at Mayakoba in Mexico.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211106180000 +0000" stop="20211106210000 +0000">
+    <title>LIVE: PGA Tour: Round 3 (G)</title>
+    <desc>LIVE PGA Tour. World Wide Technology Championship Round 3 held at El Camaleon Gold Club at Mayakoba in Mexico.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211106210000 +0000" stop="20211106230000 +0000">
+    <title>Asia-Pacific Amateur Champs: Round 3</title>
+    <desc>Replay Asia Pacific Amateur Championships. Round 3 held at Dubai Creek Golf &amp; Yacht Club in Dubai, United Arab Emirates. Created in 2009, the AAC was established to further develop amateur golf in the Asia-Pacific region.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211106230000 +0000" stop="20211107010000 +0000">
+    <title>European Tour: Round 3 (G)</title>
+    <desc>Replay European Tour. Portugal Masters Round 3 held at Dom Pedro Victoria Golf Course, Vilamoura Portugal.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211107010000 +0000" stop="20211107030000 +0000">
+    <title>PGA Tour: Round 3 (G)</title>
+    <desc>Replay PGA Tour. World Wide Technology Championship Round 3 held at El Camaleon Gold Club at Mayakoba in Mexico.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211107030000 +0000" stop="20211107033000 +0000">
+    <title>Golf Central (G)</title>
+    <desc>Tune into Golf Central for in depth analysis, news, updates and highlights from everything happening in the world of golf.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211107033000 +0000" stop="20211107053000 +0000">
+    <title>Asia-Pacific Amateur Champs: Round 3</title>
+    <desc>Replay Asia Pacific Amateur Championships. Round 3 held at Dubai Creek Golf &amp; Yacht Club in Dubai, United Arab Emirates. Created in 2009, the AAC was established to further develop amateur golf in the Asia-Pacific region.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211107053000 +0000" stop="20211107060000 +0000">
+    <title>PGA Tour: Round 3 Hls (G)</title>
+    <desc>Highlights PGA Tour. World Wide Technology Championship Round 3 held at El Camaleon Gold Club at Mayakoba in Mexico.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211107060000 +0000" stop="20211107063000 +0000">
+    <title>European Tour: Round 3 Hls (G)</title>
+    <desc>Highlights European Tour. Portugal Masters Round 3 held at Dom Pedro Victoria Golf Course, Vilamoura Portugal.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211107063000 +0000" stop="20211107083000 +0000">
+    <title>PGA Tour: Round 3 (G)</title>
+    <desc>Replay PGA Tour. World Wide Technology Championship Round 3 held at El Camaleon Gold Club at Mayakoba in Mexico.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211107083000 +0000" stop="20211107090000 +0000">
+    <title>Asia-Pacific Amateur Champs: Round 3 Hls</title>
+    <desc>Highlights Asia Pacific Amateur Championships. Round 3 held at Dubai Creek Golf &amp; Yacht Club in Dubai, United Arab Emirates. Created in 2009, the AAC was established to further develop amateur golf in the Asia-Pacific region.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211107090000 +0000" stop="20211107110000 +0000">
+    <title>LIVE: Asia-Pacific Amateur: Round 4</title>
+    <desc>LIVE Asia Pacific Amateur Championships. Round 4 held at Dubai Creek Golf &amp; Yacht Club in Dubai, United Arab Emirates. Created in 2009, the AAC was established to further develop amateur golf in the Asia-Pacific region.</desc>
+    <category>Golf</category>
+  </programme>
+  <channel id="85">
+    <display-name>sky-sport-7</display-name>
+  </channel>
+  <programme channel="85" start="20211106110000 +0000" stop="20211106113000 +0000">
+    <title>LaLiga Show (G)</title>
+    <desc>MD 13. Your weekly preview of all the upcoming games from LaLiga Santander, Spains top division of football.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106113000 +0000" stop="20211106120000 +0000">
+    <title>LaLiga World (G)</title>
+    <desc>Take a look with us at all things Spanish, from football to fiestas in the weekly LaLiga magazine show.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106120000 +0000" stop="20211106125500 +0000">
+    <title>LIVE: LaLiga Pre Match (G)</title>
+    <desc>Espanyol v Granada. The LaLiga TV panel of experts look forward to the upcoming live matches.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106125500 +0000" stop="20211106150000 +0000">
+    <title>LIVE: LaLiga (G)</title>
+    <desc>Espanyol v Granada. Extensive coverage from every round of the Spanish LaLiga, Spains top division of football with the Worlds biggest teams.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106150000 +0000" stop="20211106151000 +0000">
+    <title>LIVE: LaLiga Pre Match (G)</title>
+    <desc>Celta v Barcelona. The LaLiga TV panel of experts look forward to the upcoming live matches.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106151000 +0000" stop="20211106171000 +0000">
+    <title>LIVE: LaLiga (G)</title>
+    <desc>Celta v Barcelona. Extensive coverage from every round of the Spanish LaLiga, Spains top division of football with the Worlds biggest teams.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106171000 +0000" stop="20211106172000 +0000">
+    <title>Great Goals (G)</title>
+    <desc>From solo sensations to incredible team efforts, delicate chips to 40 yard screamers, Great Goals serves up a feast of the finest strikes in football history.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106172000 +0000" stop="20211106192500 +0000">
+    <title>LIVE: Bundesliga (G)</title>
+    <desc>Leipzig v Dortmund. Exclusive coverage from of the 59th season of the German Bundesliga.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106192500 +0000" stop="20211106195500 +0000">
+    <title>This Is Paris (G)</title>
+    <desc>An exclusive weekly look behind the scenes at French superclub, Paris Saint-Germain.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106195500 +0000" stop="20211106220000 +0000">
+    <title>LIVE: Ligue 1 (G)</title>
+    <desc>Bordeaux v PSG. Watch every round of Ligue 1, Frances top division of football</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106220000 +0000" stop="20211106223000 +0000">
+    <title>Football's Greatest (G)</title>
+    <desc>Lionel Messi. The biggest names in world football, both past and present, are profiled to show what makes the the greatest</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106223000 +0000" stop="20211106230000 +0000">
+    <title>Football's Greatest Clubs (G)</title>
+    <desc>Barcelona 90s/00s/10s. A look at the success achieved by Barcelona in recent years, featuring interviews with Xavi, Dani Alves, Gerard Pique and Johan Cruyff.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211106230000 +0000" stop="20211107004500 +0000">
+    <title>Serie A (G)</title>
+    <desc>Juventus v Fiorentina. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107004500 +0000" stop="20211107005000 +0000">
+    <title>Bundesliga Goals (G)</title>
+    <desc>Goal From A Corner. What does the perfect goal look like? We show you how Bundesliga teams manage to score the perfect goals.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107005000 +0000" stop="20211107012000 +0000">
+    <title>LaLiga Fans (G)</title>
+    <desc>A show dedicated to the supporters of the clubs in LaLiga, where we meet up with some of the best-known fans.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107012000 +0000" stop="20211107013500 +0000">
+    <title>Great Goals (G)</title>
+    <desc>From solo sensations to incredible team efforts, delicate chips to 40 yard screamers, Great Goals serves up a feast of the finest strikes in football history.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107013500 +0000" stop="20211107032000 +0000">
+    <title>Bundesliga (G)</title>
+    <desc>Bayern v Freiburg. Exclusive coverage from of the 59th season of the German Bundesliga.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107032000 +0000" stop="20211107033500 +0000">
+    <title>Great Goals (G)</title>
+    <desc>From solo sensations to incredible team efforts, delicate chips to 40 yard screamers, Great Goals serves up a feast of the finest strikes in football history.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107033500 +0000" stop="20211107052000 +0000">
+    <title>Ligue 1 (G)</title>
+    <desc>Bordeaux v PSG. Watch every round of Ligue 1, Frances top division of football</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107052000 +0000" stop="20211107053000 +0000">
+    <title>Bundesliga Goals (G)</title>
+    <desc>Top 10 Counter-Attack Goals. What does the perfect goal look like? We show you how Bundesliga teams manage to score the perfect goals.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107053000 +0000" stop="20211107060000 +0000">
+    <title>LaLiga Mini (G)</title>
+    <desc>TBC vTBC. Exclusive coverage from the Spanish LaLiga, Spains top division of football, with the worlds biggest teams and best players.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107060000 +0000" stop="20211107063000 +0000">
+    <title>EFL Mini (G)</title>
+    <desc>TBC v TBC. Enjoy extensive coverage of the EFL Championship as some of the biggest teams in English football battle it out for a place in the EPL.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107063000 +0000" stop="20211107070000 +0000">
+    <title>EFL Mini (G)</title>
+    <desc>TBC v TBC. Enjoy extensive coverage of the EFL Championship as some of the biggest teams in English football battle it out for a place in the EPL.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107070000 +0000" stop="20211107073000 +0000">
+    <title>Chelsea TV (G)</title>
+    <desc>Premier League Years 02/03. In this series we chronicle the season by season performance of the Blues since the Premier League began</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107073000 +0000" stop="20211107080000 +0000">
+    <title>Inside Chelsea (G)</title>
+    <desc>A behind the scenes look at Chelsea FC to bring you the latest news and views on the Blues</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107080000 +0000" stop="20211107100000 +0000">
+    <title>Chelsea TV (G)</title>
+    <desc>Chelsea v Burnley. Enjoy every Chelsea FC first team match from every major competition in full, plus classic encounters, only on beIN Sports</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107100000 +0000" stop="20211107102500 +0000">
+    <title>LaLiga Mini (G)</title>
+    <desc>TBC vTBC. Exclusive coverage from the Spanish LaLiga, Spains top division of football, with the worlds biggest teams and best players.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107102500 +0000" stop="20211107105500 +0000">
+    <title>LaLiga Mini (G)</title>
+    <desc>TBC vTBC. Exclusive coverage from the Spanish LaLiga, Spains top division of football, with the worlds biggest teams and best players.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="85" start="20211107105500 +0000" stop="20211107110000 +0000">
+    <title>Ligue 1 Mini (G)</title>
+    <desc>TBC v TBC. Watch every round of Ligue 1, Frances top division of football. Lille are the defending champions</desc>
+    <category>Soccer</category>
+  </programme>
+  <channel id="86">
+    <display-name>sky-sport-8</display-name>
+  </channel>
+  <programme channel="86" start="20211106110000 +0000" stop="20211106130000 +0000">
+    <title>Olympic Channel (G)</title>
+    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211106130000 +0000" stop="20211106150000 +0000">
+    <title>LIVE: Rolex Paris Masters: SF1 (G)</title>
+    <desc>LIVE - ATP 1000: Rolex Paris Masters. Tune in for all the action of the Semi-Final 1 from Day 6 as the world's top tennis players go head to head in Paris, France.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="86" start="20211106150000 +0000" stop="20211106152500 +0000">
+    <title>Playmakers: Rugby Stories (G)</title>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211106152500 +0000" stop="20211106155500 +0000">
+    <title>All Access: Black Ferns (G)</title>
+    <desc>The Black Ferns midfield rock, Chelsea Alley, gives Sky Sport an exclusive look at what it takes to be at the top of the women’s game. Alley combines rugby commitments with a teaching career, which means long days and dedication.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="86" start="20211106155500 +0000" stop="20211106180000 +0000">
+    <title>LIVE: French Top 14: BRI v RAC (G)</title>
+    <desc>LIVE coverage of the French Top 14 season as Brive host Racing 92 at Stade Amédée-Domenech, Brive.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="86" start="20211106180000 +0000" stop="20211106180500 +0000">
+    <title>Programme information unavailable</title>
+    <desc>Programme information unavailable</desc>
+    <category>sport</category>
+  </programme>
+  <programme channel="86" start="20211106180500 +0000" stop="20211106194500 +0000">
+    <title>LIVE: ISU Grand Prix (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Pair's Free Skate  takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211106194500 +0000" stop="20211106213500 +0000">
+    <title>LIVE: ISU Grand Prix (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Men's Free Skate  takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211106213500 +0000" stop="20211106232500 +0000">
+    <title>ISU Grand Prix Delayed</title>
+    <desc>Tune into Sky Sport for delayed coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Women's Freeskate  takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211106232500 +0000" stop="20211107030000 +0000">
+    <title>Programme information unavailable</title>
+    <desc>Programme information unavailable</desc>
+    <category>sport</category>
+  </programme>
+  <programme channel="86" start="20211107030000 +0000" stop="20211107090000 +0000">
+    <title>Billie Jean King Cup: Final (G)</title>
+    <desc>Replay: Billie Jean King Cup by BNP Paribas Finals 2021 (was Fed Cup) - the premier international team competition in women's tennis. Tune in for all the action of the Final from the O2 Arena, Prague, Czech Republic.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="86" start="20211107090000 +0000" stop="20211107110000 +0000">
+    <title>UCI Track Champions League (G)</title>
+    <desc>UCI Track Champions League. The UCI Track Champions League features four of the fastest, most exciting race disciplines: Sprint, Keirin, Elimination and Scratch.  Tune in for Round 1 from The Velodrom Illes Balears, Mallorca, Spain.</desc>
+    <category>Cycling</category>
+  </programme>
+  <channel id="87">
+    <display-name>sky-sport-9</display-name>
+  </channel>
+  <programme channel="87" start="20211106110000 +0000" stop="20211106130000 +0000">
+    <title>Snooker: English Open: Day 5 (G)</title>
+    <desc>Home Nations Series: English Open: Day 5: Action from the evening session as some of the greatest Snooker players on the planet compete at the Marshall Arena in Milton Keynes.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20211106130000 +0000" stop="20211106180000 +0000">
+    <title>LIVE: Snooker: English Open (G)</title>
+    <desc>Home Nations Series: English Open: Day 6: Action from the afternoon session as some of the greatest Snooker players on the planet compete at the Marshall Arena in Milton Keynes.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20211106180000 +0000" stop="20211106183000 +0000">
+    <title>Xterra Adventures (G)</title>
+    <desc>Olbesdorfer Lake and the enchanting old-growth Zittau forest make for a spectacular course. This is the 12th year Zittau and the O-See Challenge — the largest multi-sport event in Germany — has hosted the XTERRA off-road triathlon.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20211106183000 +0000" stop="20211106190000 +0000">
+    <title>WBBL: MS v BH Hls (G)</title>
+    <desc>Highlights of the Women's Big Bash League match between the Melbourne Stars and Brisbane Heat at Karen Rolton Oval, Adelaide.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="87" start="20211106190000 +0000" stop="20211106230000 +0000">
+    <title>LIVE: Snooker: English Open (G)</title>
+    <desc>LIVE: Home Nations Series: English Open: Day 6: Action from the evening session as some of the greatest Snooker players on the planet compete at the Marshall Arena in Milton Keynes.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20211106230000 +0000" stop="20211106233000 +0000">
+    <title>Asia-Pacific Amateur Champs: Round 3 Hls (G)</title>
+    <desc>Highlights Asia Pacific Amateur Championships. Round 3 held at Dubai Creek Golf &amp; Yacht Club in Dubai, United Arab Emirates. Created in 2009, the AAC was established to further develop amateur golf in the Asia-Pacific region.</desc>
+    <category>Golf</category>
+  </programme>
+  <programme channel="87" start="20211106233000 +0000" stop="20211107010000 +0000">
+    <title>ITU World Triathlon: Abu Dhabi Men (G)</title>
+    <desc>110 of the world’s best elite triathletes will descend on Abu Dhabi's Yas Island, boasting an impressive line-up of Olympic heroes, World Champions and triathlon idols including defending champions Katie Zaferes and Mario Mola.</desc>
+    <category>Athletics</category>
+  </programme>
+  <programme channel="87" start="20211107010000 +0000" stop="20211107023000 +0000">
+    <title>ITU World Triathlon: Abu Dhabi Wmn (G)</title>
+    <desc>110 of the world’s best elite triathletes will descend on Abu Dhabi's Yas Island, boasting an impressive line-up of Olympic heroes, World Champions and triathlon idols including defending champions Katie Zaferes and Mario Mola.</desc>
+    <category>Athletics</category>
+  </programme>
+  <programme channel="87" start="20211107023000 +0000" stop="20211107030000 +0000">
+    <title>Outdoor Sports Show (G)</title>
+    <desc>it is time to move to France and specifically the Nouvelle-Aquitaine region. Next, we travel to The Balearic Island of Mallorca, where the Mallorca 140.6 Triathlon was held for the first time on the last weekend of September</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20211107030000 +0000" stop="20211107050000 +0000">
+    <title>Gallagher Premiership: LEI v BTH (G)</title>
+    <desc>Replay coverage of the Gallagher Premiership season as Leicester Tigers host Bath Rugby at Mattioli Woods Welford Road, Leicester.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="87" start="20211107050000 +0000" stop="20211107063000 +0000">
+    <title>Rolex Paris Masters: SF1 (G)</title>
+    <desc>Semi-Final 1 from Day 6 of the ATP 1000: Rolex Paris Masters. Tune in as the world's top tennis players go head to head in Paris, France.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="87" start="20211107063000 +0000" stop="20211107080000 +0000">
+    <title>Rolex Paris Masters: SF2 (G)</title>
+    <desc>Semi-Final 2 from Day 6 of the ATP 1000: Rolex Paris Masters. Tune in as the world's top tennis players go head to head in Paris, France.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="87" start="20211107080000 +0000" stop="20211107090000 +0000">
+    <title>Rolex Paris Masters: Day 6 Hls (G)</title>
+    <desc>Highlights from Day 6 of the ATP 1000: Rolex Paris Masters. Tune in as the world's top tennis players go head to head in Paris, France.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="87" start="20211107090000 +0000" stop="20211107110000 +0000">
+    <title>Snooker: English Open: Day 6 (G)</title>
+    <desc>Home Nations Series: English Open: Day 6: Action from the evening session as some of the greatest Snooker players on the planet compete at the Marshall Arena in Milton Keynes.</desc>
+    <category>Sports</category>
+  </programme>
+  <channel id="88">
+    <display-name>sky-sport-news</display-name>
+  </channel>
+  <programme channel="88" start="20211106110000 +0000" stop="20211106163000 +0000">
+    <title>LIVE: Boxing TBC (PG)</title>
+    <desc>LIVE: Boxing TBC</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20211106163000 +0000" stop="20211106183000 +0000">
+    <title>Delayed Rugby: FRA v RSA (G)</title>
+    <desc>Women's: South Africa take on France DELAYED from Vannes.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20211106183000 +0000" stop="20211106190000 +0000">
+    <title>All Access: Black Ferns (G)</title>
+    <desc>Episode 2 of 3: The Black Ferns midfield rock, Chelsea Alley, gives Sky Sport an exclusive look at what it takes to be at the top of the women’s game. Alley combines rugby commitments with a teaching career, which means long days and dedication.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20211106190000 +0000" stop="20211106220000 +0000">
+    <title>Bellator 270: Queally v Pitbull 2 (M)</title>
+    <desc>No. 1 ranked Patricky Pitbull faces No. 4 ranked Peter Queally. A rematch set after an unlucky doctor's stoppage at Bellator 258 ended the first match. Adding to the drama Patricio Pitbull vacated the belt to give his brother this chance at glory.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="88" start="20211106220000 +0000" stop="20211106230000 +0000">
+    <title>LIVE: Fox Sports News (G)</title>
+    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20211106230000 +0000" stop="20211107010000 +0000">
+    <title>Rugby: Ireland V Japan Replay (G)</title>
+    <desc>Replay coverage as Ireland face Japan from Aviva Stadium in Dublin.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20211107010000 +0000" stop="20211107013000 +0000">
+    <title>Bunnings NPC: TAS v WEL Hls (G)</title>
+    <desc>Bunnings NPC 2021: Tasman butt heads with Wellington at Landsdowne Park in Blenheim.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20211107013000 +0000" stop="20211107020000 +0000">
+    <title>UFC Fight Week 268 (M)</title>
+    <desc>The ultimate build-up show for the upcoming UFC 268. LIVE, Sunday 7th November, 3pm, CH 065 *$39.95* To Book: Text UFC268 to 4024, or call 0800 759 782.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="88" start="20211107020000 +0000" stop="20211107030000 +0000">
+    <title>Billie Jean King Cup: Final Hls (G)</title>
+    <desc>Highlights from the Billie Jean King Cup by BNP Paribas Finals 2021 - the premier international team competition in women's tennis. Tune in for all the action of the Final from the O2 Arena, Prague, Czech Republic.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="88" start="20211107030000 +0000" stop="20211107040000 +0000">
+    <title>Fox Sports News (G)</title>
+    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20211107040000 +0000" stop="20211107050000 +0000">
+    <title>Rolex Paris Masters: Day 6 Hls (G)</title>
+    <desc>Highlights from Day 6 of the ATP 1000: Rolex Paris Masters. Tune in as the world's top tennis players go head to head in Paris, France.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="88" start="20211107050000 +0000" stop="20211107060000 +0000">
+    <title>LIVE: Fox Sports News (G)</title>
+    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="88" start="20211107060000 +0000" stop="20211107063000 +0000">
+    <title>Rugby: ITA v All Blacks Hls (G)</title>
+    <desc>Highlights of the All Blacks clash against Italy in Rome.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20211107063000 +0000" stop="20211107070000 +0000">
+    <title>Rugby: FRA v ARG Hls (G)</title>
+    <desc>Highlights of France hosting the Argentine Pumas from Stade De France in Paris.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20211107070000 +0000" stop="20211107071500 +0000">
+    <title>Rugby: Ireland V Japan Mini Hls (G)</title>
+    <desc>Mini highlights as Ireland host Japan from Aviva Stadium in Dublin.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="88" start="20211107071500 +0000" stop="20211107103000 +0000">
+    <title>LIVE: Marathon De Barcelone (G)</title>
+    <desc>The course of the Zurich Marató Barcelona is, according to the runners who have participated, one of the most spectacular in the world.</desc>
+    <category>Athletics</category>
+  </programme>
+  <programme channel="88" start="20211107103000 +0000" stop="20211107110000 +0000">
+    <title>PGA European Tour Hls (G)</title>
+    <desc>Highlights from the PGA European Tour as we head to Round 3 of the Portugal Masters held at Dom Pedro Victoria Golf Course in Vilamoura, Portugal.</desc>
+    <category>Golf</category>
+  </programme>
+  <channel id="81">
+    <display-name>espn</display-name>
+  </channel>
+  <programme channel="81" start="20211106110000 +0000" stop="20211106123000 +0000">
+    <title>NBA (G)</title>
+    <desc>Warriors v Pelicans.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20211106123000 +0000" stop="20211106130000 +0000">
+    <title>NBA Mini (G)</title>
+    <desc>Bucks v Knicks: NBA Minis present the NBA in a fast paced, highlight driven version of every game.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20211106130000 +0000" stop="20211106160000 +0000">
+    <title>Live: College GameDay (G)</title>
+    <desc>Host Rece Davis and analysts Lee Corso, Kirk Herbstreit, Desmond Howard, David Pollack and company cover all the angles in college gridiron with previews, exclusive interviews, analysis &amp; discussion.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20211106160000 +0000" stop="20211106190000 +0000">
+    <title>Live: College Football (G)</title>
+    <desc>Live: College Football</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20211106190000 +0000" stop="20211106193000 +0000">
+    <title>Live: College Football Scoreboard (G)</title>
+    <desc>Updates, reviews and recaps of the current day's matchups.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20211106193000 +0000" stop="20211106223000 +0000">
+    <title>Live: College Football (G)</title>
+    <desc>Live: College Football</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20211106223000 +0000" stop="20211106230000 +0000">
+    <title>UFC Fight Flashback (M)</title>
+    <desc>McGregor vs. Mendes: A replay of the one of the most high-profile title fights in UFC history, the showdown between Conor McGregor and Chad Mendes.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="81" start="20211106230000 +0000" stop="20211106233000 +0000">
+    <title>SC: UFC Fight Camp (M)</title>
+    <desc>Australia and New Zealand's weekly UFC Show.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="81" start="20211106233000 +0000" stop="20211107000000 +0000">
+    <title>UFC Live (M)</title>
+    <desc>presented by DraftKings: Usman vs. Covington 2. UFC Live presents fans with exclusive takes on the biggest news, stars, and stories tailored to each and every UFC Fight Nights and UFC PPV throughou...</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="81" start="20211107000000 +0000" stop="20211107020000 +0000">
+    <title>Live: UFC 268 (M)</title>
+    <desc>Prelims.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="81" start="20211107020000 +0000" stop="20211107023000 +0000">
+    <title>UFC Ultimate Knockouts (M)</title>
+    <desc>Heavyweights: A look at top knockouts from the heavyweight division includes finishes from Cain Velasquez, Minotauro Nogueira, Junior dos Santos and Andrei Arlovski.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="81" start="20211107023000 +0000" stop="20211107060000 +0000">
+    <title>Live: NBA (G)</title>
+    <desc>Trail Blazers v Lakers.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20211107060000 +0000" stop="20211107063000 +0000">
+    <title>Spirit of Yachting (G)</title>
+    <desc>SailGP Cadiz.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="81" start="20211107063000 +0000" stop="20211107083000 +0000">
+    <title>College Football (G)</title>
+    <desc>College Football</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20211107083000 +0000" stop="20211107090000 +0000">
+    <title>NBA Mini (G)</title>
+    <desc>Trail Blazers v Lakers: NBA Minis present the NBA in a fast paced, highlight driven version of every game.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20211107090000 +0000" stop="20211107110000 +0000">
+    <title>UFC 268 (M)</title>
+    <desc>Prelims.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <channel id="82">
+    <display-name>espn2</display-name>
+  </channel>
+  <programme channel="82" start="20211106110000 +0000" stop="20211106120000 +0000">
+    <title>College Football (G)</title>
+    <desc>Boston College v Virginia Tech.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211106120000 +0000" stop="20211106123000 +0000">
+    <title>UFC Live (M)</title>
+    <desc>presented by DraftKings: Usman vs. Covington 2. UFC Live presents fans with exclusive takes on the biggest news, stars, and stories tailored to each and every UFC Fight Nights and UFC PPV throughou...</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="82" start="20211106123000 +0000" stop="20211106130000 +0000">
+    <title>SC: UFC Fight Camp (M)</title>
+    <desc>Includes exclusive access, interviews and features with local and International fighters, analysis from our experts and all the fun and exciting bits from the world of UFC.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="82" start="20211106130000 +0000" stop="20211106133000 +0000">
+    <title>NBA Mini (G)</title>
+    <desc>Warriors v Pelicans: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211106133000 +0000" stop="20211106140000 +0000">
+    <title>NFL Matchup (G)</title>
+    <desc>Matt Bowen, Sal Paolantonio and Greg Cosell bring viewers inside the film room for the X's and O's analysis of the weekend's NFL matchups.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211106140000 +0000" stop="20211106150000 +0000">
+    <title>Live: SportsCenter (G)</title>
+    <desc>ESPN's flagship program provides TV's most thorough presentation of sports news, highlights and analysis.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="82" start="20211106150000 +0000" stop="20211106160000 +0000">
+    <title>Live: SportsCenter (G)</title>
+    <desc>ESPN's flagship program provides TV's most thorough presentation of sports news, highlights and analysis.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="82" start="20211106160000 +0000" stop="20211106190000 +0000">
+    <title>Live: College Football (G)</title>
+    <desc>Live: College Football</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211106190000 +0000" stop="20211106193000 +0000">
+    <title>Live: College Football Scoreboard (G)</title>
+    <desc>All the latest news and analysis from the world of college gridiron</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211106193000 +0000" stop="20211106223000 +0000">
+    <title>Live: College Football (G)</title>
+    <desc>Live: College Football</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211106223000 +0000" stop="20211106230000 +0000">
+    <title>Live: College Football Scoreboard (G)</title>
+    <desc>All the latest news and analysis from the world of college gridiron</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211106230000 +0000" stop="20211106233000 +0000">
+    <title>Live: College Football Scoreboard (G)</title>
+    <desc>All the latest news and analysis from the world of college gridiron</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211106233000 +0000" stop="20211106233700 +0000">
+    <title>Live: Pregame Drive (G)</title>
+    <desc>Nissan Pregame Drive: All the latest news and analysis from the world of college gridiron</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211106233700 +0000" stop="20211107030000 +0000">
+    <title>Live: College Football (G)</title>
+    <desc>Live: College Football</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211107030000 +0000" stop="20211107063000 +0000">
+    <title>Live: College Football (G)</title>
+    <desc>Live: College Football</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211107063000 +0000" stop="20211107073000 +0000">
+    <title>E:60 (G)</title>
+    <desc>A Love Story: An all new E60: The daughter of an NHL superstar, a working class wrestling coach, a devastating diagnosis - and a story of unwavering love.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="82" start="20211107073000 +0000" stop="20211107093000 +0000">
+    <title>College Football (G)</title>
+    <desc>College Football</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211107093000 +0000" stop="20211107100000 +0000">
+    <title>ESPN FC (G)</title>
+    <desc>Featuring panelists from around the football world debating the games hottest talking points.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="82" start="20211107100000 +0000" stop="20211107110000 +0000">
+    <title>College Football (G)</title>
+    <desc>College Football</desc>
+    <category>US Sports</category>
+  </programme>
+  <channel id="93">
+    <display-name>sky-sport-popup-1</display-name>
+  </channel>
+  <programme channel="93" start="20211106110000 +0000" stop="20211106193000 +0000">
+    <title>LIVE FIA WEC: 8 Hours of Bahrain (G)</title>
+    <desc>LIVE Coverage of the FIA World Endurnace Championship, 8 Hours of Bahrain, from Bahrain International Circuit, Sakhir, Bahrain.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="93" start="20211106193000 +0000" stop="20211107090000 +0000">
+    <title>Coming Up: WTCR (G)</title>
+    <desc>Tune in next for LIVE coverage of the FIA WTCR Race of Italy.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20211107090000 +0000" stop="20211107100000 +0000">
+    <title>LIVE FIA WTCR: Race 1 (G)</title>
+    <desc>LIVE coverage of the FIA World Touring Car Cup, Round 7, Race Of Italy, Race 1, from Adria International Raceway, Adria, Italy.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="93" start="20211107100000 +0000" stop="20211107110000 +0000">
+    <title>Coming Up: WTCR (G)</title>
+    <desc>Tune in next for LIVE coverage of the FIA WTCR Race of Italy.</desc>
+    <category>Sports</category>
   </programme>
 </tv>
