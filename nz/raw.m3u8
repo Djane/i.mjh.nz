@@ -39,6 +39,9 @@ https://i.mjh.nz/nz/radio.ih.7391
 #EXTINF:-1 tvg-id="radio.or.29" tvg-logo="https://i.mjh.nz/.images/radio.or.29.png" radio="true",Channel Z
 https://i.mjh.nz/nz/radio.or.29
 
+#EXTINF:-1 tvg-id="radio.ih.9199" tvg-logo="https://i.mjh.nz/.images/radio.ih.9199.png" radio="true",Chemist Warehouse Remix
+https://i.mjh.nz/nz/radio.ih.9199
+
 #EXTINF:-1 tvg-id="radio.ih.7073" tvg-logo="https://i.mjh.nz/.images/radio.ih.7073.png" radio="true",Chinese Radio
 https://i.mjh.nz/nz/radio.ih.7073
 

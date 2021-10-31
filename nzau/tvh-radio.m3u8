@@ -39,6 +39,9 @@ pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 
 #EXTINF:-1 tvg-id="radio.or.29" tvg-logo="https://i.mjh.nz/.images/radio.or.29.png" radio="true",Channel Z
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.or.29 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.29 -f mpegts pipe:1
 
+#EXTINF:-1 tvg-id="radio.ih.9199" tvg-logo="https://i.mjh.nz/.images/radio.ih.9199.png" radio="true",Chemist Warehouse Remix
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.9199 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9199 -f mpegts pipe:1
+
 #EXTINF:-1 tvg-id="radio.ih.7073" tvg-logo="https://i.mjh.nz/.images/radio.ih.7073.png" radio="true",Chinese Radio
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/nz/radio.ih.7073 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7073 -f mpegts pipe:1
 
