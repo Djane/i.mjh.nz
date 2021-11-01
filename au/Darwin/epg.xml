@@ -456,15 +456,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -14342,14 +14342,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20211106040000 +0000" stop="20211106043000 +0000">
-    <title>Young Sheldon</title>
-    <subtitles type="teletext"/>
+    <title>LEGO Jurassic World: Double Trouble</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20211106040000 +0000" stop="20211106043000 +0000">
-    <title>LEGO Jurassic World: Double Trouble</title>
+    <title>Young Sheldon</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42735,21 +42735,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211101195211 +0000" stop="20211101200436 +0000">
-    <title>MX World S3E5</title>
-    <desc>Rene Hofer is the first Austrian this century to represent the most successful team in the MX World Champs.</desc>
-    <sub-title>Making a mark</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101200436 +0000" stop="20211101201934 +0000">
-    <title>MX World S3E6</title>
-    <desc>Can Tom Vialle rise to the challenge and become KTM’s lead rider in MX2?</desc>
-    <sub-title>Whoever flinches, finishes second</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101201934 +0000" stop="20211101202739 +0000">
-    <title>Esports Unfold S3E6</title>
-    <desc>Hear from 19-year-old FIFA player Thabo ‘Yvng Savage’ Moloi as he talks about his journey to turning pro.</desc>
-    <sub-title>Thabo 'Yvng Savage' Moloi</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211101202739 +0000" stop="20211101211143 +0000">
     <title>Red Bull Signature Series S2019E9</title>
     <desc>For the fourth year in a row, the best motorcycle athletes battle it out in Travis Pastrana's spectacular competition.</desc>
@@ -42761,9 +42746,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211101222946 +0000" stop="20211101234010 +0000">
-    <title>Assembly Required S1E1</title>
-    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
-    <sub-title>Teyana Taylor</sub-title>
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211101234010 +0000" stop="20211101235119 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -42944,9 +42929,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102181212 +0000" stop="20211102192235 +0000">
-    <title>Assembly Required S1E1</title>
-    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
-    <sub-title>Teyana Taylor</sub-title>
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102192235 +0000" stop="20211102193344 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -42982,6 +42967,21 @@
     <title>Reel Rock S7E2</title>
     <desc>Janja Garnbret has been dominating the climbing competition scene. Can she complete the perfect season?</desc>
     <sub-title>The perfect season part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102211438 +0000" stop="20211102213404 +0000">
+    <title>Reel Rock S7E3</title>
+    <desc>Mélissa Le Nevé attempts to overcome the burden of history to send one of climbing’s most revered routes.</desc>
+    <sub-title>Action Directe</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102213404 +0000" stop="20211102215234 +0000">
+    <title>Reel Rock S7E4</title>
+    <desc>Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
+    <sub-title>Deep roots part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102215234 +0000" stop="20211102221148 +0000">
+    <title>Reel Rock S7E5</title>
+    <desc>Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
+    <sub-title>Deep roots part 2</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
