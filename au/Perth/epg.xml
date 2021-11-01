@@ -430,15 +430,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -7992,13 +7992,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20211101153700 +0000" stop="20211101160200 +0000">
-    <title>Nine News Late</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600461" start="20211101160200 +0000" stop="20211101164600 +0000">
     <title>New Amsterdam</title>
     <subtitles type="teletext"/>
@@ -9216,12 +9209,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600464" start="20211101153100 +0000" stop="20211101160100 +0000">
-    <title>House Hunters International</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204600464" start="20211101160100 +0000" stop="20211101170300 +0000">
@@ -10730,13 +10717,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20211101152300 +0000" stop="20211101162200 +0000">
-    <title>Law &amp; Order: Criminal Intent</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204600467" start="20211101162200 +0000" stop="20211101165400 +0000">
     <title>Antiques Roadshow</title>
     <subtitles type="teletext"/>
@@ -12035,13 +12015,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600468" start="20211101151100 +0000" stop="20211101161200 +0000">
-    <title>Stunt Science</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20211101161200 +0000" stop="20211101170800 +0000">
@@ -15720,13 +15693,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20211101135700 +0000" stop="20211101161500 +0000">
-    <title>The Meg</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060560" start="20211101161500 +0000" stop="20211101164400 +0000">
     <title>The Goldbergs</title>
     <subtitles type="teletext"/>
@@ -18067,12 +18033,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060563" start="20211101152400 +0000" stop="20211101171600 +0000">
-    <title>Out for Justice</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060563" start="20211101171600 +0000" stop="20211101183100 +0000">
     <title>7th Gear</title>
     <rating system="Freeview">
@@ -20395,13 +20355,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070681" start="20211101154500 +0000" stop="20211101163900 +0000">
-    <title>The Project</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406070681" start="20211101163900 +0000" stop="20211101173500 +0000">
@@ -24718,13 +24671,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070686" start="20211101153000 +0000" stop="20211101163000 +0000">
-    <title>SKINN by Dimitri James</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406070686" start="20211101163000 +0000" stop="20211101173000 +0000">
     <title>SKIMGUARD Secure Protection</title>
     <subtitles type="teletext"/>
@@ -25777,12 +25723,6 @@
     <title>Colours of Gold</title>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070687" start="20211101152400 +0000" stop="20211101162100 +0000">
-    <title>Star Trek: Discovery</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070687" start="20211101162100 +0000" stop="20211101165000 +0000">
@@ -28963,12 +28903,6 @@
   </programme>
   <programme channel="tv.101406070688" start="20211108160000 +0000" stop="20211108163000 +0000">
     <title>Home Shopping</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070689" start="20211101155900 +0000" stop="20211101160000 +0000">
-    <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -42240,12 +42174,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203200327" start="20211101133000 +0000" stop="20211101161000 +0000">
-    <title>Angrezi Medium</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203200327" start="20211101161000 +0000" stop="20211101181000 +0000">
     <title>Son of Saul</title>
     <rating system="Freeview">
@@ -42751,11 +42679,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211101202739 +0000" stop="20211101211143 +0000">
-    <title>Red Bull Signature Series S2019E9</title>
-    <desc>For the fourth year in a row, the best motorcycle athletes battle it out in Travis Pastrana's spectacular competition.</desc>
-    <sub-title>Nitro Rallycross</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211101211143 +0000" stop="20211101222946 +0000">
     <title>Shaka</title>
     <desc>Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws.</desc>
@@ -42945,9 +42868,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102181212 +0000" stop="20211102192235 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102192235 +0000" stop="20211102193344 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -42998,6 +42921,21 @@
     <title>Reel Rock S7E5</title>
     <desc>Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
     <sub-title>Deep roots part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102221148 +0000" stop="20211102223333 +0000">
+    <title>Reel Rock S7E6</title>
+    <desc>Follow as Swiss bouldering star Giuliano Cameroni explores the stunning boulders in his home region of Ticino.</desc>
+    <sub-title>Born among boulders</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102223333 +0000" stop="20211102225241 +0000">
+    <title>Reel Rock S7E7</title>
+    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
+    <sub-title>First ascent/last ascent part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102225241 +0000" stop="20211102231157 +0000">
+    <title>Reel Rock S7E8</title>
+    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
+    <sub-title>First ascent/last ascent part 2</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

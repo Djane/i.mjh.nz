@@ -9237,13 +9237,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20211101133600 +0000" stop="20211101140000 +0000">
-    <title>Nine News Late</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204000401" start="20211101140000 +0000" stop="20211101144300 +0000">
     <title>New Amsterdam</title>
     <subtitles type="teletext"/>
@@ -10461,12 +10454,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204000407" start="20211101133100 +0000" stop="20211101140100 +0000">
-    <title>House Hunters International</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20211101140100 +0000" stop="20211101150300 +0000">
@@ -11975,13 +11962,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.10120400040A" start="20211101132300 +0000" stop="20211101142200 +0000">
-    <title>Law &amp; Order: Criminal Intent</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.10120400040A" start="20211101142200 +0000" stop="20211101145400 +0000">
     <title>Antiques Roadshow</title>
     <subtitles type="teletext"/>
@@ -13283,13 +13263,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.10120400040B" start="20211101131100 +0000" stop="20211101141200 +0000">
-    <title>Stunt Science</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.10120400040B" start="20211101141200 +0000" stop="20211101150800 +0000">
     <title>The Arrangement</title>
     <subtitles type="teletext"/>
@@ -14366,20 +14339,14 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20211106043000 +0000" stop="20211106050000 +0000">
-    <title>Young Sheldon</title>
-    <subtitles type="teletext"/>
+    <title>LEGO Jurassic World: Double Trouble</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20211106043000 +0000" stop="20211106050000 +0000">
-    <title>LEGO Jurassic World: Double Trouble</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.10120400040B" start="20211106050000 +0000" stop="20211106053000 +0000">
-    <title>LEGO Jurassic World: Double Trouble</title>
+    <title>Young Sheldon</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14387,6 +14354,12 @@
   <programme channel="tv.10120400040B" start="20211106050000 +0000" stop="20211106053000 +0000">
     <title>Young Sheldon</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.10120400040B" start="20211106050000 +0000" stop="20211106053000 +0000">
+    <title>LEGO Jurassic World: Double Trouble</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -19292,12 +19265,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20211101132400 +0000" stop="20211101151600 +0000">
-    <title>Out for Justice</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305040543" start="20211101151600 +0000" stop="20211101163100 +0000">
     <title>7th Gear</title>
     <rating system="Freeview">
@@ -21650,13 +21617,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040641" start="20211101134500 +0000" stop="20211101144500 +0000">
-    <title>The Project</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406040641" start="20211101144500 +0000" stop="20211101154400 +0000">
@@ -25899,12 +25859,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406040646" start="20211101133000 +0000" stop="20211101143000 +0000">
-    <title>TANZANITE Gems</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406040646" start="20211101143000 +0000" stop="20211101153000 +0000">
     <title>L(A)B Beauty</title>
     <subtitles type="teletext"/>
@@ -26959,12 +26913,6 @@
     <title>Random Harvest Gourmet Foods</title>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040647" start="20211101132400 +0000" stop="20211101142100 +0000">
-    <title>Star Trek: Discovery</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406040647" start="20211101142100 +0000" stop="20211101145000 +0000">
@@ -30145,12 +30093,6 @@
   </programme>
   <programme channel="tv.101406040648" start="20211108140000 +0000" stop="20211108143000 +0000">
     <title>Home Shopping</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040649" start="20211101135900 +0000" stop="20211101140000 +0000">
-    <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -42749,11 +42691,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211101202739 +0000" stop="20211101211143 +0000">
-    <title>Red Bull Signature Series S2019E9</title>
-    <desc>For the fourth year in a row, the best motorcycle athletes battle it out in Travis Pastrana's spectacular competition.</desc>
-    <sub-title>Nitro Rallycross</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211101211143 +0000" stop="20211101222946 +0000">
     <title>Shaka</title>
     <desc>Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws.</desc>
@@ -42943,9 +42880,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102181212 +0000" stop="20211102192235 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102192235 +0000" stop="20211102193344 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -42996,6 +42933,21 @@
     <title>Reel Rock S7E5</title>
     <desc>Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
     <sub-title>Deep roots part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102221148 +0000" stop="20211102223333 +0000">
+    <title>Reel Rock S7E6</title>
+    <desc>Follow as Swiss bouldering star Giuliano Cameroni explores the stunning boulders in his home region of Ticino.</desc>
+    <sub-title>Born among boulders</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102223333 +0000" stop="20211102225241 +0000">
+    <title>Reel Rock S7E7</title>
+    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
+    <sub-title>First ascent/last ascent part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102225241 +0000" stop="20211102231157 +0000">
+    <title>Reel Rock S7E8</title>
+    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
+    <sub-title>First ascent/last ascent part 2</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

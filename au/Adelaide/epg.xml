@@ -9234,13 +9234,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20211101132900 +0000" stop="20211101141300 +0000">
-    <title>New Amsterdam</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204500451" start="20211101141300 +0000" stop="20211101151000 +0000">
     <title>Tipping Point</title>
     <subtitles type="teletext"/>
@@ -10451,12 +10444,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500454" start="20211101130100 +0000" stop="20211101133100 +0000">
-    <title>House Hunters International</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20211101133100 +0000" stop="20211101143300 +0000">
@@ -21647,13 +21634,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050651" start="20211101131500 +0000" stop="20211101141500 +0000">
-    <title>The Project</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406050651" start="20211101141500 +0000" stop="20211101151400 +0000">
     <title>The Late Show with Stephen Colbert</title>
     <subtitles type="teletext"/>
@@ -30164,12 +30144,6 @@
   </programme>
   <programme channel="tv.101406050658" start="20211108133000 +0000" stop="20211108140000 +0000">
     <title>Home Shopping</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406050659" start="20211101132900 +0000" stop="20211101133000 +0000">
-    <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -42786,11 +42760,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211101202739 +0000" stop="20211101211143 +0000">
-    <title>Red Bull Signature Series S2019E9</title>
-    <desc>For the fourth year in a row, the best motorcycle athletes battle it out in Travis Pastrana's spectacular competition.</desc>
-    <sub-title>Nitro Rallycross</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211101211143 +0000" stop="20211101222946 +0000">
     <title>Shaka</title>
     <desc>Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws.</desc>
@@ -42980,9 +42949,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102181212 +0000" stop="20211102192235 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102192235 +0000" stop="20211102193344 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -43033,6 +43002,21 @@
     <title>Reel Rock S7E5</title>
     <desc>Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
     <sub-title>Deep roots part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102221148 +0000" stop="20211102223333 +0000">
+    <title>Reel Rock S7E6</title>
+    <desc>Follow as Swiss bouldering star Giuliano Cameroni explores the stunning boulders in his home region of Ticino.</desc>
+    <sub-title>Born among boulders</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102223333 +0000" stop="20211102225241 +0000">
+    <title>Reel Rock S7E7</title>
+    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
+    <sub-title>First ascent/last ascent part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102225241 +0000" stop="20211102231157 +0000">
+    <title>Reel Rock S7E8</title>
+    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
+    <sub-title>First ascent/last ascent part 2</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
