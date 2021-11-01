@@ -47,17 +47,17 @@
     <desc>Replay coverage of the Gallagher Premiership season as Harlequins host Saracens at Twickenham Stoop, London.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="60" start="20211031200000 +0000" stop="20211031220500 +0000">
+  <programme channel="60" start="20211031200000 +0000" stop="20211031221000 +0000">
     <title>LIVE: French Top 14: RAC v TLS (G)</title>
     <desc>LIVE coverage of the French Top 14 season as Racing 92 host Toulouse at Paris La Défense Arena, Nanterre.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="60" start="20211031220500 +0000" stop="20211101000000 +0000">
+  <programme channel="60" start="20211031221000 +0000" stop="20211101000500 +0000">
     <title>Rugby: ENG v Black Ferns (G)</title>
     <desc>Replay of the Black Ferns opening tour match as they face the English Red Roses in Exeter.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="60" start="20211101000000 +0000" stop="20211101020000 +0000">
+  <programme channel="60" start="20211101000500 +0000" stop="20211101020000 +0000">
     <title>Bunnings NPC: MAN v BAY (G)</title>
     <desc>Bunnings NPC 2021: Manawatu welcome Hawke's Bay to the CET Arena in Palmerston North.</desc>
     <category>Rugby</category>
@@ -160,9 +160,14 @@
     <desc>Replay coverage of the Singles Final from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211101060000 +0000" stop="20211101100000 +0000">
+  <programme channel="61" start="20211101060000 +0000" stop="20211101093000 +0000">
     <title>ICC T20 WC: IND v NZ (G)</title>
     <desc>Mini highlights of the ICC T20 World Cup match between India and New Zealand at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="61" start="20211101093000 +0000" stop="20211101100000 +0000">
+    <title>T20 World Cup Wrap (G)</title>
+    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action as Afghanistan played Namibia and India faced off against New Zealand in the T20 World Cup in the UAE.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="61" start="20211101100000 +0000" stop="20211101110000 +0000">
@@ -198,12 +203,12 @@
     <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action as Afghanistan played Namibia and India faced off against New Zealand in the T20 World Cup in the UAE.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211031190000 +0000" stop="20211031224500 +0000">
+  <programme channel="62" start="20211031190000 +0000" stop="20211031222500 +0000">
     <title>ICC T20 WC: IND v NZ (G)</title>
     <desc>Mini highlights of the ICC T20 World Cup match between India and New Zealand at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211031224500 +0000" stop="20211101023000 +0000">
+  <programme channel="62" start="20211031222500 +0000" stop="20211101023000 +0000">
     <title>ICC T20 WC: AFG v NAM (G)</title>
     <desc>Replay coverage of the ICC T20 World Cup match between Afghanistan and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
@@ -316,10 +321,15 @@
     <desc>Episode 1 of 3: As the Black Ferns prepare for their 100th test match, against England on Monday, Sky Sport gets an inside look at the team culture, the relentless training sessions and the characters that make this team so elite.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="63" start="20211031180000 +0000" stop="20211031220000 +0000">
+  <programme channel="63" start="20211031180000 +0000" stop="20211031213000 +0000">
     <title>LIVE: World Series of Darts Finals (G)</title>
     <desc>LIVE: 2021 World Series of Darts Finals: We're at the business end of the tournament as the biggest names in Darts go for the prize in Amsterdam, Netherlands.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="63" start="20211031213000 +0000" stop="20211031220000 +0000">
+    <title>2016 Jillaroos v Kiwi Ferns Hls (G)</title>
+    <desc>We bring you highlights of this Women's International from 2016 as Australia's Jillaroos hosted New Zealand's Kiwi Ferns at Hunter Stadium in Newcastle, NSW.</desc>
+    <category>League</category>
   </programme>
   <programme channel="63" start="20211031220000 +0000" stop="20211031223000 +0000">
     <title>NRL Nines: 2014: Day 2 Hls (G)</title>
@@ -336,10 +346,20 @@
     <desc>Join Sky Sport for Replay coverage of the 2021 NZRL Men's National Competition. Catch the action as the Canterbury Bulls take on the Upper Central Stallions from Nga Puna Wai, Christchurch.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211101023000 +0000" stop="20211101063000 +0000">
+  <programme channel="63" start="20211101023000 +0000" stop="20211101053000 +0000">
     <title>World Series of Darts Finals: SF &amp; F (G)</title>
     <desc>2021 World Series of Darts Finals: We're at the business end of the tournament as the biggest names in Darts go for the prize in Amsterdam, Netherlands.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="63" start="20211101053000 +0000" stop="20211101060000 +0000">
+    <title>Rugby: ENG v Black Ferns Hls (G)</title>
+    <desc>Highlights of the Black Ferns opening tour match as they face the English Red Roses in Exeter.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="63" start="20211101060000 +0000" stop="20211101063000 +0000">
+    <title>Rugby: SCO v TGA Hls (G)</title>
+    <desc>Highlights as Scotland take on Tonga from BT Murrayfield Stadium in Edinburgh.</desc>
+    <category>Rugby</category>
   </programme>
   <programme channel="63" start="20211101063000 +0000" stop="20211101073000 +0000">
     <title>NRL Classic: 1982 Grand Final (G)</title>
@@ -399,22 +419,22 @@
     <desc>Highlights of the 2021 NASCAR Hollywood Casino 400, from Kansas Speedway.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211031173000 +0000" stop="20211031220000 +0000">
+  <programme channel="83" start="20211031173000 +0000" stop="20211031221000 +0000">
     <title>LIVE NASCAR: Xfinity 500 (G)</title>
     <desc>LIVE coverage of the 2021 NASCAR Xfinity 500, from Martinsville Speedway.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211031220000 +0000" stop="20211031223000 +0000">
+  <programme channel="83" start="20211031221000 +0000" stop="20211031223600 +0000">
     <title>FIA Pure Motorsport (G)</title>
     <desc>FIA Pure Motorsport brings you an in-depth look into the FIAs most unique championships.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211031223000 +0000" stop="20211031230000 +0000">
+  <programme channel="83" start="20211031223600 +0000" stop="20211031230500 +0000">
     <title>World Superbike Season Review (G)</title>
     <desc>Highlights of the Aragon, Estoril and Misano rounds of the 2021 WSBK season with candid footage and rider interviews.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211031230000 +0000" stop="20211031233000 +0000">
+  <programme channel="83" start="20211031230500 +0000" stop="20211031233000 +0000">
     <title>World Superbike Season Review (G)</title>
     <desc>The 2021 WSBK Season continues with highlights of the Donington Park and Assen rounds with candid footage and rider interviews.</desc>
     <category>Motorsport</category>
@@ -665,12 +685,12 @@
     <desc>AC Milan 80s/90s. A look at the AC Milan team that lifted the European Cup 3 times between 1989 and 1994, featuring interviews with the likes of Capello and Paolo Maldini.</desc>
     <category>Soccer</category>
   </programme>
-  <programme channel="85" start="20211031193500 +0000" stop="20211031214000 +0000">
+  <programme channel="85" start="20211031193500 +0000" stop="20211031214500 +0000">
     <title>LIVE: Serie A (G)</title>
     <desc>Roma v Milan. Exclusive coverage from every round of the Serie A, Italys top division of football.</desc>
     <category>Soccer</category>
   </programme>
-  <programme channel="85" start="20211031214000 +0000" stop="20211031221000 +0000">
+  <programme channel="85" start="20211031214500 +0000" stop="20211031221000 +0000">
     <title>Football Rivalries (G)</title>
     <desc>Rome. We visit Rome. The eternal city. Home to Lazio and Roma.</desc>
     <category>Soccer</category>
@@ -748,17 +768,32 @@
     <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211031170000 +0000" stop="20211031210000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211031170000 +0000" stop="20211031180500 +0000">
+    <title>Programme information unavailable</title>
+    <desc>Programme information unavailable</desc>
+    <category>sport</category>
+  </programme>
+  <programme channel="86" start="20211031180500 +0000" stop="20211031192000 +0000">
+    <title>The Nagano Tapes | Five ... (G)</title>
+    <desc>The Nagano Tapes | Five Rings Films - The inspiring story of how Czech Republic won gold at the first Olympics to feature professionals from the NHL.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211031210000 +0000" stop="20211031233000 +0000">
+  <programme channel="86" start="20211031192000 +0000" stop="20211031203000 +0000">
+    <title>The Distance | Five Rings ... (G)</title>
+    <desc>The Distance | Five Rings Films - The story of an enduring Japanese marathon tradition and a humble champion named Naoko Takahashi who captured her nation’s imagination with a run for the ages at the 2000 Olympic Games.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211031203000 +0000" stop="20211031210000 +0000">
+    <title>Hellas Rally Raid (G)</title>
+    <desc>Tune into the first episode 1 of Hellas Rally Raid 2021.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211031210000 +0000" stop="20211031233500 +0000">
     <title>LIVE: ISU Grand Prix (G)</title>
     <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Exhibition Gala  takes place.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211031233000 +0000" stop="20211101005000 +0000">
+  <programme channel="86" start="20211031233500 +0000" stop="20211101005000 +0000">
     <title>ISU Grand Prix (G)</title>
     <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Pairs freeskating  takes place.</desc>
     <category>Sports</category>
@@ -793,9 +828,19 @@
     <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Vancouver, Canada, as the Exhibition Gala  takes place.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211101095000 +0000" stop="20211101110000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211101095000 +0000" stop="20211101102000 +0000">
+    <title>Outdoor Sports Show (G)</title>
+    <desc>XTERRA. Short Track is a short race concept for elite athletes and to qualify to compete they must achieve a good result in either a full distance event or in a preliminary short track race. We travel to Germany and to the majestic Zittau.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101102000 +0000" stop="20211101104500 +0000">
+    <title>All Access: Black Ferns (G)</title>
+    <desc>Episode 1 of 3: As the Black Ferns prepare for their 100th test match, against England on Monday, Sky Sport gets an inside look at the team culture, the relentless training sessions and the characters that make this team so elite.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="86" start="20211101104500 +0000" stop="20211101110000 +0000">
+    <title>Men's Normal Hill, ... (G)</title>
+    <desc>Men's Normal Hill, Qualification - Ski Jumping | PyeongChang 2018 Replays - The men's normal hill qualification was held on 8 February 2018 at the Alpensia Ski Jump Centre.</desc>
     <category>Sports</category>
   </programme>
   <channel id="87">
@@ -826,12 +871,12 @@
     <desc>2021 World Series of Darts Finals: All the big names are in Amsterdam, second round action gets underway in the Netherlands.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211031210000 +0000" stop="20211031230000 +0000">
+  <programme channel="87" start="20211031210000 +0000" stop="20211031230500 +0000">
     <title>St. Petersburg Open: Final (G)</title>
     <desc>Replay coverage of the Final from Day 7 of the ATP 250: St. Petersburg Open. Tune in as the world's top tennis players go head to head in St. Petersburg, Russia.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="87" start="20211031230000 +0000" stop="20211101010000 +0000">
+  <programme channel="87" start="20211031230500 +0000" stop="20211101010000 +0000">
     <title>Erste Bank Open: Singles Final (G)</title>
     <desc>Replay coverage of the Singles Final from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
@@ -856,12 +901,12 @@
     <desc>XTERRA. Short Track is a short race concept for elite athletes and to qualify to compete they must achieve a good result in either a full distance event or in a preliminary short track race. We travel to Germany and to the majestic Zittau.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211101070000 +0000" stop="20211101090000 +0000">
+  <programme channel="87" start="20211101070000 +0000" stop="20211101090500 +0000">
     <title>St. Petersburg Open: Final (G)</title>
     <desc>Replay coverage of the Final from Day 7 of the ATP 250: St. Petersburg Open. Tune in as the world's top tennis players go head to head in St. Petersburg, Russia.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="87" start="20211101090000 +0000" stop="20211101110000 +0000">
+  <programme channel="87" start="20211101090500 +0000" stop="20211101110000 +0000">
     <title>Erste Bank Open: Doubles Final (G)</title>
     <desc>Replay coverage of the Doubles Final from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
@@ -1052,12 +1097,12 @@
     <desc>Samantha Ponder introduces the features associated with the day's games, joined by a roster of analysts including Tedy Bruschi, Randy Moss, Matt Hasselbeck, Rex Ryan, and Louis Riddick.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20211031170000 +0000" stop="20211031200000 +0000">
+  <programme channel="81" start="20211031170000 +0000" stop="20211031202000 +0000">
     <title>Live: NFL (G)</title>
-    <desc>Bills v Dolphins.</desc>
+    <desc>Bills v Dolphins: The Dolphins have had a disastrous start to the season, falling in their last 6 contests and now meet with Super Bowl hopefuls in the Bills.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20211031200000 +0000" stop="20211031220000 +0000">
+  <programme channel="81" start="20211031202000 +0000" stop="20211031220000 +0000">
     <title>MLS (G)</title>
     <desc>MLS</desc>
     <category>Soccer</category>
@@ -1078,8 +1123,8 @@
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101000000 +0000" stop="20211101030000 +0000">
-    <title>Live: World Series (G)</title>
-    <desc>Game 5.</desc>
+    <title>Live: MLB World Series (G)</title>
+    <desc>Braves v Astros Game 5.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101030000 +0000" stop="20211101040000 +0000">
@@ -1094,32 +1139,32 @@
   </programme>
   <programme channel="81" start="20211101043000 +0000" stop="20211101070000 +0000">
     <title>NFL (G)</title>
-    <desc>NFL</desc>
+    <desc>Browns v Steelers: The Pittsburgh Steelers will have their work cut out for them as they face the Cleveland Browns who boast the leagues 2nd most devastating defence.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101070000 +0000" stop="20211101073000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Browns v Steelers.</desc>
+    <desc>Browns v Steelers: The Steelers will have their work cut out for them as they face the Browns who boast a devastating defence. NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101073000 +0000" stop="20211101080000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Saints v Buccaneers.</desc>
+    <desc>Saints v Buccaneers: The Buccs are riding high on a 4 game win streak and now face divisional rival as they travel to New Orleans NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101080000 +0000" stop="20211101083000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Vikings v Cowboys.</desc>
+    <desc>Vikings v Cowboys: Two top five offences clash as the Cowboys head to Minnesota to take on the Vikings who are coming off an OT thriller. NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101083000 +0000" stop="20211101090000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Bills v Dolphins.</desc>
+    <desc>Bills v Dolphins: The Dolphins have had a disastrous start to the season and now meet with Super Bowl hopefuls in the Bills NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101090000 +0000" stop="20211101110000 +0000">
     <title>NFL (G)</title>
-    <desc>NFL</desc>
+    <desc>Saints v Buccaneers: The Buccs are riding high on a 4 game win streak, behind Tom Brady's league leading arm and now face divisional rival as they travel to New Orleans.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="82">
@@ -1140,29 +1185,29 @@
     <desc>Host Will Cain and analysts Matthew Berry, Field Yates and licensed physical therapist Stephania Bell provide the latest info on fantasy gridiron news going into the day.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20211031170000 +0000" stop="20211031200000 +0000">
+  <programme channel="82" start="20211031170000 +0000" stop="20211031201000 +0000">
     <title>Live: NFL (G)</title>
-    <desc>Live: NFL</desc>
+    <desc>Browns v Steelers: The Pittsburgh Steelers will have their work cut out for them as they face the Cleveland Browns who boast the leagues 2nd most devastating defence.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20211031200000 +0000" stop="20211031202500 +0000">
+  <programme channel="82" start="20211031201000 +0000" stop="20211031202500 +0000">
     <title>In Depth With (G)</title>
     <desc>Tony Romo (2021): Former Dallas quarterback-turned-broadcaster Tony Romo gives his first interview since signing the contract that made him the highest-paid TV analyst ever.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="82" start="20211031202500 +0000" stop="20211031233000 +0000">
+  <programme channel="82" start="20211031202500 +0000" stop="20211031234000 +0000">
     <title>Live: NFL (G)</title>
-    <desc>Live: NFL</desc>
+    <desc>Saints v Buccaneers: The Buccs are riding high on a 4 game win streak, behind Tom Brady's league leading arm and now face divisional rival as they travel to New Orleans.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20211031233000 +0000" stop="20211101001500 +0000">
+  <programme channel="82" start="20211031234000 +0000" stop="20211101001500 +0000">
     <title>Live: SC: NFL Blitz (G)</title>
     <desc>SC: NFL Blitz features action packed highlights and any news around the NFL tailor made for the local NFL fan.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211101001500 +0000" stop="20211101033000 +0000">
     <title>Live: NFL (G)</title>
-    <desc>Vikings v Cowboys.</desc>
+    <desc>Vikings v Cowboys: Two top five offences clash as the surging Cowboys travel to Minnesota to take on the Vikings who are coming off an OT thriller.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211101033000 +0000" stop="20211101040000 +0000">
@@ -1182,7 +1227,7 @@
   </programme>
   <programme channel="82" start="20211101050000 +0000" stop="20211101073000 +0000">
     <title>NFL (G)</title>
-    <desc>Bills v Dolphins.</desc>
+    <desc>Bills v Dolphins: The Dolphins have had a disastrous start to the season, falling in their last 6 contests and now meet with Super Bowl hopefuls in the Bills.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211101073000 +0000" stop="20211101093000 +0000">
@@ -1197,7 +1242,7 @@
   </programme>
   <programme channel="82" start="20211101100000 +0000" stop="20211101110000 +0000">
     <title>MLB World Series (G)</title>
-    <desc>Game 5.</desc>
+    <desc>Braves v Astros Game 5.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="93">
@@ -1351,18 +1396,18 @@
   </programme>
   <programme channel="61" start="20211102033000 +0000" stop="20211102040000 +0000">
     <title>Supercars: Race 20 Hls (G)</title>
-    <desc>Highlights of the Supercars Championship, Round 8, Race 20, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Sports</category>
+    <desc>Highlights of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 20, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
   </programme>
   <programme channel="61" start="20211102040000 +0000" stop="20211102043000 +0000">
     <title>Supercars: Race 21 Hls (G)</title>
-    <desc>Highlights of the Supercars Championship, Round 8, Race 21, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Sports</category>
+    <desc>Highlights of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 21, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
   </programme>
   <programme channel="61" start="20211102043000 +0000" stop="20211102050000 +0000">
     <title>Supercars: Race 22 Hls (G)</title>
-    <desc>Highlights of the Supercars Championship, Round 8, Race 22, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Sports</category>
+    <desc>Highlights of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 22, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
   </programme>
   <programme channel="61" start="20211102050000 +0000" stop="20211102060000 +0000">
     <title>Rolex Paris Masters: Day 1 Hls (G)</title>
@@ -1414,27 +1459,22 @@
   </programme>
   <programme channel="62" start="20211101183000 +0000" stop="20211101190000 +0000">
     <title>T20 World Cup Wrap (G)</title>
-    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE.</desc>
+    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action as England faced Sri Lanka in the T20 World Cup in the UAE.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211101190000 +0000" stop="20211101223000 +0000">
-    <title>ICC T20 WC: ENG v A1 (G)</title>
-    <desc>Replay coverage of the ICC T20 World Cup match between England and A1 at Sharjah Cricket Stadium, Sharjah.</desc>
+  <programme channel="62" start="20211101190000 +0000" stop="20211101225000 +0000">
+    <title>ICC T20 WC: ENG v SRI (G)</title>
+    <desc>Replay coverage of the ICC T20 World Cup match between England and Sri Lanka at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211101223000 +0000" stop="20211102013000 +0000">
+  <programme channel="62" start="20211101225000 +0000" stop="20211102014500 +0000">
     <title>WBBL: BH v MS (G)</title>
     <desc>Replay coverage of the Women's Big Bash League match between the Brisbane Heat and Melbourne Stars at the University of Tasmania Stadium, Launceston.</desc>
-    <category>sport</category>
+    <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211102013000 +0000" stop="20211102043000 +0000">
+  <programme channel="62" start="20211102014500 +0000" stop="20211102050000 +0000">
     <title>WBBL: AS v MR (G)</title>
     <desc>Replay coverage of the Women's Big Bash League match between the Adelaide Strikers and Melbourne Renegades at Lilac Hill, Perth.</desc>
-    <category>sport</category>
-  </programme>
-  <programme channel="62" start="20211102043000 +0000" stop="20211102050000 +0000">
-    <title>ICC T20 WC: ENG v A1 Hls (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between England and A1 at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211102050000 +0000" stop="20211102053000 +0000">
@@ -1443,8 +1483,8 @@
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211102053000 +0000" stop="20211102060000 +0000">
-    <title>ICC T20 WC: AFG v A2 (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between Afghanistan and A2 at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <title>ICC T20 WC: AFG v NAM (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between Afghanistan and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211102060000 +0000" stop="20211102063000 +0000">
@@ -1453,24 +1493,24 @@
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211102063000 +0000" stop="20211102070000 +0000">
-    <title>ICC T20 WC: ENG v A1 Hls (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between England and A1 at Sharjah Cricket Stadium, Sharjah.</desc>
+    <title>ICC T20 WC: ENG v SRI Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between England and Sri Lanka at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211102070000 +0000" stop="20211102073000 +0000">
     <title>T20 World Cup Wrap (G)</title>
-    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE.</desc>
+    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action as England faced Sri Lanka in the T20 World Cup in the UAE.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211102073000 +0000" stop="20211102080000 +0000">
     <title>WBBL: AS v MR Hls (G)</title>
     <desc>Highlights of the Women's Big Bash League match between the Adelaide Strikers and Melbourne Renegades at Lilac Hill, Perth.</desc>
-    <category>sport</category>
+    <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211102080000 +0000" stop="20211102083000 +0000">
     <title>WBBL: PS v AS Hls (G)</title>
     <desc>Highlights of the Women's Big Bash League match between the Perth Scorchers and Sydney Sixers at Lilac Hill, Perth.</desc>
-    <category>sport</category>
+    <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211102083000 +0000" stop="20211102090000 +0000">
     <title>ICC T20 WC: IND v NZ Hls (G)</title>
@@ -1478,13 +1518,13 @@
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211102090000 +0000" stop="20211102093000 +0000">
-    <title>ICC T20 WC: ENG v A1 Hls (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between England and A1 at Sharjah Cricket Stadium, Sharjah.</desc>
+    <title>ICC T20 WC: ENG v SRI Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between England and Sri Lanka at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211102093000 +0000" stop="20211102110000 +0000">
-    <title>LIVE: ICC T20 WC: RSA v B2 (G)</title>
-    <desc>LIVE coverage of the ICC T20 World Cup match between South Africa and B2 at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <title>LIVE: ICC T20 WC: RSA v BAN (G)</title>
+    <desc>LIVE coverage of the ICC T20 World Cup match between South Africa and Bangladesh at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
   <channel id="63">
@@ -1638,72 +1678,72 @@
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Sports Sedans Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211101224000 +0000" stop="20211101230500 +0000">
+  <programme channel="83" start="20211101224000 +0000" stop="20211101231000 +0000">
     <title>Supercars: Sports Sedans R2 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Sports Sedans Race 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211101230500 +0000" stop="20211101233000 +0000">
+  <programme channel="83" start="20211101231000 +0000" stop="20211101234000 +0000">
     <title>Supercars: Sports Sedans R3 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Sports Sedans Race 3, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211101233000 +0000" stop="20211101235500 +0000">
+  <programme channel="83" start="20211101234000 +0000" stop="20211102001000 +0000">
     <title>Supercars: Superutes P1 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Practice 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211101235500 +0000" stop="20211102002000 +0000">
+  <programme channel="83" start="20211102001000 +0000" stop="20211102003500 +0000">
     <title>Supercars: Superutes P2 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Practice 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211102002000 +0000" stop="20211102004500 +0000">
+  <programme channel="83" start="20211102003500 +0000" stop="20211102010000 +0000">
     <title>Supercars: Superutes Qual (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Qualifying, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211102004500 +0000" stop="20211102011000 +0000">
+  <programme channel="83" start="20211102010000 +0000" stop="20211102012500 +0000">
     <title>Supercars: Superutes R1 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211102011000 +0000" stop="20211102013500 +0000">
+  <programme channel="83" start="20211102012500 +0000" stop="20211102015000 +0000">
     <title>Supercars: Superutes R2 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Race 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211102013500 +0000" stop="20211102020000 +0000">
+  <programme channel="83" start="20211102015000 +0000" stop="20211102021500 +0000">
     <title>Supercars: Superute R3 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Race 3, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211102020000 +0000" stop="20211102022500 +0000">
+  <programme channel="83" start="20211102021500 +0000" stop="20211102024500 +0000">
     <title>Supercars: TGRA 86 P1 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, TGRA 86 Practice 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211102022500 +0000" stop="20211102025000 +0000">
+  <programme channel="83" start="20211102024500 +0000" stop="20211102031000 +0000">
     <title>Supercars: TGRA 86 P2 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, TGRA 86 Practice 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211102025000 +0000" stop="20211102031500 +0000">
+  <programme channel="83" start="20211102031000 +0000" stop="20211102034000 +0000">
     <title>Supercars: TGRA 86 Qual (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, TGRA 86 Qualifying, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211102031500 +0000" stop="20211102034500 +0000">
+  <programme channel="83" start="20211102034000 +0000" stop="20211102040500 +0000">
     <title>Supercars: TGRA 86 R1 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, Superutes Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211102034500 +0000" stop="20211102041500 +0000">
+  <programme channel="83" start="20211102040500 +0000" stop="20211102043000 +0000">
     <title>Supercars: TGRA 86 R2 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, TGRA 86 Race 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211102041500 +0000" stop="20211102050000 +0000">
+  <programme channel="83" start="20211102043000 +0000" stop="20211102050000 +0000">
     <title>Supercars: TGRA 86 R3 (G)</title>
     <desc>Replay of the Supercars Championship, Bunnings Trade Sydney SuperNight, TGRA 86 Race 3, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
@@ -1997,14 +2037,154 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20211101110000 +0000" stop="20211101170000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211101110000 +0000" stop="20211101120000 +0000">
+    <title>Men's Normal Hill, ... (G)</title>
+    <desc>Men's Normal Hill, Qualification - Ski Jumping | PyeongChang 2018 Replays - The men's normal hill qualification was held on 8 February 2018 at the Alpensia Ski Jump Centre.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211101170000 +0000" stop="20211102110000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211101120000 +0000" stop="20211101122500 +0000">
+    <title>Anatomy of an ice hockey ... (G)</title>
+    <desc>Anatomy of an ice hockey player and a steeplechaser - A Canadian women’s ice hockey star and a Moroccan Steeplechase Runner are pushed to the limit in a sports lab.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101122500 +0000" stop="20211101125000 +0000">
+    <title>The Bryony Page story ... (G)</title>
+    <desc>The Bryony Page story (extended version) - Bryony Page had to overcome an extraordinary mental obstacle on her way to becoming Team GB’s first ever Olympic trampoline medallist.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101125000 +0000" stop="20211101132000 +0000">
+    <title>Beijing's 2008 legacy lives ... (G)</title>
+    <desc>Beijing's 2008 legacy lives on in new generation of boxers and shuttlers - Eight years on, we check out China boxing's cradle, inspired by Beijing 2008, and also revisit breakthrough moment in Chinese badminton.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101132000 +0000" stop="20211101135000 +0000">
+    <title>Meet the ice hockey goalie ... (G)</title>
+    <desc>Meet the ice hockey goalie of the first ever unified Korean team - The full story of Sojung Shin’s incredible journey as she trained, qualified, and competed in PyeongChang 2018</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101135000 +0000" stop="20211101144500 +0000">
+    <title>Highest Air... (G)</title>
+    <desc>Highest Air - The world’s top snowboarders attempt to break the world’s record for how high you can jump out of the halfpipe. Will they succeed?  Filmed in Saas Fee, Switzerland, in October 2020, the film features snowboarders Scotty James, Ayumu Hirano,</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101144500 +0000" stop="20211101152500 +0000">
+    <title>My Great Winter Olympic ... (G)</title>
+    <desc>My Great Winter Olympic Moments with Arianna Fontana - Arianna Fontana is the greatest female short track speed skater in Olympic history. Her numbers at the Games speak for themselves; one gold, two silver, and five bronze. In this edition of My Great Wi</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101152500 +0000" stop="20211101162500 +0000">
+    <title>Women's Moguls Qualif. 1 -  ... (G)</title>
+    <desc>Women's Moguls Qualif. 1 -  Freestyle Skiing | PyeongChang 2018 Replays - The women's moguls first qualifying round was held at the Phoenix Snow Park on 9 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101162500 +0000" stop="20211101171000 +0000">
+    <title>Women's Moguls Qualif. 2 - ... (G)</title>
+    <desc>Women's Moguls Qualif. 2 - Freestyle Skiing | PyeongChang 2018 Replays - The women's moguls second qualifying round was held at the Phoenix Snow Park on 11 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101171000 +0000" stop="20211101180500 +0000">
+    <title>Men's Moguls Qualification 1 ... (G)</title>
+    <desc>Men's Moguls Qualification 1 - Freestyle Skiing | PyeongChang 2018 - The men's moguls first qualifying round was held at the Phoenix Snow Park on 9 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101180500 +0000" stop="20211101184500 +0000">
+    <title>Men's Moguls Qualification 2 ... (G)</title>
+    <desc>Men's Moguls Qualification 2 - Freestyle Skiing | PyeongChang 2018 replays - The men's moguls second qualifying round was held at the Phoenix Snow Park on 12 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101184500 +0000" stop="20211101195500 +0000">
+    <title>Men's Normal Hill, ... (G)</title>
+    <desc>Men's Normal Hill, Qualification - Ski Jumping | PyeongChang 2018 Replays - The men's normal hill qualification was held on 8 February 2018 at the Alpensia Ski Jump Centre.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101195500 +0000" stop="20211101202000 +0000">
+    <title>Anatomy of an ice hockey ... (G)</title>
+    <desc>Anatomy of an ice hockey player and a steeplechaser - A Canadian women’s ice hockey star and a Moroccan Steeplechase Runner are pushed to the limit in a sports lab.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101202000 +0000" stop="20211101204500 +0000">
+    <title>The Bryony Page story ... (G)</title>
+    <desc>The Bryony Page story (extended version) - Bryony Page had to overcome an extraordinary mental obstacle on her way to becoming Team GB’s first ever Olympic trampoline medallist.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101204500 +0000" stop="20211101212000 +0000">
+    <title>Beijing's 2008 legacy lives ... (G)</title>
+    <desc>Beijing's 2008 legacy lives on in new generation of boxers and shuttlers - Eight years on, we check out China boxing's cradle, inspired by Beijing 2008, and also revisit breakthrough moment in Chinese badminton.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101212000 +0000" stop="20211101220000 +0000">
+    <title>My Great Winter Olympic ... (G)</title>
+    <desc>My Great Winter Olympic Moments with Arianna Fontana - Arianna Fontana is the greatest female short track speed skater in Olympic history. Her numbers at the Games speak for themselves; one gold, two silver, and five bronze. In this edition of My Great Wi</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101220000 +0000" stop="20211101222500 +0000">
+    <title>Meet the ice hockey goalie ... (G)</title>
+    <desc>Meet the ice hockey goalie of the first ever unified Korean team - The full story of Sojung Shin’s incredible journey as she trained, qualified, and competed in PyeongChang 2018</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101222500 +0000" stop="20211101232000 +0000">
+    <title>Highest Air... (G)</title>
+    <desc>Highest Air - The world’s top snowboarders attempt to break the world’s record for how high you can jump out of the halfpipe. Will they succeed?  Filmed in Saas Fee, Switzerland, in October 2020, the film features snowboarders Scotty James, Ayumu Hirano,</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211101232000 +0000" stop="20211102010000 +0000">
+    <title>Women's Sprint - Biathlon | ... (G)</title>
+    <desc>Women's Sprint - Biathlon | PyeongChang 2018 Replays - The women's sprint competition was held at the Alpensia Biathlon Centre on 10 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102010000 +0000" stop="20211102024000 +0000">
+    <title>Women's 3000m - Speed ... (G)</title>
+    <desc>Women's 3000m - Speed Skating | PyeongChang 2018 Replays - The women's 3000m competition was held at the Gangneung Oval on 10 Feburary 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102024000 +0000" stop="20211102030500 +0000">
+    <title>Anatomy of an ice hockey ... (G)</title>
+    <desc>Anatomy of an ice hockey player and a steeplechaser - A Canadian women’s ice hockey star and a Moroccan Steeplechase Runner are pushed to the limit in a sports lab.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102030500 +0000" stop="20211102033000 +0000">
+    <title>The Bryony Page story ... (G)</title>
+    <desc>The Bryony Page story (extended version) - Bryony Page had to overcome an extraordinary mental obstacle on her way to becoming Team GB’s first ever Olympic trampoline medallist.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102033000 +0000" stop="20211102040000 +0000">
+    <title>Meet the ice hockey goalie ... (G)</title>
+    <desc>Meet the ice hockey goalie of the first ever unified Korean team - The full story of Sojung Shin’s incredible journey as she trained, qualified, and competed in PyeongChang 2018</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102040000 +0000" stop="20211102043000 +0000">
+    <title>Beijing's 2008 legacy lives ... (G)</title>
+    <desc>Beijing's 2008 legacy lives on in new generation of boxers and shuttlers - Eight years on, we check out China boxing's cradle, inspired by Beijing 2008, and also revisit breakthrough moment in Chinese badminton.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102043000 +0000" stop="20211102051000 +0000">
+    <title>My Great Winter Olympic ... (G)</title>
+    <desc>My Great Winter Olympic Moments with Arianna Fontana - Arianna Fontana is the greatest female short track speed skater in Olympic history. Her numbers at the Games speak for themselves; one gold, two silver, and five bronze. In this edition of My Great Wi</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102051000 +0000" stop="20211102060000 +0000">
+    <title>Highest Air... (G)</title>
+    <desc>Highest Air - The world’s top snowboarders attempt to break the world’s record for how high you can jump out of the halfpipe. Will they succeed?  Filmed in Saas Fee, Switzerland, in October 2020, the film features snowboarders Scotty James, Ayumu Hirano,</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102060000 +0000" stop="20211102062500 +0000">
+    <title>Curling: Team Italy Men ... (G)</title>
+    <desc>Curling: Team Italy Men  - Meet the Italian Curling team and follow their adventures on and off the ice at the PyeongChang Olympic Winter Games</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102062500 +0000" stop="20211102072000 +0000">
+    <title>Men’s Cross Country 15km ... (G)</title>
+    <desc>Men’s Cross Country 15km Pursuit, Nagano 1998 - Bjørn Daehlie was staking claim to becoming the greatest Nordic skier. But in the pursuit, Thomas Alsgaard cared little for history.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102072000 +0000" stop="20211102075500 +0000">
+    <title>These Jamaican ladies ... (G)</title>
+    <desc>These Jamaican ladies carried the Cool Runnings legacy in PyeongChang - The full story of the Jamaican women’s bobsleigh team as they trained, qualified, and competed at the 2018 Olympic Winter Games.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102075500 +0000" stop="20211102110000 +0000">
+    <title>Men's Slopestyle ... (G)</title>
+    <desc>Men's Slopestyle Qualification - Snowboard | PyeongChang 2018 Replays - The men's slopestyle qualification (Heat 1 and Heat 2) was held at the Phoenix Snow Park on 10 February 2018.</desc>
     <category>Sports</category>
   </programme>
   <channel id="87">
@@ -2095,7 +2275,7 @@
   </programme>
   <programme channel="88" start="20211101170000 +0000" stop="20211101173000 +0000">
     <title>All Access: Black Ferns (G)</title>
-    <desc>As the Black Ferns prepare for their 100th test match, against England on Monday, Sky Sport gets an inside look at the team culture, the relentless training sessions and the characters that make this team so elite.</desc>
+    <desc>Episode 1 of 3: As the Black Ferns prepare for their 100th test match, against England on Monday, Sky Sport gets an inside look at the team culture, the relentless training sessions and the characters that make this team so elite.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="88" start="20211101173000 +0000" stop="20211101180000 +0000">
@@ -2104,13 +2284,13 @@
     <category>Rugby</category>
   </programme>
   <programme channel="88" start="20211101180000 +0000" stop="20211101190000 +0000">
-    <title>Erste Bank Open: Doubles Final Hls (G)</title>
-    <desc>Highlights of the Doubles Final from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
+    <title>Erste Bank Open: Day 7 Hls (G)</title>
+    <desc>Highlights from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="88" start="20211101190000 +0000" stop="20211101200000 +0000">
-    <title>Erste Bank Open: Singles Final Hls (G)</title>
-    <desc>Highlights of the Singles Final from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
+    <title>Erste Bank Open: Review Show (G)</title>
+    <desc>Review Show of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="88" start="20211101200000 +0000" stop="20211101210000 +0000">
@@ -2155,7 +2335,7 @@
   </programme>
   <programme channel="88" start="20211102010000 +0000" stop="20211102013000 +0000">
     <title>All Access: Black Ferns (G)</title>
-    <desc>As the Black Ferns prepare for their 100th test match, against England on Monday, Sky Sport gets an inside look at the team culture, the relentless training sessions and the characters that make this team so elite.</desc>
+    <desc>Episode 1 of 3: As the Black Ferns prepare for their 100th test match, against England on Monday, Sky Sport gets an inside look at the team culture, the relentless training sessions and the characters that make this team so elite.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="88" start="20211102013000 +0000" stop="20211102020000 +0000">
@@ -2164,8 +2344,8 @@
     <category>Cricket</category>
   </programme>
   <programme channel="88" start="20211102020000 +0000" stop="20211102030000 +0000">
-    <title>Erste Bank Open: Singles Final Hls (G)</title>
-    <desc>Highlights of the Singles Final from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
+    <title>Erste Bank Open: Day 7 Hls (G)</title>
+    <desc>Highlights from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="88" start="20211102030000 +0000" stop="20211102040000 +0000">
@@ -2233,32 +2413,32 @@
   </channel>
   <programme channel="81" start="20211101110000 +0000" stop="20211101113000 +0000">
     <title>NFL (G)</title>
-    <desc>NFL</desc>
+    <desc>Saints v Buccaneers: The Buccs are riding high on a 4 game win streak, behind Tom Brady's league leading arm and now face divisional rival as they travel to New Orleans.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101113000 +0000" stop="20211101140000 +0000">
     <title>NFL (G)</title>
-    <desc>Vikings v Cowboys.</desc>
+    <desc>Vikings v Cowboys: Two top five offences clash as the surging Cowboys travel to Minnesota to take on the Vikings who are coming off an OT thriller.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101140000 +0000" stop="20211101143000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Bills v Dolphins.</desc>
+    <desc>Bills v Dolphins: The Dolphins have had a disastrous start to the season and now meet with Super Bowl hopefuls in the Bills NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101143000 +0000" stop="20211101150000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Browns v Steelers.</desc>
+    <desc>Browns v Steelers: The Steelers will have their work cut out for them as they face the Browns who boast a devastating defence. NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101150000 +0000" stop="20211101153000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Saints v Buccaneers.</desc>
+    <desc>Saints v Buccaneers: The Buccs are riding high on a 4 game win streak and now face divisional rival as they travel to New Orleans NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101153000 +0000" stop="20211101160000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Vikings v Cowboys.</desc>
+    <desc>Vikings v Cowboys: Two top five offences clash as the Cowboys head to Minnesota to take on the Vikings who are coming off an OT thriller. NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211101160000 +0000" stop="20211101170000 +0000">
@@ -2356,7 +2536,7 @@
   </channel>
   <programme channel="82" start="20211101110000 +0000" stop="20211101130000 +0000">
     <title>MLB World Series (G)</title>
-    <desc>Game 5.</desc>
+    <desc>Braves v Astros Game 5.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211101130000 +0000" stop="20211101140000 +0000">
@@ -2371,12 +2551,12 @@
   </programme>
   <programme channel="82" start="20211101160000 +0000" stop="20211101163000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Browns v Steelers.</desc>
+    <desc>Browns v Steelers: The Steelers will have their work cut out for them as they face the Browns who boast a devastating defence. NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211101163000 +0000" stop="20211101170000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Saints v Buccaneers.</desc>
+    <desc>Saints v Buccaneers: The Buccs are riding high on a 4 game win streak and now face divisional rival as they travel to New Orleans NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211101170000 +0000" stop="20211101173000 +0000">
@@ -2562,7 +2742,7 @@
   </programme>
   <programme channel="60" start="20211103000000 +0000" stop="20211103010000 +0000">
     <title>The Breakdown (G)</title>
-    <desc>Co-hosted by Jeff Wilson and Bernadine Oliver-Kerby and with regular panelists - Sir JK, Mils and Honey Hireme-Smiler, discuss the water cooler moments from the weekend.</desc>
+    <desc>This week on the Breakdown, we talk to stand out AB Will Jordan after the big win over Wales. Chelsea Alley checks in from Stonehenge with her tour diary. Kieran Crowley zooms in before Italy’s test v the ABs this weekend.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211103010000 +0000" stop="20211103030000 +0000">
@@ -2591,19 +2771,24 @@
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211103080000 +0000" stop="20211103083000 +0000">
-    <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="60" start="20211103083000 +0000" stop="20211103103000 +0000">
-    <title>Flashback Game (G)</title>
-    <desc>Flashback Game</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="60" start="20211103103000 +0000" stop="20211103110000 +0000">
-    <title>The Breakdown (G)</title>
-    <desc>Co-hosted by Jeff Wilson and Bernadine Oliver-Kerby and with regular panelists - Sir JK, Mils and Honey Hireme-Smiler, discuss the water cooler moments from the weekend.</desc>
+    <title>Rugby: Wales v All Blacks Hls (G)</title>
+    <desc>Highlights of the All Blacks visit to Cardiff to take on the Welsh.</desc>
     <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211103083000 +0000" stop="20211103090000 +0000">
+    <title>ICC T20 WC: PAK v NZ Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between Pakistan and New Zealand at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="60" start="20211103090000 +0000" stop="20211103093000 +0000">
+    <title>ICC T20 WC: IND v NZ Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between India and New Zealand at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="60" start="20211103093000 +0000" stop="20211103110000 +0000">
+    <title>LIVE: ICC T20 WC: NZ v SCO (G)</title>
+    <desc>LIVE coverage of the ICC T20 World Cup match between New Zealand and Scotland at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
   </programme>
   <channel id="61">
     <display-name>sky-sport-2</display-name>
@@ -2614,8 +2799,8 @@
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211102223000 +0000" stop="20211103003000 +0000">
-    <title>French Top 14 Replay: TBC (G)</title>
-    <desc>French Top 14 Replay: TBC</desc>
+    <title>French Top 14: RAC v TLS (G)</title>
+    <desc>Replay coverage of the French Top 14 season as Racing 92 host Toulouse at Paris La Défense Arena, Nanterre.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="61" start="20211103003000 +0000" stop="20211103010000 +0000">
@@ -2634,18 +2819,18 @@
     <category>Sports</category>
   </programme>
   <programme channel="61" start="20211103020000 +0000" stop="20211103033000 +0000">
-    <title>ATP 1000: Rolex Paris Masters: Day 2 MOTD (G)</title>
-    <desc>ATP 1000: Rolex Paris Masters: Day 2 MOTD</desc>
+    <title>Rolex Paris Masters: Day 2 MOTD (G)</title>
+    <desc>Match of the day from Day 2 of the ATP 1000: Rolex Paris Masters. Tune in as the world's top tennis players go head to head in Paris, France.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211103033000 +0000" stop="20211103043000 +0000">
-    <title>Tennis: Billie Jean King Cup: D2 Day Session Hls (G)</title>
-    <desc>Tennis: Billie Jean King Cup: D2 Day Session Hls</desc>
+    <title>Billie Jean King Cup: D2 S1 Hls (G)</title>
+    <desc>Highlights coverage of the Billie Jean King Cup by BNP Paribas Finals 2021 (was Fed Cup) - the premier international team competition in women's tennis. Tune in for Day 2, Day Session, held in the O2 Arena, Prague, Czech Republic.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211103043000 +0000" stop="20211103053000 +0000">
-    <title>Tennis: Billie Jean King Cup: D2 Night Session Hls (G)</title>
-    <desc>Tennis: Billie Jean King Cup: D2 Night Session Hls</desc>
+    <title>Billie Jean King Cup: D2 S2 Hls (G)</title>
+    <desc>Highlights coverage of the Billie Jean King Cup by BNP Paribas Finals 2021 (was Fed Cup) - the premier international team competition in women's tennis. Tune in for Day 2, Night Session, held in the O2 Arena, Prague, Czech Republic.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211103053000 +0000" stop="20211103063000 +0000">
@@ -2654,19 +2839,14 @@
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211103063000 +0000" stop="20211103070000 +0000">
-    <title>Inside Netball (G)</title>
-    <desc>Every week, former Silver Fern Adine Wilson, Sky Sport commentators Jenny Woods and Ravinder Hunia debate the biggest talking points in the game, in Inside Netball.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211103070000 +0000" stop="20211103080000 +0000">
-    <title>The Back Page (G)</title>
-    <desc>Host Tony Squires is joined by athletes, journalists and comedians for a comprehensive wrap of all the big talking points in sport, with plenty of laughs along the way.</desc>
+    <title>Playmakers: Rugby Stories (G)</title>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="61" start="20211103080000 +0000" stop="20211103090000 +0000">
-    <title>Tennis: Billie Jean King Cup: D2 Night Session Hls (G)</title>
-    <desc>Tennis: Billie Jean King Cup: D2 Night Session Hls</desc>
-    <category>Tennis</category>
+  <programme channel="61" start="20211103070000 +0000" stop="20211103090000 +0000">
+    <title>Flashback Game (G)</title>
+    <desc>Flashback Game</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="61" start="20211103090000 +0000" stop="20211103100000 +0000">
     <title>Rolex Paris Masters: Day 2 Hls (G)</title>
@@ -2681,14 +2861,14 @@
   <channel id="62">
     <display-name>sky-sport-3</display-name>
   </channel>
-  <programme channel="62" start="20211102110000 +0000" stop="20211102134500 +0000">
-    <title>LIVE: ICC T20 WC: RSA v B2 (G)</title>
-    <desc>LIVE coverage of the ICC T20 World Cup match between South Africa and B2 at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+  <programme channel="62" start="20211102110000 +0000" stop="20211102133000 +0000">
+    <title>LIVE: ICC T20 WC: RSA v BAN (G)</title>
+    <desc>LIVE coverage of the ICC T20 World Cup match between South Africa and Bangladesh at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211102134500 +0000" stop="20211102180000 +0000">
-    <title>LIVE: ICC T20 WC: PAK v A2 (G)</title>
-    <desc>LIVE coverage of the ICC T20 World Cup match between Pakistan and A2 at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+  <programme channel="62" start="20211102133000 +0000" stop="20211102180000 +0000">
+    <title>LIVE: ICC T20 WC: PAK v NAM (G)</title>
+    <desc>LIVE coverage of the ICC T20 World Cup match between Pakistan and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211102180000 +0000" stop="20211102183000 +0000">
@@ -2744,10 +2924,15 @@
     <desc>LIVE: Billie Jean King Cup by BNP Paribas Finals 2021 (was Fed Cup) - the premier international team competition in women's tennis. Tune in for the Group Stage tie between the USA &amp; Slovakia from the O2 Arena, Prague, Czech Republic.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="63" start="20211102213000 +0000" stop="20211102233000 +0000">
+  <programme channel="63" start="20211102213000 +0000" stop="20211102230000 +0000">
     <title>National Women's Competition (G)</title>
     <desc>Join Sky Sport for Replay coverage of the 2021 NZRL National Women's Competition. Catch the action as the Canterbury Women take on the Wellington Orcas Women from Nga Puna Wai, Christchurch.</desc>
     <category>League</category>
+  </programme>
+  <programme channel="63" start="20211102230000 +0000" stop="20211102233000 +0000">
+    <title>All Access: Black Ferns (G)</title>
+    <desc>Episode 1 of 3: As the Black Ferns prepare for their 100th test match, against England on Monday, Sky Sport gets an inside look at the team culture, the relentless training sessions and the characters that make this team so elite.</desc>
+    <category>Rugby</category>
   </programme>
   <programme channel="63" start="20211102233000 +0000" stop="20211103003000 +0000">
     <title>Billie Jean King Cup: D2 S1 Hls (G)</title>
@@ -2779,15 +2964,25 @@
     <desc>Sky Sport’s Ravinder Hunia sits down with Kiwi Legend #341, Ray Cranch, our longest surviving Rugby League player in New Zealand. He shares his stories of survival, determination and patriotism on and off the field.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211103050000 +0000" stop="20211103070000 +0000">
+  <programme channel="63" start="20211103050000 +0000" stop="20211103063000 +0000">
     <title>National Women's Competition (G)</title>
     <desc>Join Sky Sport for Replay coverage of the 2021 NZRL National Women's Competition. Catch the action as the Canterbury Women take on the Wellington Orcas Women from Nga Puna Wai, Christchurch.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211103070000 +0000" stop="20211103091000 +0000">
-    <title>NZRL Men's National Competition (G)</title>
-    <desc>Join Sky Sport for Replay coverage of the 2021 NZRL Men's National Competition. Catch the action as the Canterbury Bulls take on the Upper Central Stallions from Nga Puna Wai, Christchurch.</desc>
-    <category>League</category>
+  <programme channel="63" start="20211103063000 +0000" stop="20211103070000 +0000">
+    <title>Rugby: ENG v Black Ferns Hls (G)</title>
+    <desc>Highlights of the Black Ferns opening tour match as they face the English Red Roses in Exeter.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="63" start="20211103070000 +0000" stop="20211103080000 +0000">
+    <title>The Back Page (G)</title>
+    <desc>Host Tony Squires is joined by athletes, journalists and comedians for a comprehensive wrap of all the big talking points in sport, with plenty of laughs along the way.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="63" start="20211103080000 +0000" stop="20211103091000 +0000">
+    <title>Billie Jean King Cup: D2 S2 Hls (G)</title>
+    <desc>Highlights coverage of the Billie Jean King Cup by BNP Paribas Finals 2021 (was Fed Cup) - the premier international team competition in women's tennis. Tune in for Day 2, Night Session, held in the O2 Arena, Prague, Czech Republic.</desc>
+    <category>Tennis</category>
   </programme>
   <programme channel="63" start="20211103091000 +0000" stop="20211103110000 +0000">
     <title>LIVE: Billie Jean King Cup: FRA v RTF (G)</title>
@@ -3166,14 +3361,129 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20211102110000 +0000" stop="20211102170000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211102110000 +0000" stop="20211102112000 +0000">
+    <title>Men's Slopestyle ... (G)</title>
+    <desc>Men's Slopestyle Qualification - Snowboard | PyeongChang 2018 Replays - The men's slopestyle qualification (Heat 1 and Heat 2) was held at the Phoenix Snow Park on 10 February 2018.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211102170000 +0000" stop="20211103110000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211102112000 +0000" stop="20211102123500 +0000">
+    <title>Women's Skiathlon 15km - ... (G)</title>
+    <desc>Women's Skiathlon 15km - Cross-Country Skiing | PyeongChang 2018 Replays - The women's skiathlon competition was held at the Alpensia Cross-Country Centre on 10 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102123500 +0000" stop="20211102130000 +0000">
+    <title>Fashion Behind The Games: ... (G)</title>
+    <desc>Fashion Behind The Games: Threads and Technology - Explore how the evolution of technology has helped athletes to improve their performances at the Olympic Games.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102130000 +0000" stop="20211102140000 +0000">
+    <title>Transform My Meal: France... (G)</title>
+    <desc>Transform My Meal: France - Four French Olympic athletes meet up with world-class chefs in Paris, La Rochelle and Val d’Isere to learn how to cook haute cuisine at home.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102140000 +0000" stop="20211102142500 +0000">
+    <title>Curling: Team Italy Men ... (G)</title>
+    <desc>Curling: Team Italy Men  - Meet the Italian Curling team and follow their adventures on and off the ice at the PyeongChang Olympic Winter Games</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102142500 +0000" stop="20211102152000 +0000">
+    <title>Men’s Cross Country 15km ... (G)</title>
+    <desc>Men’s Cross Country 15km Pursuit, Nagano 1998 - Bjørn Daehlie was staking claim to becoming the greatest Nordic skier. But in the pursuit, Thomas Alsgaard cared little for history.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102152000 +0000" stop="20211102155000 +0000">
+    <title>These Jamaican ladies ... (G)</title>
+    <desc>These Jamaican ladies carried the Cool Runnings legacy in PyeongChang - The full story of the Jamaican women’s bobsleigh team as they trained, qualified, and competed at the 2018 Olympic Winter Games.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102155000 +0000" stop="20211102182000 +0000">
+    <title>Day 1 - Short Track Speed ... (G)</title>
+    <desc>Day 1 - Short Track Speed Skating | PyeongChang 2018 Replays - On 10 February 2018 the following competitions took place: Men's 1500m Finals, Women's 500m Qualification and Women's Relay Qualification.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102182000 +0000" stop="20211102201500 +0000">
+    <title>M... (G)</title>
+    <desc>Men's 5000m - Speed Skating | PyeongChang 2018 Replays - The men's 5000m competition was held at the Gangneung Oval on 11 Feburary 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102201500 +0000" stop="20211102204000 +0000">
+    <title>Fashion Behind The ... (G)</title>
+    <desc>Fashion Behind The Games: Threads and Technology - Explore how the evolution of technology has helped athletes to improve their performances at the Olympic Games.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102204000 +0000" stop="20211102214000 +0000">
+    <title>Transform My Meal: France (G)</title>
+    <desc>Transform My Meal: France - Four French Olympic athletes meet up with world-class chefs in Paris, La Rochelle and Val d’Isere to learn how to cook haute cuisine at home.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102214000 +0000" stop="20211102220500 +0000">
+    <title>Curling: Team Italy Men (G)</title>
+    <desc>Curling: Team Italy Men  - Meet the Italian Curling team and follow their adventures on and off the ice at the PyeongChang Olympic Winter Games</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102220500 +0000" stop="20211102230000 +0000">
+    <title>Men’s Cross Country 15km ... (G)</title>
+    <desc>Men’s Cross Country 15km Pursuit, Nagano 1998 - Bjørn Daehlie was staking claim to becoming the greatest Nordic skier. But in the pursuit, Thomas Alsgaard cared little for history.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102230000 +0000" stop="20211102233500 +0000">
+    <title>These Jamaican ... (G)</title>
+    <desc>These Jamaican ladies carried the Cool Runnings legacy in PyeongChang - The full story of the Jamaican women’s bobsleigh team as they trained, qualified, and competed at the 2018 Olympic Winter ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211102233500 +0000" stop="20211103004500 +0000">
+    <title>Men's Normal Hill, ... (G)</title>
+    <desc>Men's Normal Hill, Qualification - Ski Jumping | PyeongChang 2018 Replays - The men's normal hill qualification was held on 8 February 2018 at the Alpensia Ski Jump Centre.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103004500 +0000" stop="20211103034500 +0000">
+    <title>Men's Normal Hill, Final - ... (G)</title>
+    <desc>Men's Normal Hill, Final - Ski Jumping | PyeongChang 2018 Replays - The men's normal hill final was held on 10 February 2018 at the Alpensia Ski Jump Centre.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103034500 +0000" stop="20211103041000 +0000">
+    <title>Fashion Behind The ... (G)</title>
+    <desc>Fashion Behind The Games: Threads and Technology - Explore how the evolution of technology has helped athletes to improve their performances at the Olympic Games.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103041000 +0000" stop="20211103050000 +0000">
+    <title>Transform My Meal: France (G)</title>
+    <desc>Transform My Meal: France - Four French Olympic athletes meet up with world-class chefs in Paris, La Rochelle and Val d’Isere to learn how to cook haute cuisine at home.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103050000 +0000" stop="20211103053000 +0000">
+    <title>These Jamaican ... (G)</title>
+    <desc>These Jamaican ladies carried the Cool Runnings legacy in PyeongChang - The full story of the Jamaican women’s bobsleigh team as they trained, qualified, and competed at the 2018 Olympic Winter ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103053000 +0000" stop="20211103060000 +0000">
+    <title>Curling: Team Italy Men (G)</title>
+    <desc>Curling: Team Italy Men  - Meet the Italian Curling team and follow their adventures on and off the ice at the PyeongChang Olympic Winter Games</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103060000 +0000" stop="20211103063500 +0000">
+    <title>The sixth and final winter ... (G)</title>
+    <desc>The sixth and final winter Olympics for India's luge legend - The inspiring full story of India's Shiva Keshavan, showcasing his training, qualification, and participation in PyeongChang 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103063500 +0000" stop="20211103073500 +0000">
+    <title>My Great ... (G)</title>
+    <desc>My Great Winter Olympic Moments with Monique &amp; Jocelyne Lamoureux - Monique Lamoureux-Morando and Jocelyne Lamoureux-Davidson or the Lamoureux twins, as they are commonly known, rose to international ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103073500 +0000" stop="20211103083500 +0000">
+    <title>Women's Moguls Qualif. 1 - ... (G)</title>
+    <desc>Women's Moguls Qualif. 1 -  Freestyle Skiing | PyeongChang 2018 Replays - The women's moguls first qualifying round was held at the Phoenix Snow Park on 9 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103083500 +0000" stop="20211103092000 +0000">
+    <title>Women's Moguls Qualif. 2 - ... (G)</title>
+    <desc>Women's Moguls Qualif. 2 - Freestyle Skiing | PyeongChang 2018 Replays - The women's moguls second qualifying round was held at the Phoenix Snow Park on 11 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103092000 +0000" stop="20211103110000 +0000">
+    <title>Women's Moguls ... (G)</title>
+    <desc>Women's Moguls Finals - Freestyle Skiing | PyeongChang 2018 Replays - The women's moguls finals were held at the Phoenix Snow Park on 11 February 2018.</desc>
     <category>Sports</category>
   </programme>
   <channel id="87">
@@ -3190,8 +3500,8 @@
     <category>Sports</category>
   </programme>
   <programme channel="87" start="20211102180000 +0000" stop="20211102190000 +0000">
-    <title>Erste Bank Open: Singles Final Hls (G)</title>
-    <desc>Highlights of the Singles Final from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
+    <title>Erste Bank Open: Review Show (G)</title>
+    <desc>Review Show of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="87" start="20211102190000 +0000" stop="20211102230000 +0000">
@@ -3298,13 +3608,13 @@
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211102220000 +0000" stop="20211102230000 +0000">
-    <title>Erste Bank Open: Doubles Final Hls (G)</title>
-    <desc>Highlights of the Doubles Final from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
+    <title>Erste Bank Open: Day 7 Hls (G)</title>
+    <desc>Highlights from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="88" start="20211102230000 +0000" stop="20211103000000 +0000">
-    <title>Erste Bank Open: Singles Final Hls (G)</title>
-    <desc>Highlights of the Singles Final from Day 7 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
+    <title>Erste Bank Open: Review Show (G)</title>
+    <desc>Review Show of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="88" start="20211103000000 +0000" stop="20211103010000 +0000">
@@ -3396,13 +3706,13 @@
     <display-name>espn</display-name>
   </channel>
   <programme channel="81" start="20211102110000 +0000" stop="20211102133000 +0000">
-    <title>NFL (G)</title>
-    <desc>Chiefs v Giants.</desc>
+    <title>MNF with Peyton and Eli (G)</title>
+    <desc>Chiefs v Giants: The Manning brothers are back with another special NFL broadcast where their unique mix of brotherly humour and NFL knowledge are centre stage.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211102133000 +0000" stop="20211102140000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Chiefs v Giants.</desc>
+    <desc>Chiefs v Giants: The Chiefs have had a surprisingly poor season. Will they turn it around against the Giants? NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211102140000 +0000" stop="20211102143000 +0000">
@@ -3422,7 +3732,7 @@
   </programme>
   <programme channel="81" start="20211102153000 +0000" stop="20211102160000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Chiefs v Giants.</desc>
+    <desc>Chiefs v Giants: The Chiefs have had a surprisingly poor season. Will they turn it around against the Giants? NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211102160000 +0000" stop="20211102170000 +0000">
@@ -3462,7 +3772,7 @@
   </programme>
   <programme channel="81" start="20211102230000 +0000" stop="20211103000000 +0000">
     <title>Live: College Football Playoff: Top 25 (G)</title>
-    <desc>College gridiron's top 25 teams, determined by the CFP Selection Committee are revealed. Rece Davis hosts with analysis from David Pollack, Joey Galloway and Kirk Herbstreit.</desc>
+    <desc>College Football's top 25 teams, determined by the CFP Selection Committee are revealed. Rece Davis hosts with analysis from David Pollack, Joey Galloway and Kirk Herbstreit.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211103000000 +0000" stop="20211103030000 +0000">
@@ -3530,7 +3840,7 @@
   </programme>
   <programme channel="82" start="20211102160000 +0000" stop="20211102163000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Chiefs v Giants.</desc>
+    <desc>Chiefs v Giants: The Chiefs have had a surprisingly poor season. Will they turn it around against the Giants? NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211102163000 +0000" stop="20211102170000 +0000">
@@ -3555,7 +3865,7 @@
   </programme>
   <programme channel="82" start="20211102190000 +0000" stop="20211102200000 +0000">
     <title>Live: NBA Today (G)</title>
-    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide in-depth dail...</desc>
+    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide daily coverag...</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211102200000 +0000" stop="20211102203000 +0000">
@@ -3580,7 +3890,7 @@
   </programme>
   <programme channel="82" start="20211102220000 +0000" stop="20211102230000 +0000">
     <title>NBA Today (G)</title>
-    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide in-depth dail...</desc>
+    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide daily coverag...</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211102230000 +0000" stop="20211102233000 +0000">
@@ -3598,30 +3908,25 @@
     <desc>Live: NBA</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20211103043000 +0000" stop="20211103050000 +0000">
-    <title>World of X (G)</title>
-    <desc>SLS Salt Lake City 2021: Nyjah Huston and other top skateboarders compete at the first Street League final of the year.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="82" start="20211103050000 +0000" stop="20211103060000 +0000">
-    <title>Around the Horn (G)</title>
-    <desc>Host Tony Reali and journalists banter about sports stories of the day in a competitive game format.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="82" start="20211103060000 +0000" stop="20211103063000 +0000">
-    <title>Pardon the Interruption (G)</title>
-    <desc>Sportswriters Tony Kornheiser and Mike Wilbon debate and discuss the hot topics, issues and events in the world of sports in a format that combines candid opinions, insights and humour.</desc>
-    <category>Sports</category>
+  <programme channel="82" start="20211103043000 +0000" stop="20211103063000 +0000">
+    <title>College Football (G)</title>
+    <desc>Toledo v Eastern Michigan.</desc>
+    <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211103063000 +0000" stop="20211103093000 +0000">
     <title>MLB World Series (G)</title>
-    <desc>Game 6.</desc>
+    <desc>Astros v Braves Game 6.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20211103093000 +0000" stop="20211103110000 +0000">
+  <programme channel="82" start="20211103093000 +0000" stop="20211103100000 +0000">
     <title>ESPN FC (G)</title>
     <desc>Featuring panelists from around the football world debating the games hottest talking points.</desc>
     <category>Soccer</category>
+  </programme>
+  <programme channel="82" start="20211103100000 +0000" stop="20211103110000 +0000">
+    <title>MLB World Series (G)</title>
+    <desc>Astros v Braves Game 6.</desc>
+    <category>US Sports</category>
   </programme>
   <channel id="93">
     <display-name>sky-sport-popup-1</display-name>
@@ -3649,15 +3954,10 @@
   <channel id="60">
     <display-name>sky-sport-1</display-name>
   </channel>
-  <programme channel="60" start="20211103110000 +0000" stop="20211103113000 +0000">
-    <title>The Breakdown (G)</title>
-    <desc>Co-hosted by Jeff Wilson and Bernadine Oliver-Kerby and with regular panelists - Sir JK, Mils and Honey Hireme-Smiler, discuss the water cooler moments from the weekend.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211103113000 +0000" stop="20211103133000 +0000">
-    <title>French Top 14: RAC v TLS (G)</title>
-    <desc>Replay coverage of the French Top 14 season as Racing 92 host Toulouse at Paris La Défense Arena, Nanterre.</desc>
-    <category>Rugby</category>
+  <programme channel="60" start="20211103110000 +0000" stop="20211103133000 +0000">
+    <title>LIVE: ICC T20 WC: NZ v SCO (G)</title>
+    <desc>LIVE coverage of the ICC T20 World Cup match between New Zealand and Scotland at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
   </programme>
   <programme channel="60" start="20211103133000 +0000" stop="20211103153000 +0000">
     <title>Bunnings NPC: CAN v TAS (G)</title>
@@ -3685,8 +3985,8 @@
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211103190000 +0000" stop="20211103193000 +0000">
-    <title>Bunnings NPC: CAN v TAS Hls (G)</title>
-    <desc>Bunnings NPC 2021: Canterbury play Tasman at Orangetheory Stadium in Christchurch.</desc>
+    <title>Bunnings NPC: BOP v NOR Hls (G)</title>
+    <desc>Bunnings NPC 2021: Bay of Plenty take on Northland from Rotorua International Stadium.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211103193000 +0000" stop="20211103200000 +0000">
@@ -3701,7 +4001,7 @@
   </programme>
   <programme channel="60" start="20211103220000 +0000" stop="20211103230000 +0000">
     <title>The Breakdown (G)</title>
-    <desc>Co-hosted by Jeff Wilson and Bernadine Oliver-Kerby and with regular panelists - Sir JK, Mils and Honey Hireme-Smiler, discuss the water cooler moments from the weekend.</desc>
+    <desc>This week on the Breakdown, we talk to stand out AB Will Jordan after the big win over Wales. Chelsea Alley checks in from Stonehenge with her tour diary. Kieran Crowley zooms in before Italy’s test v the ABs this weekend.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211103230000 +0000" stop="20211103233000 +0000">
@@ -3726,12 +4026,12 @@
   </programme>
   <programme channel="60" start="20211104040000 +0000" stop="20211104050000 +0000">
     <title>The Breakdown (G)</title>
-    <desc>Co-hosted by Jeff Wilson and Bernadine Oliver-Kerby and with regular panelists - Sir JK, Mils and Honey Hireme-Smiler, discuss the water cooler moments from the weekend.</desc>
+    <desc>This week on the Breakdown, we talk to stand out AB Will Jordan after the big win over Wales. Chelsea Alley checks in from Stonehenge with her tour diary. Kieran Crowley zooms in before Italy’s test v the ABs this weekend.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211104050000 +0000" stop="20211104053000 +0000">
-    <title>Bunnings NPC: SOU v NOR Hls (G)</title>
-    <desc>Bunnings NPC 2021: Southland meet Northland at Rugby Park in Invercargill.</desc>
+    <title>Bunnings NPC: BOP v NOR Hls (G)</title>
+    <desc>Bunnings NPC 2021: Bay of Plenty take on Northland from Rotorua International Stadium.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211104053000 +0000" stop="20211104060000 +0000">
@@ -3751,7 +4051,7 @@
   </programme>
   <programme channel="60" start="20211104073000 +0000" stop="20211104080000 +0000">
     <title>All Access: Black Ferns (G)</title>
-    <desc>The Black Ferns midfield rock, Chelsea Alley, gives Sky Sport an exclusive look at what it takes to be at the top of the women’s game. Alley combines rugby commitments with a teaching career, which means long days and dedication.</desc>
+    <desc>Episode 2 of 3: The Black Ferns midfield rock, Chelsea Alley, gives Sky Sport an exclusive look at what it takes to be at the top of the women’s game. Alley combines rugby commitments with a teaching career, which means long days and dedication.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211104080000 +0000" stop="20211104100000 +0000">
@@ -3773,9 +4073,9 @@
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211103223000 +0000" stop="20211103230000 +0000">
-    <title>Inside Netball (G)</title>
-    <desc>Every week, former Silver Fern Adine Wilson, Sky Sport commentators Jenny Woods and Ravinder Hunia debate the biggest talking points in the game, in Inside Netball.</desc>
-    <category>Tennis</category>
+    <title>Bunnings NPC: SOU v NOR Hls (G)</title>
+    <desc>Bunnings NPC 2021: Southland meet Northland at Rugby Park in Invercargill.</desc>
+    <category>Rugby</category>
   </programme>
   <programme channel="61" start="20211103230000 +0000" stop="20211104000000 +0000">
     <title>The Back Page (G)</title>
@@ -3788,8 +4088,8 @@
     <category>Sports</category>
   </programme>
   <programme channel="61" start="20211104003000 +0000" stop="20211104013000 +0000">
-    <title>Tennis: Billie Jean King Cup: USA v ESP Hls (G)</title>
-    <desc>Tennis: Billie Jean King Cup: USA v ESP Hls</desc>
+    <title>Billie Jean King Cup: USA v ESP Hls (G)</title>
+    <desc>Highlights from the Billie Jean King Cup by BNP Paribas Finals 2021 - the premier international team competition in women's tennis. Tune in for the Group Stage tie between the USA &amp; Spain from the O2 Arena, Prague, Czech Republic.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211104013000 +0000" stop="20211104030000 +0000">
@@ -3798,39 +4098,24 @@
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211104030000 +0000" stop="20211104040000 +0000">
-    <title>Tennis: Billie Jean King Cup: D3: FRA v RTF Hls (G)</title>
-    <desc>Tennis: Billie Jean King Cup: D3: FRA v RTF Hls</desc>
+    <title>Billie Jean King Cup: FRA v RTF Hls (G)</title>
+    <desc>Highlights from the Billie Jean King Cup by BNP Paribas Finals 2021- the premier international team competition in women's tennis. Tune in for the Group Stage tie between France &amp; Russian Tennis Federation from the O2 Arena, Prague, Czech Republic.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211104040000 +0000" stop="20211104050000 +0000">
-    <title>Tennis: Billie Jean King Cup: D3: USA v ESP Hls (G)</title>
-    <desc>Tennis: Billie Jean King Cup: D3: USA v ESP Hls</desc>
+    <title>Billie Jean King Cup: USA v ESP Hls (G)</title>
+    <desc>Highlights from the Billie Jean King Cup by BNP Paribas Finals 2021 - the premier international team competition in women's tennis. Tune in for the Group Stage tie between the USA &amp; Spain from the O2 Arena, Prague, Czech Republic.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211104050000 +0000" stop="20211104063000 +0000">
-    <title>Rolex Paris Masters: Day 3 MOTD (G)</title>
-    <desc>Match of the day from Day 3 of the ATP 1000: Rolex Paris Masters. Tune in as the world's top tennis players go head to head in Paris, France.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211104063000 +0000" stop="20211104073000 +0000">
+  <programme channel="61" start="20211104050000 +0000" stop="20211104060000 +0000">
     <title>Rolex Paris Masters: Day 3 Hls (G)</title>
     <desc>Highlights from Day 3 of the ATP 1000: Rolex Paris Masters. Tune in as the world's top tennis players go head to head in Paris, France.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211104073000 +0000" stop="20211104080000 +0000">
-    <title>Inside Netball (G)</title>
-    <desc>Every week, former Silver Fern Adine Wilson, Sky Sport commentators Jenny Woods and Ravinder Hunia debate the biggest talking points in the game, in Inside Netball.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211104080000 +0000" stop="20211104090000 +0000">
-    <title>Tennis: Billie Jean King Cup: D3: USA v ESP Hls (G)</title>
-    <desc>Tennis: Billie Jean King Cup: D3: USA v ESP Hls</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211104090000 +0000" stop="20211104100000 +0000">
-    <title>Rolex Paris Masters: Day 3 Hls (G)</title>
-    <desc>Highlights from Day 3 of the ATP 1000: Rolex Paris Masters. Tune in as the world's top tennis players go head to head in Paris, France.</desc>
-    <category>Tennis</category>
+  <programme channel="61" start="20211104060000 +0000" stop="20211104100000 +0000">
+    <title>ICC T20 WC: NZ v SCO (G)</title>
+    <desc>Replay coverage of the ICC T20 World Cup match between New Zealand and Scotland at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
   </programme>
   <programme channel="61" start="20211104100000 +0000" stop="20211104110000 +0000">
     <title>LIVE: Rolex Paris Masters: Day 4 (G)</title>
@@ -4410,14 +4695,144 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20211103110000 +0000" stop="20211103170000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211103110000 +0000" stop="20211103123000 +0000">
+    <title>Heat 3 - Men’s ... (G)</title>
+    <desc>Heat 3 - Men’s Luge | PyeongChang 2018 Replays - The second part of the men's luge competition was held at the Alpensia Sliding Centre on 11 February 2018.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211103170000 +0000" stop="20211104110000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211103123000 +0000" stop="20211103133500 +0000">
+    <title>Heat 4 - Men’s ... (G)</title>
+    <desc>Heat 4 - Men’s Luge | PyeongChang 2018 Replays - The second part of the men's luge competition was held at the Alpensia Sliding Centre on 11 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103133500 +0000" stop="20211103140000 +0000">
+    <title>Sliding Madness | Luge ... (G)</title>
+    <desc>Sliding Madness | Luge with Nat and Cat - For the first time, a competition of Women's Doubles Luge is being hosted in an Olympic Games. Teenagers Caitlin Nash and Natalie Corless from the Canadian ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103140000 +0000" stop="20211103142500 +0000">
+    <title>Fashion Olympics: Rebels (G)</title>
+    <desc>Fashion Olympics: Rebels - See how rebels on and off the field broke through limits by using fashion to share bold new ideas.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103142500 +0000" stop="20211103145000 +0000">
+    <title>Silver medallist Gus ... (G)</title>
+    <desc>Silver medallist Gus Kenworthy visits refugees at Uganda's Nakivale Camp - After travelling halfway around the world, the American freestyle skier uncovers sporting talents from basketball to ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103145000 +0000" stop="20211103151500 +0000">
+    <title>Sydney's Olympic ... (G)</title>
+    <desc>Sydney's Olympic legacy through the eyes of Aaron Royle and Loudy Wiggins - Sixteen years on, we discover Aaron Royle's Olympic moment that inspired his own journey, and trace the birth ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103151500 +0000" stop="20211103155500 +0000">
+    <title>The sixth and final winter ... (G)</title>
+    <desc>The sixth and final winter Olympics for India's luge legend - The inspiring full story of India's Shiva Keshavan, showcasing his training, qualification, and participation in PyeongChang 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103155500 +0000" stop="20211103165000 +0000">
+    <title>My Great ... (G)</title>
+    <desc>My Great Winter Olympic Moments with Monique &amp; Jocelyne Lamoureux - Monique Lamoureux-Morando and Jocelyne Lamoureux-Davidson or the Lamoureux twins, as they are commonly known, rose to international ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103165000 +0000" stop="20211103185000 +0000">
+    <title>Men's Skiathlon 30km - ... (G)</title>
+    <desc>Men's Skiathlon 30km - Cross-Country Skiing | PyeongChang 2018 Replays - The men's skiathlon competition was held at the Alpensia Cross-Country Centre on 11 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103185000 +0000" stop="20211103204000 +0000">
+    <title>Men's Slopestyle ... (G)</title>
+    <desc>Men's Slopestyle Finals - Snowboard | PyeongChang 2018 Replays - The men's slopestyle finals were held at the Phoenix Snow Park on 11 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103204000 +0000" stop="20211103210500 +0000">
+    <title>Sliding Madness | Luge ... (G)</title>
+    <desc>Sliding Madness | Luge with Nat and Cat - For the first time, a competition of Women's Doubles Luge is being hosted in an Olympic Games. Teenagers Caitlin Nash and Natalie Corless from the Canadian ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103210500 +0000" stop="20211103213000 +0000">
+    <title>Fashion Olympics: Rebels (G)</title>
+    <desc>Fashion Olympics: Rebels - See how rebels on and off the field broke through limits by using fashion to share bold new ideas.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103213000 +0000" stop="20211103215500 +0000">
+    <title>Silver medallist Gus ... (G)</title>
+    <desc>Silver medallist Gus Kenworthy visits refugees at Uganda's Nakivale Camp - After travelling halfway around the world, the American freestyle skier uncovers sporting talents from basketball to ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103215500 +0000" stop="20211103222000 +0000">
+    <title>Sydney's Olympic ... (G)</title>
+    <desc>Sydney's Olympic legacy through the eyes of Aaron Royle and Loudy Wiggins - Sixteen years on, we discover Aaron Royle's Olympic moment that inspired his own journey, and trace the birth ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103222000 +0000" stop="20211103225500 +0000">
+    <title>The sixth and final winter ... (G)</title>
+    <desc>The sixth and final winter Olympics for India's luge legend - The inspiring full story of India's Shiva Keshavan, showcasing his training, qualification, and participation in PyeongChang 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103225500 +0000" stop="20211103235000 +0000">
+    <title>My Great ... (G)</title>
+    <desc>My Great Winter Olympic Moments with Monique &amp; Jocelyne Lamoureux - Monique Lamoureux-Morando and Jocelyne Lamoureux-Davidson or the Lamoureux twins, as they are commonly known, rose to international ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211103235000 +0000" stop="20211104011000 +0000">
+    <title>W... (G)</title>
+    <desc>Women's 1500m - Speed Skating | PyeongChang 2018 Replays - The women's 1500m competition was held at the Gangneung Oval on 12 Feburary 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104011000 +0000" stop="20211104024500 +0000">
+    <title>Men's Sprint - ... (G)</title>
+    <desc>Men's Sprint - Biathlon | PyeongChang 2018 Replays - The men's sprint competition was held at the Alpensia Biathlon Centre on 11 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104024500 +0000" stop="20211104031000 +0000">
+    <title>Sliding Madness | Luge ... (G)</title>
+    <desc>Sliding Madness | Luge with Nat and Cat - For the first time, a competition of Women's Doubles Luge is being hosted in an Olympic Games. Teenagers Caitlin Nash and Natalie Corless from the Canadian ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104031000 +0000" stop="20211104033500 +0000">
+    <title>Fashion Olympics: Rebels (G)</title>
+    <desc>Fashion Olympics: Rebels - See how rebels on and off the field broke through limits by using fashion to share bold new ideas.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104033500 +0000" stop="20211104040000 +0000">
+    <title>Silver medallist Gus ... (G)</title>
+    <desc>Silver medallist Gus Kenworthy visits refugees at Uganda's Nakivale Camp - After travelling halfway around the world, the American freestyle skier uncovers sporting talents from basketball to ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104040000 +0000" stop="20211104042500 +0000">
+    <title>Sydney's Olympic ... (G)</title>
+    <desc>Sydney's Olympic legacy through the eyes of Aaron Royle and Loudy Wiggins - Sixteen years on, we discover Aaron Royle's Olympic moment that inspired his own journey, and trace the birth ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104042500 +0000" stop="20211104050500 +0000">
+    <title>The sixth and final winter ... (G)</title>
+    <desc>The sixth and final winter Olympics for India's luge legend - The inspiring full story of India's Shiva Keshavan, showcasing his training, qualification, and participation in PyeongChang 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104050500 +0000" stop="20211104060000 +0000">
+    <title>My Great ... (G)</title>
+    <desc>My Great Winter Olympic Moments with Monique &amp; Jocelyne Lamoureux - Monique Lamoureux-Morando and Jocelyne Lamoureux-Davidson or the Lamoureux twins, as they are commonly known, rose to international ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104060000 +0000" stop="20211104063000 +0000">
+    <title>How Malaysia’s first ... (G)</title>
+    <desc>How Malaysia’s first Olympic figure skater made history in PyeongChang - The emotional full story of how Julian Yee trained in a Malaysian mall in order to make history at the 2018 Olympic Winter ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104063000 +0000" stop="20211104072500 +0000">
+    <title>Men’s Nordic Combined, ... (G)</title>
+    <desc>Men’s Nordic Combined, Sochi 2014 - The ultimate winter sports test, mixing daring ski jumping with cross country's endurance, and an unlikely champion emerges.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104072500 +0000" stop="20211104094500 +0000">
+    <title>Women's Slopestyle ... (G)</title>
+    <desc>Women's Slopestyle Finals - Snowboard | PyeongChang 2018 Replays - The women's slopestyle finals were held at the Phoenix Snow Park on 12 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104094500 +0000" stop="20211104110000 +0000">
+    <title>Men's Moguls ... (G)</title>
+    <desc>Men's Moguls Finals - Freestyle Skiing | PyoengChang 2018 Replays - The men's moguls finals were held at the Phoenix Snow Park on 12 February 2018.</desc>
     <category>Sports</category>
   </programme>
   <channel id="87">
@@ -4788,9 +5203,9 @@
     <display-name>espn2</display-name>
   </channel>
   <programme channel="82" start="20211103110000 +0000" stop="20211103120000 +0000">
-    <title>ESPN FC (G)</title>
-    <desc>Featuring panelists from around the football world debating the games hottest talking points.</desc>
-    <category>Soccer</category>
+    <title>MLB World Series (G)</title>
+    <desc>Astros v Braves Game 6.</desc>
+    <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211103120000 +0000" stop="20211103133000 +0000">
     <title>Live: Get Up (G)</title>
@@ -4925,12 +5340,12 @@
   </programme>
   <programme channel="60" start="20211104210000 +0000" stop="20211104220000 +0000">
     <title>The Breakdown (G)</title>
-    <desc>Co-hosted by Jeff Wilson and Bernadine Oliver-Kerby and with regular panelists - Sir JK, Mils and Honey Hireme-Smiler, discuss the water cooler moments from the weekend.</desc>
+    <desc>This week on the Breakdown, we talk to stand out AB Will Jordan after the big win over Wales. Chelsea Alley checks in from Stonehenge with her tour diary. Kieran Crowley zooms in before Italy’s test v the ABs this weekend.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211104220000 +0000" stop="20211105000000 +0000">
-    <title>Bunnings NPC: SOU v NOR (G)</title>
-    <desc>Bunnings NPC 2021: Southland meet Northland at Rugby Park in Invercargill.</desc>
+    <title>Bunnings NPC: BOP v NOR (G)</title>
+    <desc>Bunnings NPC 2021: Bay of Plenty take on Northland from Rotorua International Stadium.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211105000000 +0000" stop="20211105003000 +0000">
@@ -4955,7 +5370,7 @@
   </programme>
   <programme channel="60" start="20211105033000 +0000" stop="20211105040000 +0000">
     <title>All Access: Black Ferns (G)</title>
-    <desc>The Black Ferns midfield rock, Chelsea Alley, gives Sky Sport an exclusive look at what it takes to be at the top of the women’s game. Alley combines rugby commitments with a teaching career, which means long days and dedication.</desc>
+    <desc>Episode 2 of 3: The Black Ferns midfield rock, Chelsea Alley, gives Sky Sport an exclusive look at what it takes to be at the top of the women’s game. Alley combines rugby commitments with a teaching career, which means long days and dedication.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211105040000 +0000" stop="20211105050000 +0000">
@@ -4965,7 +5380,7 @@
   </programme>
   <programme channel="60" start="20211105050000 +0000" stop="20211105060000 +0000">
     <title>The Breakdown (G)</title>
-    <desc>Co-hosted by Jeff Wilson and Bernadine Oliver-Kerby and with regular panelists - Sir JK, Mils and Honey Hireme-Smiler, discuss the water cooler moments from the weekend.</desc>
+    <desc>This week on the Breakdown, we talk to stand out AB Will Jordan after the big win over Wales. Chelsea Alley checks in from Stonehenge with her tour diary. Kieran Crowley zooms in before Italy’s test v the ABs this weekend.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211105060000 +0000" stop="20211105080000 +0000">
@@ -4978,15 +5393,20 @@
     <desc>Highlights of the Black Ferns opening tour match as they face the English Red Roses in Exeter.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="60" start="20211105083000 +0000" stop="20211105103000 +0000">
-    <title>Gallagher Premiership: GLO v EXE (G)</title>
-    <desc>Replay coverage of the Gallagher Premiership season as Gloucester Rugby host Exeter Chiefs at Kingsholm Stadium, Gloucester.</desc>
-    <category>Rugby</category>
+  <programme channel="60" start="20211105083000 +0000" stop="20211105090000 +0000">
+    <title>ICC T20 WC: IND v NZ Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between India and New Zealand at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
   </programme>
-  <programme channel="60" start="20211105103000 +0000" stop="20211105110000 +0000">
-    <title>Mainfreight Rugby (G)</title>
-    <desc>Join us every week as we showcase the best of grassroots footy from the Heartland Championship.</desc>
-    <category>Rugby</category>
+  <programme channel="60" start="20211105090000 +0000" stop="20211105093000 +0000">
+    <title>ICC T20 WC: NZ v SCO Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between New Zealand and Scotland at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="60" start="20211105093000 +0000" stop="20211105110000 +0000">
+    <title>LIVE: ICC T20 WC: NZ v NAM (G)</title>
+    <desc>LIVE coverage of the ICC T20 World Cup match between New Zealand and Namibia at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category>Cricket</category>
   </programme>
   <channel id="61">
     <display-name>sky-sport-2</display-name>
@@ -5574,12 +5994,97 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20211104110000 +0000" stop="20211104170000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211104110000 +0000" stop="20211104112500 +0000">
+    <title>Men's Moguls ... (G)</title>
+    <desc>Men's Moguls Finals - Freestyle Skiing | PyoengChang 2018 Replays - The men's moguls finals were held at the Phoenix Snow Park on 12 February 2018.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211104170000 +0000" stop="20211105110000 +0000">
+  <programme channel="86" start="20211104112500 +0000" stop="20211104120500 +0000">
+    <title>My Great ... (G)</title>
+    <desc>My Great Winter Olympic Moments with Arianna Fontana - Arianna Fontana is the greatest female short track speed skater in Olympic history. Her numbers at the Games speak for themselves; one gold, two ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104120500 +0000" stop="20211104123000 +0000">
+    <title>Anatomy of a rugby ... (G)</title>
+    <desc>Anatomy of a rugby player and a biathlete - Team GB Rugby 7's captain and a leading Polish Biathlete deliver astonishing results in a series of tests on their bodies.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104123000 +0000" stop="20211104132000 +0000">
+    <title>Transform My Meal: Italy (G)</title>
+    <desc>Transform My Meal: Italy - Four Italian Olympic athletes meet up with world-class chefs in Rome, Udine, Brescia and Piedmont to introduce more variety into their training diet.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104132000 +0000" stop="20211104135500 +0000">
+    <title>How Malaysia’s first ... (G)</title>
+    <desc>How Malaysia’s first Olympic figure skater made history in PyeongChang - The emotional full story of how Julian Yee trained in a Malaysian mall in order to make history at the 2018 Olympic Winter ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104135500 +0000" stop="20211104145000 +0000">
+    <title>Men’s Nordic Combined, ... (G)</title>
+    <desc>Men’s Nordic Combined, Sochi 2014 - The ultimate winter sports test, mixing daring ski jumping with cross country's endurance, and an unlikely champion emerges.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104145000 +0000" stop="20211104165000 +0000">
+    <title>W... (G)</title>
+    <desc>Women's Giant Slalom, 1st Run - Alpine Skiing | PyeongChang 2018 Replays - The women's giant slalom competition was held at the Yongpyong Alpine Centre on 12 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104165000 +0000" stop="20211104185500 +0000">
+    <title>W... (G)</title>
+    <desc>Women's Giant Slalom, 2nd Run - Alpine Skiing | PyeongChang 2018 Replays - The women's giant slalom competition was held at the Yongpyong Alpine Centre on 12 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104185500 +0000" stop="20211104193500 +0000">
+    <title>My Great ... (G)</title>
+    <desc>My Great Winter Olympic Moments with Arianna Fontana - Arianna Fontana is the greatest female short track speed skater in Olympic history. Her numbers at the Games speak for themselves; one gold, two ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104193500 +0000" stop="20211104200000 +0000">
+    <title>Anatomy of a rugby ... (G)</title>
+    <desc>Anatomy of a rugby player and a biathlete - Team GB Rugby 7's captain and a leading Polish Biathlete deliver astonishing results in a series of tests on their bodies.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104200000 +0000" stop="20211104205500 +0000">
+    <title>Transform My Meal: Italy (G)</title>
+    <desc>Transform My Meal: Italy - Four Italian Olympic athletes meet up with world-class chefs in Rome, Udine, Brescia and Piedmont to introduce more variety into their training diet.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104205500 +0000" stop="20211104212500 +0000">
+    <title>How Malaysia’s first ... (G)</title>
+    <desc>How Malaysia’s first Olympic figure skater made history in PyeongChang - The emotional full story of how Julian Yee trained in a Malaysian mall in order to make history at the 2018 Olympic Winter ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104212500 +0000" stop="20211104222000 +0000">
+    <title>Men’s Nordic Combined, ... (G)</title>
+    <desc>Men’s Nordic Combined, Sochi 2014 - The ultimate winter sports test, mixing daring ski jumping with cross country's endurance, and an unlikely champion emerges.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211104222000 +0000" stop="20211105004000 +0000">
+    <title>Sprint, Finals - ... (G)</title>
+    <desc>Sprint, Finals - Cross-Country Skiing | PyeongChang 2018 Replays - The men's and women's individual sprint competitions were held at the Alpensia Cross-Country Centre on 13 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211105004000 +0000" stop="20211105030000 +0000">
+    <title>Women's Normal ... (G)</title>
+    <desc>Women's Normal Hill - Ski Jumping | PyeongChang 2018 Replays - The women's normal hill competition was held on 12 February 2018 at the Alpensia Ski Jump Centre.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211105030000 +0000" stop="20211105040000 +0000">
+    <title>Women's Pursuit 10km - ... (G)</title>
+    <desc>Women's Pursuit 10km - Biathlon | PyeongChang 2018 Replays - The women's pursuit competition was held at the Alpensia Biathlon Centre on 12 February 2018.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211105040000 +0000" stop="20211105044000 +0000">
+    <title>My Great ... (G)</title>
+    <desc>My Great Winter Olympic Moments with Arianna Fontana - Arianna Fontana is the greatest female short track speed skater in Olympic history. Her numbers at the Games speak for themselves; one gold, two ...</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211105044000 +0000" stop="20211105050500 +0000">
+    <title>Anatomy of a rugby ... (G)</title>
+    <desc>Anatomy of a rugby player and a biathlete - Team GB Rugby 7's captain and a leading Polish Biathlete deliver astonishing results in a series of tests on their bodies.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211105050500 +0000" stop="20211105110000 +0000">
     <title>Olympic Channel (G)</title>
     <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
     <category>Sports</category>
@@ -5992,19 +6497,14 @@
   <channel id="60">
     <display-name>sky-sport-1</display-name>
   </channel>
-  <programme channel="60" start="20211105110000 +0000" stop="20211105113000 +0000">
-    <title>Mainfreight Rugby (G)</title>
-    <desc>Join us every week as we showcase the best of grassroots footy from the Heartland Championship.</desc>
-    <category>Rugby</category>
+  <programme channel="60" start="20211105110000 +0000" stop="20211105133000 +0000">
+    <title>LIVE: ICC T20 WC: NZ v NAM (G)</title>
+    <desc>LIVE coverage of the ICC T20 World Cup match between New Zealand and Namibia at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category>Cricket</category>
   </programme>
-  <programme channel="60" start="20211105113000 +0000" stop="20211105120000 +0000">
+  <programme channel="60" start="20211105133000 +0000" stop="20211105140000 +0000">
     <title>Bunnings NPC: WAI v OTA (G)</title>
     <desc>Bunnings NPC 2021: Waikato face Otago at FMG Stadium Waikato in Hamilton.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="60" start="20211105120000 +0000" stop="20211105140000 +0000">
-    <title>French Top 14: MON v LYO (G)</title>
-    <desc>Replay coverage of the French Top 14 season as Montpellier host Lyon at GGL Stadium, Montpellier.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211105140000 +0000" stop="20211105143000 +0000">
@@ -6024,7 +6524,7 @@
   </programme>
   <programme channel="60" start="20211105170000 +0000" stop="20211105180000 +0000">
     <title>The Breakdown (G)</title>
-    <desc>Co-hosted by Jeff Wilson and Bernadine Oliver-Kerby and with regular panelists - Sir JK, Mils and Honey Hireme-Smiler, discuss the water cooler moments from the weekend.</desc>
+    <desc>This week on the Breakdown, we talk to stand out AB Will Jordan after the big win over Wales. Chelsea Alley checks in from Stonehenge with her tour diary. Kieran Crowley zooms in before Italy’s test v the ABs this weekend.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211105180000 +0000" stop="20211105190000 +0000">
@@ -6340,29 +6840,79 @@
     <category>Sports</category>
   </programme>
   <programme channel="83" start="20211105203000 +0000" stop="20211105210000 +0000">
-    <title>Supercars: Race 20 Hls (G)</title>
-    <desc>Highlights of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 20, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <title>Mobil 1 The Grid (G)</title>
+    <desc>This feature-led programme covers the world's greatest motorsport championships from NASCAR and IndyCar to World Rally, DTM and the Porsche Super Cup.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211105210000 +0000" stop="20211106001500 +0000">
+  <programme channel="83" start="20211105210000 +0000" stop="20211106000000 +0000">
     <title>LIVE: Bellator 270: Queally v Pitbull 2 (M)</title>
     <desc>No. 1 ranked Patricky Pitbull faces No. 4 ranked Peter Queally. A rematch set after an unlucky doctor's stoppage at Bellator 258 ended the first match. Adding to the drama Patricio Pitbull vacated the belt to give his brother this chance at glory.</desc>
     <category>Fight Sport</category>
   </programme>
-  <programme channel="83" start="20211106001500 +0000" stop="20211106004500 +0000">
+  <programme channel="83" start="20211106000000 +0000" stop="20211106003000 +0000">
+    <title>Supercars: Race 20 Hls (G)</title>
+    <desc>Highlights of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 20, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106003000 +0000" stop="20211106010000 +0000">
     <title>Supercars: Race 21 Hls (G)</title>
     <desc>Highlights of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 21, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211106004500 +0000" stop="20211106011500 +0000">
+  <programme channel="83" start="20211106010000 +0000" stop="20211106013000 +0000">
     <title>Supercars: Race 22 Hls (G)</title>
     <desc>Highlights of the Supercars Championship, Bunnings Trade Sydney SuperNight, Race 22, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211106011500 +0000" stop="20211106100000 +0000">
-    <title>LIVE Supercars: Day 1 (G)</title>
-    <desc>LIVE coverage of the Supercars Championship, Round 9, Day 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Sports</category>
+  <programme channel="83" start="20211106013000 +0000" stop="20211106023000 +0000">
+    <title>LIVE Supercars: NSW Touring Cars P1 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Production Touring Cars Practice 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106023000 +0000" stop="20211106033000 +0000">
+    <title>LIVE Supercars: Practice 1 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, Practice 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106033000 +0000" stop="20211106035000 +0000">
+    <title>LIVE Supercars: NSW Formula Ford P1 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Formula Ford Practice 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106035000 +0000" stop="20211106045000 +0000">
+    <title>LIVE Supercars: Practice 2 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, Practice 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106045000 +0000" stop="20211106051000 +0000">
+    <title>LIVE Supercars: NSW Touring Cars P2 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Production Touring Cars Practice 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106051000 +0000" stop="20211106054500 +0000">
+    <title>LIVE Supercars: NSW Formula Ford P2 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Formula Ford Practice 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106054500 +0000" stop="20211106070500 +0000">
+    <title>LIVE Supercars: Qual Race 23 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, Qualifying Race 23, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106070500 +0000" stop="20211106072500 +0000">
+    <title>LIVE Supercars: NSW Touring Cars Qual (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Production Touring Cars Qualifying, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106072500 +0000" stop="20211106081000 +0000">
+    <title>LIVE Supercars: NSW Formula Ford Qual (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Formula Ford Qualifying, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106081000 +0000" stop="20211106100000 +0000">
+    <title>LIVE Supercars: Race 23 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, Race 23, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
   </programme>
   <programme channel="83" start="20211106100000 +0000" stop="20211106105000 +0000">
     <title>Inside Line: A Season With WAU (M-L)</title>
@@ -6370,9 +6920,9 @@
     <category>Motorsport</category>
   </programme>
   <programme channel="83" start="20211106105000 +0000" stop="20211106110000 +0000">
-    <title>Supercars: Day 1 (G)</title>
-    <desc>Replay of the Supercars Championship, Round 9, Day 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Sports</category>
+    <title>Supercars: Practice 1 (G)</title>
+    <desc>Replay of the Supercars Championship, ARMOR ALL Sydney SuperNight, Practice 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
   </programme>
   <channel id="84">
     <display-name>sky-sport-6</display-name>
@@ -6603,15 +7153,90 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20211105110000 +0000" stop="20211105170000 +0000">
+  <programme channel="86" start="20211105110000 +0000" stop="20211105140000 +0000">
     <title>Olympic Channel (G)</title>
     <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211105170000 +0000" stop="20211106110000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211105140000 +0000" stop="20211105153500 +0000">
+    <title>LIVE: ISU Grand Prix (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Women's Short Program  takes place.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211105153500 +0000" stop="20211105160000 +0000">
+    <title>Playmakers: Rugby Stories (G)</title>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211105160000 +0000" stop="20211105172000 +0000">
+    <title>LIVE: ISU Grand Prix (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Rhythm Dance  takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211105172000 +0000" stop="20211105174500 +0000">
+    <title>Playmakers: Rugby Stories (G)</title>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211105174500 +0000" stop="20211105192000 +0000">
+    <title>LIVE: ISU Grand Prix (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Pair's Short Program  takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211105192000 +0000" stop="20211105210000 +0000">
+    <title>LIVE: ISU Grand Prix (G)</title>
+    <desc>LIVE: Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Men's Short Program  takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211105210000 +0000" stop="20211105223000 +0000">
+    <title>ITU World Triathlon: Abu Dhabi Men (G)</title>
+    <desc>110 of the world’s best elite triathletes will descend on Abu Dhabi's Yas Island, boasting an impressive line-up of Olympic heroes, World Champions and triathlon idols including defending champions Katie Zaferes and Mario Mola.</desc>
+    <category>Athletics</category>
+  </programme>
+  <programme channel="86" start="20211105223000 +0000" stop="20211106000000 +0000">
+    <title>ITU World Triathlon: Abu Dhabi Wmn (G)</title>
+    <desc>110 of the world’s best elite triathletes will descend on Abu Dhabi's Yas Island, boasting an impressive line-up of Olympic heroes, World Champions and triathlon idols including defending champions Katie Zaferes and Mario Mola.</desc>
+    <category>Athletics</category>
+  </programme>
+  <programme channel="86" start="20211106000000 +0000" stop="20211106013500 +0000">
+    <title>ISU Grand Prix Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Women's Short Program  takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211106013500 +0000" stop="20211106025500 +0000">
+    <title>ISU Grand Prix Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Rhythm Dance  takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211106025500 +0000" stop="20211106041000 +0000">
+    <title>ISU Grand Prix Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Pair's Short Program  takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211106041000 +0000" stop="20211106054500 +0000">
+    <title>ISU Grand Prix Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Pair's Short Program  takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211106054500 +0000" stop="20211106074500 +0000">
+    <title>French Top 14: LAR v BOR (G)</title>
+    <desc>Replay coverage of the French Top 14 season as La Rochelle host Bordeaux Bègles at Stade Marcel-Deflandre, La Rochelle.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="86" start="20211106074500 +0000" stop="20211106094500 +0000">
+    <title>Gallagher Premiership: LEI v BTH (G)</title>
+    <desc>Replay coverage of the Gallagher Premiership season as Leicester Tigers host Bath Rugby at Mattioli Woods Welford Road, Leicester.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="86" start="20211106094500 +0000" stop="20211106104500 +0000">
+    <title>Billie Jean King Cup: SF1 Hls (G)</title>
+    <desc>Highlights from the Billie Jean King Cup by BNP Paribas Finals 2021 - the premier international team competition in women's tennis. Tune in for the Semi-Final 1 from the O2 Arena, Prague, Czech Republic.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="86" start="20211106104500 +0000" stop="20211106110000 +0000">
+    <title>Billie Jean King Cup: SF2 Hls (G)</title>
+    <desc>Highlights from the Billie Jean King Cup by BNP Paribas Finals 2021 - the premier international team competition in women's tennis. Tune in for the Semi-Final 2 from the O2 Arena, Prague, Czech Republic.</desc>
+    <category>Tennis</category>
   </programme>
   <channel id="87">
     <display-name>sky-sport-9</display-name>
@@ -7363,10 +7988,30 @@
   <channel id="83">
     <display-name>sky-sport-5</display-name>
   </channel>
-  <programme channel="83" start="20211106110000 +0000" stop="20211106150500 +0000">
-    <title>Supercars: Day 1 (G)</title>
-    <desc>Replay of the Supercars Championship, Round 9, Day 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Sports</category>
+  <programme channel="83" start="20211106110000 +0000" stop="20211106112500 +0000">
+    <title>Supercars: Practice 1 (G)</title>
+    <desc>Replay of the Supercars Championship, ARMOR ALL Sydney SuperNight, Practice 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106112500 +0000" stop="20211106120000 +0000">
+    <title>Supercars: Practice 2 (G)</title>
+    <desc>Replay of the Supercars Championship, ARMOR ALL Sydney SuperNight, Practice 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106120000 +0000" stop="20211106124500 +0000">
+    <title>Supercars: Qual Race 23 (G)</title>
+    <desc>Replay of the Supercars Championship, ARMOR ALL Sydney SuperNight, Qualifying Race 23, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106124500 +0000" stop="20211106141500 +0000">
+    <title>Supercars: Race 23 (G)</title>
+    <desc>Replay of the Supercars Championship, ARMOR ALL Sydney SuperNight, Race 23, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211106141500 +0000" stop="20211106150500 +0000">
+    <title>Inside Line: A Season With WAU (M-L)</title>
+    <desc>Inside Line - A season with Walkinshadow Andretti United, followis the trials and tribulations of WAU's Supercars campaign during the COVID impacted 2020 season.</desc>
+    <category>Motorsport</category>
   </programme>
   <programme channel="83" start="20211106150500 +0000" stop="20211106173000 +0000">
     <title>LIVE Rugby: ENG v TGA (G)</title>
@@ -7388,20 +8033,80 @@
     <desc>Delayed coverage of the FIA World Touring Car Cup, Round 7, Race Of Italy, Qualifying, from Adria International Raceway, Adria, Italy.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211106223000 +0000" stop="20211107020000 +0000">
-    <title>Supercars: Day 1 (G)</title>
-    <desc>Replay of the Supercars Championship, Round 9, Day 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Sports</category>
+  <programme channel="83" start="20211106223000 +0000" stop="20211106230500 +0000">
+    <title>Supercars: Practice 2 (G)</title>
+    <desc>Replay of the Supercars Championship, ARMOR ALL Sydney SuperNight, Practice 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211107020000 +0000" stop="20211107100000 +0000">
-    <title>LIVE Supercars: Day 2 (G)</title>
-    <desc>LIVE coverage of the Supercars Championship, Round 9, Day 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Sports</category>
+  <programme channel="83" start="20211106230500 +0000" stop="20211106235500 +0000">
+    <title>Supercars: Qual Race 23 (G)</title>
+    <desc>Replay of the Supercars Championship, ARMOR ALL Sydney SuperNight, Qualifying Race 23, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211107100000 +0000" stop="20211107110000 +0000">
-    <title>Supercars: Day 2 (G)</title>
-    <desc>Replay of the Supercars Championship, Round 9, Day 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
-    <category>Sports</category>
+  <programme channel="83" start="20211106235500 +0000" stop="20211107013000 +0000">
+    <title>Supercars: Race 23 (G)</title>
+    <desc>Replay of the Supercars Championship, ARMOR ALL Sydney SuperNight, Race 23, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107013000 +0000" stop="20211107023000 +0000">
+    <title>LIVE Supercars: NSW Formula Ford R1 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Formula Ford Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107023000 +0000" stop="20211107030000 +0000">
+    <title>LIVE Supercars: NSW Touring Cars R1 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Production Touring Cars Race 1, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107030000 +0000" stop="20211107033500 +0000">
+    <title>LIVE Supercars: Qual Race 24 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, Qualifying Race 24, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107033500 +0000" stop="20211107040500 +0000">
+    <title>LIVE Supercars: Qual Race 25 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, Qualifying Race 25, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107040500 +0000" stop="20211107042500 +0000">
+    <title>LIVE Supercars: NSW Formula Ford R2 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Formula Ford Race 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107042500 +0000" stop="20211107045500 +0000">
+    <title>LIVE Supercars: NSW Touring Cars R2 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Production Touring Cars Race 2, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107045500 +0000" stop="20211107065000 +0000">
+    <title>LIVE Supercars: Race 24 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, Race 24, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107065000 +0000" stop="20211107071000 +0000">
+    <title>LIVE Supercars: NSW Formula Ford R3 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Formula Ford Race 3, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107071000 +0000" stop="20211107075500 +0000">
+    <title>LIVE Supercars: NSW Touring Cars R3 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, NSW Production Touring Cars Race 3, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107075500 +0000" stop="20211107093000 +0000">
+    <title>LIVE Supercars: Race 25 (G)</title>
+    <desc>LIVE Coverage of the Supercars Championship, ARMOR ALL Sydney SuperNight, Race 25, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107093000 +0000" stop="20211107103000 +0000">
+    <title>LIVE Supercars Trackside (G)</title>
+    <desc>LIVE Supercars Trackside, reviewing all the action from the ARMOR ALL Sydney SuperNight.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211107103000 +0000" stop="20211107110000 +0000">
+    <title>Supercars: Race 24 (G)</title>
+    <desc>Replay of the Supercars Championship, ARMOR ALL Sydney SuperNight, Race 24, From Sydney Motorsport Park, Eastern Creek, New South Wales.</desc>
+    <category>Motorsport</category>
   </programme>
   <channel id="84">
     <display-name>sky-sport-6</display-name>
@@ -7637,10 +8342,15 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20211106110000 +0000" stop="20211106130000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
-    <category>Sports</category>
+  <programme channel="86" start="20211106110000 +0000" stop="20211106120000 +0000">
+    <title>Billie Jean King Cup: SF2 Hls (G)</title>
+    <desc>Highlights from the Billie Jean King Cup by BNP Paribas Finals 2021 - the premier international team competition in women's tennis. Tune in for the Semi-Final 2 from the O2 Arena, Prague, Czech Republic.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="86" start="20211106120000 +0000" stop="20211106130000 +0000">
+    <title>Rolex Paris Masters: Day 5 Hls (G)</title>
+    <desc>Highlights from Day 5 of the ATP 1000: Rolex Paris Masters. Tune in as the world's top tennis players go head to head in Paris, France.</desc>
+    <category>Tennis</category>
   </programme>
   <programme channel="86" start="20211106130000 +0000" stop="20211106150000 +0000">
     <title>LIVE: Rolex Paris Masters: SF1 (G)</title>
@@ -7654,18 +8364,13 @@
   </programme>
   <programme channel="86" start="20211106152500 +0000" stop="20211106155500 +0000">
     <title>All Access: Black Ferns (G)</title>
-    <desc>The Black Ferns midfield rock, Chelsea Alley, gives Sky Sport an exclusive look at what it takes to be at the top of the women’s game. Alley combines rugby commitments with a teaching career, which means long days and dedication.</desc>
+    <desc>Episode 2 of 3: The Black Ferns midfield rock, Chelsea Alley, gives Sky Sport an exclusive look at what it takes to be at the top of the women’s game. Alley combines rugby commitments with a teaching career, which means long days and dedication.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="86" start="20211106155500 +0000" stop="20211106180000 +0000">
+  <programme channel="86" start="20211106155500 +0000" stop="20211106180500 +0000">
     <title>LIVE: French Top 14: BRI v RAC (G)</title>
     <desc>LIVE coverage of the French Top 14 season as Brive host Racing 92 at Stade Amédée-Domenech, Brive.</desc>
     <category>Rugby</category>
-  </programme>
-  <programme channel="86" start="20211106180000 +0000" stop="20211106180500 +0000">
-    <title>Programme information unavailable</title>
-    <desc>Programme information unavailable</desc>
-    <category>sport</category>
   </programme>
   <programme channel="86" start="20211106180500 +0000" stop="20211106194500 +0000">
     <title>LIVE: ISU Grand Prix (G)</title>
@@ -7678,14 +8383,19 @@
     <category>Sports</category>
   </programme>
   <programme channel="86" start="20211106213500 +0000" stop="20211106232500 +0000">
-    <title>ISU Grand Prix Delayed</title>
+    <title>ISU Grand Prix Delayed (G)</title>
     <desc>Tune into Sky Sport for delayed coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Women's Freeskate  takes place.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211106232500 +0000" stop="20211107030000 +0000">
-    <title>Programme information unavailable</title>
-    <desc>Programme information unavailable</desc>
-    <category>sport</category>
+  <programme channel="86" start="20211106232500 +0000" stop="20211107010000 +0000">
+    <title>ISU Grand Prix Delayed (G)</title>
+    <desc>Tune into Sky Sport for delayed coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Free Dance  takes place.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211107010000 +0000" stop="20211107030000 +0000">
+    <title>ISU Grand Prix Replay (G)</title>
+    <desc>Tune into Sky Sport for coverage of the ISU Figure Skating Grand Prix from Turin, Italy, as the Men's Free Skate  takes place.</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="86" start="20211107030000 +0000" stop="20211107090000 +0000">
     <title>Billie Jean King Cup: Final (G)</title>
@@ -7986,7 +8696,7 @@
   </programme>
   <programme channel="82" start="20211106190000 +0000" stop="20211106193000 +0000">
     <title>Live: College Football Scoreboard (G)</title>
-    <desc>All the latest news and analysis from the world of college gridiron</desc>
+    <desc>All the latest news and analysis from the world of College Football.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211106193000 +0000" stop="20211106223000 +0000">
@@ -7996,17 +8706,17 @@
   </programme>
   <programme channel="82" start="20211106223000 +0000" stop="20211106230000 +0000">
     <title>Live: College Football Scoreboard (G)</title>
-    <desc>All the latest news and analysis from the world of college gridiron</desc>
+    <desc>All the latest news and analysis from the world of College Football.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211106230000 +0000" stop="20211106233000 +0000">
     <title>Live: College Football Scoreboard (G)</title>
-    <desc>All the latest news and analysis from the world of college gridiron</desc>
+    <desc>All the latest news and analysis from the world of College Football.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211106233000 +0000" stop="20211106233700 +0000">
     <title>Live: Pregame Drive (G)</title>
-    <desc>Nissan Pregame Drive: All the latest news and analysis from the world of college gridiron</desc>
+    <desc>Nissan Pregame Drive: All the latest news and analysis from the world of College Football.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211106233700 +0000" stop="20211107030000 +0000">
