@@ -13367,19 +13367,12 @@
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20211106063000 +0000" stop="20211106070000 +0000">
-    <title>Young Sheldon</title>
-    <subtitles type="teletext"/>
+    <title>LEGO Jurassic World: Double Trouble</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20211106063000 +0000" stop="20211106070000 +0000">
-    <title>LEGO Jurassic World: Double Trouble</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600468" start="20211106070000 +0000" stop="20211106073000 +0000">
     <title>Young Sheldon</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -13388,6 +13381,13 @@
   </programme>
   <programme channel="tv.101204600468" start="20211106070000 +0000" stop="20211106073000 +0000">
     <title>LEGO Jurassic World: Double Trouble</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20211106070000 +0000" stop="20211106073000 +0000">
+    <title>Young Sheldon</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
