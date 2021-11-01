@@ -14346,27 +14346,27 @@
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20211106033000 +0000" stop="20211106040000 +0000">
-    <title>LEGO Jurassic World: Double Trouble</title>
+    <title>Young Sheldon</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20211106033000 +0000" stop="20211106040000 +0000">
-    <title>Young Sheldon</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20211106040000 +0000" stop="20211106043000 +0000">
-    <title>Young Sheldon</title>
-    <subtitles type="teletext"/>
+    <title>LEGO Jurassic World: Double Trouble</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20211106040000 +0000" stop="20211106043000 +0000">
     <title>LEGO Jurassic World: Double Trouble</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20211106040000 +0000" stop="20211106043000 +0000">
+    <title>Young Sheldon</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42297,26 +42297,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211101174024 +0000" stop="20211101180553 +0000">
-    <title>Reel Rock S7E9</title>
-    <desc>Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
-    <sub-title>Black ice part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101180553 +0000" stop="20211101182833 +0000">
-    <title>Reel Rock S7E10</title>
-    <desc>Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
-    <sub-title>Black ice part 2</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101182833 +0000" stop="20211101183813 +0000">
-    <title>The Red Bulletin Stories in Motion S2E6</title>
-    <desc>Find out how Dario Costa defied all the odds to become one of the best aerobatic pilots in the world.</desc>
-    <sub-title>Dario Costa: Tunnel Vision</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101183813 +0000" stop="20211101184804 +0000">
-    <title>The Red Bulletin Stories in Motion S2E7</title>
-    <desc>Fabian 'GrabbZ' Lohmann reflects on his huge success coaching the G2 Esports League of Legends team.</desc>
-    <sub-title>GrabbZ: League of Lohmann</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211101184804 +0000" stop="20211101190007 +0000">
     <title>The Red Bulletin Stories in Motion S2E4</title>
     <desc>B-Girl Sina explores her Moroccan and Austrian roots as she trains with some of the top breakers in the world.</desc>
@@ -42554,6 +42534,26 @@
     <title>Assembly Required</title>
     <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
     <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102192235 +0000" stop="20211102193344 +0000">
+    <title>Behind the Bullet S1E4</title>
+    <desc>See behind the scenes as Jeffrey Herlings, aka 'the Bullet', prepares for his home MXGP in the Netherlands.</desc>
+    <sub-title>Home advantage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102193344 +0000" stop="20211102194158 +0000">
+    <title>Behind the Bullet S1E5</title>
+    <desc>Giving up is not in Jeffrey Herlings's vocabulary, but managing injury is a complex balancing act.</desc>
+    <sub-title>On the limit</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102194158 +0000" stop="20211102195245 +0000">
+    <title>Behind the Bullet S1E6</title>
+    <desc>Just three weeks after fracturing his shoulder blade in Oss, Jeffrey Herlings drives a convincing first race.</desc>
+    <sub-title>Beyond expectations in Latvia</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211102195245 +0000" stop="20211102200928 +0000">
+    <title>Cycling Around the World S1E5</title>
+    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
+    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
