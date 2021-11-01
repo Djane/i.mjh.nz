@@ -14349,14 +14349,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204500458" start="20211106040000 +0000" stop="20211106043000 +0000">
-    <title>LEGO Jurassic World: Double Trouble</title>
+    <title>Young Sheldon</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204500458" start="20211106040000 +0000" stop="20211106043000 +0000">
-    <title>Young Sheldon</title>
-    <subtitles type="teletext"/>
+    <title>LEGO Jurassic World: Double Trouble</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42786,6 +42786,56 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211101101249 +0000" stop="20211101112426 +0000">
+    <title>The LA Boys</title>
+    <desc>Find out how four minutes in the film Ban This changed the lives of four teenage skaters in Los Angeles.</desc>
+    <sub-title>Stories from making 1989 skate hit Ban This</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101112426 +0000" stop="20211101114010 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E1</title>
+    <desc>Mani and Paul start the season in Portugal. See how they handled the first stop, which didn’t go as planned.</desc>
+    <sub-title>The path to Portugal</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101114010 +0000" stop="20211101115019 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E2</title>
+    <desc>Manuel Lettenbichler and Paul Bolton both get to go riding – Mani even takes on a different kind of bike.</desc>
+    <sub-title>Motorbikes and bicycles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101115019 +0000" stop="20211101120643 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E3</title>
+    <desc>Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the new Abestone Hard Enduro race.</desc>
+    <sub-title>Taking on a brand new race</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101120643 +0000" stop="20211101122854 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E4</title>
+    <desc>Mani Lettenbichler and Paul Bolton get prepped to face the beast that is Red Bull Romaniacs.</desc>
+    <sub-title>Ripping it up in Romania</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101122854 +0000" stop="20211101125228 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E5</title>
+    <desc>Mani and Paul are in the USA for Red Bull TKO, chatting with drivers, scouting trails and checking out trucks.</desc>
+    <sub-title>Tackling Red Bull TKO</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101125228 +0000" stop="20211101143126 +0000">
+    <title>Mount St. Elias</title>
+    <desc>Three top mountaineers take on a 5,500m (18,000ft) ski descent down one of the steepest peaks in the world.</desc>
+    <sub-title>A ski descent of 'The Man Eater'</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101143126 +0000" stop="20211101144045 +0000">
+    <title>Dual Focus S1E1</title>
+    <desc>Swedish freeskier Jesper Tjäder shares how skateboarding makes him a sharper, more agile ski competitor.</desc>
+    <sub-title>Jesper Tjäder</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101144045 +0000" stop="20211101144854 +0000">
+    <title>Dual Focus S1E2</title>
+    <desc>Canadian snowboarder Sébastien Toutant shares his love of golf, and how it helps develop focus and precision.</desc>
+    <sub-title>Sébastien Toutant</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101144854 +0000" stop="20211101145408 +0000">
+    <title>Dual Focus S1E3</title>
+    <desc>Norwegian snowboarder Marcus Kleveland shares how driving cars fast helps to sharpen his mind and manage risk.</desc>
+    <sub-title>Marcus Kleveland</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211101145408 +0000" stop="20211101151357 +0000">
     <title>Reel Rock S7E1</title>
     <desc>Janja Garnbret has been dominating the climbing competition scene. Can she complete the perfect season?</desc>
@@ -43019,55 +43069,6 @@
     <title>Dual Focus S1E2</title>
     <desc>Canadian snowboarder Sébastien Toutant shares his love of golf, and how it helps develop focus and precision.</desc>
     <sub-title>Sébastien Toutant</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102115454 +0000" stop="20211102120009 +0000">
-    <title>Dual Focus S1E3</title>
-    <desc>Norwegian snowboarder Marcus Kleveland shares how driving cars fast helps to sharpen his mind and manage risk.</desc>
-    <sub-title>Marcus Kleveland</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102120009 +0000" stop="20211102120559 +0000">
-    <title>Dual Focus S1E4</title>
-    <desc>Freeskier Michelle Parker shares how she loves mountain biking around Lake Tahoe, USA, during the off-season.</desc>
-    <sub-title>Michelle Parker</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102120559 +0000" stop="20211102121353 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102121353 +0000" stop="20211102124337 +0000">
-    <title>Human Pinball</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102124337 +0000" stop="20211102132726 +0000">
-    <title>Red Bull Soapbox Race S7E4</title>
-    <desc>Red Bull Soapbox Race returned to Dallas, Texas, for the first time since 2012 and boy did the race deliver.</desc>
-    <sub-title>Dallas, Texas, USA</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102132726 +0000" stop="20211102150748 +0000">
-    <title>And Two If By Sea</title>
-    <desc>Watch the iconic story of sibling rivalry between pro surfers and identical twins CJ and Damien Hobgood.</desc>
-    <sub-title>A tale of adventure, destiny and family</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102150748 +0000" stop="20211102151936 +0000">
-    <title>MX World S3E3</title>
-    <desc>Jeffrey Herlings is one of the greatest riders in the world, but injuries have robbed him of victories.</desc>
-    <sub-title>Making a comeback</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102151936 +0000" stop="20211102153436 +0000">
-    <title>MX World S3E4</title>
-    <desc>Keep up with Jorge Prado as he takes on the best MX riders in the world for his debut season in MXGP.</desc>
-    <sub-title>The rookie steps up</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102153436 +0000" stop="20211102154701 +0000">
-    <title>MX World S3E5</title>
-    <desc>Rene Hofer is the first Austrian this century to represent the most successful team in the MX World Champs.</desc>
-    <sub-title>Making a mark</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102154701 +0000" stop="20211102160159 +0000">
-    <title>MX World S3E6</title>
-    <desc>Can Tom Vialle rise to the challenge and become KTM’s lead rider in MX2?</desc>
-    <sub-title>Whoever flinches, finishes second</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
