@@ -43619,6 +43619,16 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211101043919 +0000" stop="20211101052323 +0000">
+    <title>Red Bull Signature Series S2019E9</title>
+    <desc>For the fourth year in a row, the best motorcycle athletes battle it out in Travis Pastrana's spectacular competition.</desc>
+    <sub-title>Nitro Rallycross</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211101052323 +0000" stop="20211101054910 +0000">
+    <title>Behind the Visor</title>
+    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
+    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211101054910 +0000" stop="20211101055734 +0000">
     <title></title>
     <sub-title>Program information unavailable at this time</sub-title>
@@ -43819,9 +43829,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211101222946 +0000" stop="20211101234010 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211101234010 +0000" stop="20211101235119 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -43876,21 +43886,6 @@
     <title>Get to know the world of street dance</title>
     <desc>Learn about the origins of street dance and discover the styles that have evolved from its humble beginnings.</desc>
     <sub-title>The evolution of the unique dance style</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102055650 +0000" stop="20211102055953 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Italian pilot Dario Costa shares how he prepared to fly through Turkey’s dual Çatalca Tunnels at 250kph.</desc>
-    <sub-title>Preparing the mind and body</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102055953 +0000" stop="20211102061034 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
-    <sub-title>Behind the scenes with Dario Costa</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102061034 +0000" stop="20211102071809 +0000">
-    <title>Red Bull Signature Series S2020E8</title>
-    <desc>The world's best off-road drivers race on the longest, fastest short-course track at Crandon Raceway.</desc>
-    <sub-title>Crandon World Cup</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
