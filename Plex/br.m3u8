@@ -29,6 +29,8 @@
 5e20b730f2f8d5003d739db7-60aecdbf87f9b1002ce12325
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603da0d5d4e466002cdda4d1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ESTV_logo_dark.png",ESTV
 5e20b730f2f8d5003d739db7-603da0d5d4e466002cdda4d1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronews_logo_dark2.png",Euronews
+5e20b730f2f8d5003d739db7-60089d90f682a3002c348299
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronewsespanol_logo_dark2.png",Euronews Español
 5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Extreme_logo_dark.png",Extreme Plus
@@ -160,7 +162,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=480&live=1&app_bundle=com.
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/toon_goggles_samsung.png",Toon Goggles
 5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6041643175c115002dc51259" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png",Toon Goggles en Español
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=gvhUWMVdWmMVsME1zeCj&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=gvhUWMVdWmMVsME1zeCj&custom_7=6041643175c115002dc51259
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=s8nqpLAVktsxqynd5GYu&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=s8nqpLAVktsxqynd5GYu&custom_7=6041643175c115002dc51259
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/truehistory_logo_dark_v2.png",True History
 5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",USA TODAY
@@ -169,6 +171,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.
 5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usweekly_logo_dark.png",Us Weekly TV
 5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60e
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f74cf7dffbe690040689f3b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/venn-logo.png",VENN
+5e20b730f2f8d5003d739db7-5f74cf7dffbe690040689f3b
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6e3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/volty_logo_dark.png",Volty TV
 5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6e3
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",Waypoint TV
