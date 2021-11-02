@@ -36076,6 +36076,7 @@
   </programme>
   <programme channel="tv.320203000301" start="20211106200000 +0000" stop="20211106203000 +0000">
     <title>Small Business Secrets</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -36195,7 +36196,7 @@
     <title>Australia Burns: Silence of the Land</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20211107110000 +0000" stop="20211107120000 +0000">
@@ -36416,11 +36417,12 @@
   <programme channel="tv.320203000301" start="20211108093000 +0000" stop="20211108103000 +0000">
     <title>Chris Packham's Animal Einsteins</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20211108103000 +0000" stop="20211108112500 +0000">
     <title>24 Hours in Emergency</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -39583,7 +39585,7 @@
   <programme channel="tv.320203000304" start="20211106163000 +0000" stop="20211106172500 +0000">
     <title>Anthony Bourdain: Parts Unknown</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211106172500 +0000" stop="20211106173000 +0000">
@@ -39658,7 +39660,7 @@
   <programme channel="tv.320203000304" start="20211106223000 +0000" stop="20211106232500 +0000">
     <title>Anthony Bourdain: Parts Unknown</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211106232500 +0000" stop="20211106233000 +0000">
@@ -39799,13 +39801,13 @@
   <programme channel="tv.320203000304" start="20211107104500 +0000" stop="20211107114000 +0000">
     <title>Anthony Bourdain: Parts Unknown</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211107114000 +0000" stop="20211107123000 +0000">
     <title>Anthony Bourdain: Parts Unknown</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211107123000 +0000" stop="20211107130000 +0000">
@@ -39839,13 +39841,13 @@
   <programme channel="tv.320203000304" start="20211107154500 +0000" stop="20211107164000 +0000">
     <title>Anthony Bourdain: Parts Unknown</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211107164000 +0000" stop="20211107173000 +0000">
     <title>Anthony Bourdain: Parts Unknown</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211107173000 +0000" stop="20211107180000 +0000">
@@ -39932,13 +39934,13 @@
   <programme channel="tv.320203000304" start="20211108004500 +0000" stop="20211108014000 +0000">
     <title>Anthony Bourdain: Parts Unknown</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211108014000 +0000" stop="20211108023000 +0000">
     <title>Anthony Bourdain: Parts Unknown</title>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211108023000 +0000" stop="20211108030000 +0000">
@@ -40012,8 +40014,9 @@
   </programme>
   <programme channel="tv.320203000304" start="20211108080000 +0000" stop="20211108083000 +0000">
     <title>The Cook Up with Adam Liaw</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211108083000 +0000" stop="20211108093000 +0000">
@@ -40043,8 +40046,9 @@
   </programme>
   <programme channel="tv.320203000304" start="20211108110500 +0000" stop="20211108113000 +0000">
     <title>The Cook Up with Adam Liaw</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211108113000 +0000" stop="20211108120000 +0000">
@@ -41385,6 +41389,7 @@
   </programme>
   <programme channel="tv.320203000305" start="20211106190000 +0000" stop="20211106192600 +0000">
     <title>Muso Magic Outback Tracks</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -41570,6 +41575,7 @@
   </programme>
   <programme channel="tv.320203000305" start="20211107190000 +0000" stop="20211107192600 +0000">
     <title>Muso Magic Outback Tracks</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -41594,6 +41600,7 @@
   </programme>
   <programme channel="tv.320203000305" start="20211107203600 +0000" stop="20211107210100 +0000">
     <title>Molly of Denali</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -42313,21 +42320,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211102035015 +0000" stop="20211102053335 +0000">
-    <title>The Longest Wave</title>
-    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
-    <sub-title>Legends take a lifetime</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102053335 +0000" stop="20211102055650 +0000">
-    <title>Get to know the world of street dance</title>
-    <desc>Learn about the origins of street dance and discover the styles that have evolved from its humble beginnings.</desc>
-    <sub-title>The evolution of the unique dance style</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102055650 +0000" stop="20211102055953 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Italian pilot Dario Costa shares how he prepared to fly through Turkey’s dual Çatalca Tunnels at 250kph.</desc>
-    <sub-title>Preparing the mind and body</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211102055953 +0000" stop="20211102061034 +0000">
     <title>Tunnel Pass – extra</title>
     <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
@@ -42448,9 +42440,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102181212 +0000" stop="20211102192235 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102192235 +0000" stop="20211102193344 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -42571,6 +42563,26 @@
     <title>The LA Boys</title>
     <desc>Find out how four minutes in the film Ban This changed the lives of four teenage skaters in Los Angeles.</desc>
     <sub-title>Stories from making 1989 skate hit Ban This</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211103060728 +0000" stop="20211103062312 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E1</title>
+    <desc>Mani and Paul start the season in Portugal. See how they handled the first stop, which didn’t go as planned.</desc>
+    <sub-title>The path to Portugal</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211103062312 +0000" stop="20211103063321 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E2</title>
+    <desc>Manuel Lettenbichler and Paul Bolton both get to go riding – Mani even takes on a different kind of bike.</desc>
+    <sub-title>Motorbikes and bicycles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211103063321 +0000" stop="20211103064944 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E3</title>
+    <desc>Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the new Abestone Hard Enduro race.</desc>
+    <sub-title>Taking on a brand new race</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211103064944 +0000" stop="20211103071156 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E4</title>
+    <desc>Mani Lettenbichler and Paul Bolton get prepped to face the beast that is Red Bull Romaniacs.</desc>
+    <sub-title>Ripping it up in Romania</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
