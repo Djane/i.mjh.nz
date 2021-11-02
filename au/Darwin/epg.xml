@@ -42740,30 +42740,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211101235119 +0000" stop="20211101235933 +0000">
-    <title>Behind the Bullet S1E5</title>
-    <desc>Giving up is not in Jeffrey Herlings's vocabulary, but managing injury is a complex balancing act.</desc>
-    <sub-title>On the limit</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211101235933 +0000" stop="20211102001020 +0000">
-    <title>Behind the Bullet S1E6</title>
-    <desc>Just three weeks after fracturing his shoulder blade in Oss, Jeffrey Herlings drives a convincing first race.</desc>
-    <sub-title>Beyond expectations in Latvia</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102001020 +0000" stop="20211102002703 +0000">
-    <title>Cycling Around the World S1E5</title>
-    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
-    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102002703 +0000" stop="20211102004826 +0000">
-    <title>That’s Caroline</title>
-    <desc>Caroline Marks is just a normal young woman – who also happens to be the face of surfing’s future.</desc>
-    <sub-title>Caroline Marks is the face of surfing’s future</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211102004826 +0000" stop="20211102005620 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211102005620 +0000" stop="20211102012644 +0000">
     <title>Human Pinball</title>
     <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
@@ -42914,9 +42890,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102181212 +0000" stop="20211102192235 +0000">
-    <title>Assembly Required S1E1</title>
-    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
-    <sub-title>Teyana Taylor</sub-title>
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211102192235 +0000" stop="20211102193344 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -43012,6 +42988,11 @@
     <title>Reckless Isolation</title>
     <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
     <sub-title>A new surf film from Stagnant Ambition</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211103012329 +0000" stop="20211103023104 +0000">
+    <title>Red Bull Signature Series S2020E8</title>
+    <desc>The world's best off-road drivers race on the longest, fastest short-course track at Crandon Raceway.</desc>
+    <sub-title>Crandon World Cup</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
